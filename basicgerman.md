@@ -2,7 +2,7 @@
 %mzrxa
 &nbsp;  
 
-## Chapter 3  
+## Unit 3: Ver variations and irregular verbs
 
 ich -e  
 du -st  
@@ -99,4 +99,11 @@ sie googelt
 6. She is taking the underground. &rarr; Sie nimmt der untergrund.
 7. He is wearing a T-shirt. &rarr; Er tragt ein T-shirt.
 
+&nbsp;
+
+## Unit 4: Irregular verbs: **haben** and **sein**
+
+&nbsp;
+
+### Summary
 

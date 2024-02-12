@@ -104,4 +104,26 @@
 
 &nbsp;
 
+1. die Tannen &rarr; der Tan
+2. die Flüsse &rarr; das Fluss
+3. die Bücher &rarr; das Buch
+4. die Übungen &rarr; der Ubung
+5. die Zeiten &rarr; die Zeit
+6. die Bäume &rarr; der Baum
+7. die Arme &rarr; der Arm
+8. die Kinder &rarr; das Kind
+9. die Freundinnen &rarr; die Freundin
+10. die Könige &rarr; der König
+11. die Zeitungen &rarr; die Zeitung
+12. die Länder &rarr; der Land
+13. die Bälle &rarr; der Ball
+14. die Finger &rarr; der Finger
+15. die Mädchen &rarr; die Mädchen
 
+&nbsp;
+
+### Exercise 4
+
+&nbsp;
+
+1. der Mantel
