@@ -139,7 +139,7 @@ Kopfschmerzen haben &rarr; to have a headache &rarr; Sie hat Kopfschmerzen.
 5. Nadine hat ein neues Tablet.
 6. Haben Sie ein Zimmer frei?
 7. Ich habe Hunger.
-8. Susanne und Frank hat eine neue Wohnung.
+8. Susanne und Frank ~hat~ haben eine neue Wohnung.
 
 &nbsp;
 
@@ -150,8 +150,8 @@ Kopfschmerzen haben &rarr; to have a headache &rarr; Sie hat Kopfschmerzen.
 1. Sind Sie Engländer?          - Nein, ich bin aus Australien.
 2. Bist du aus Deutschland?     - Ja, ich komme aus der Nähe bon Bonn.
 3. Seid ihr aus München?        - Nein, wir sind aus Nürnberg.
-4. Was ist Nele von Beruf       - Sie sind Designerin.
-5. Was machen Katrin und Jan    - Beide sind Studenten.
+4. Was ist Nele von Beruf       - Sie ~sind~ ist Designerin.
+5. Was ~machen~ sind Katrin und Jan - Beide sind Studenten.
 6. Was sind deine Hobbys?       - Mein Hobbys sind Musik und Computerspiele.
 7. Wo bist du geboren?          - Ich bin in Düsseldorf geboren.
 8. Wo seid ihr geboren?         - Wir sind beide in den USA geboren.
@@ -272,7 +272,7 @@ some inseparable prefixes:
 6. Nach der Arbeit *kauft* er im Supermarkt *ein*.
 7. Abends *sieht* er manchmal *fern*.
 8. Am Wochenende *geht* er oft *aus*.
-9. Er *schläft* meistens 
+9. Er *schläft* meistens *ein*. 
 
 &nbsp;
 
@@ -296,7 +296,7 @@ some inseparable prefixes:
 2. Die Kinder *räumen* ihr Zimmer *auf*.
 3. Er *kauft* immer im Supermarkt *ein*.
 4. Wir gehen ins Café. *Kommst* du *mit*?
-5. Wann *?!!?!?!*
+5. Wann ~?!!?!?!~ findet statt.
 6. Herr Beckmann liebt TV-Serien. Er *sieht* jeden Tag *fehr*.
 7. Wann *fährt* der nächste Zug nach Hamburg *ab*?
 8. Wir *laden* viele Gäste zu unserer Party *ein*.
@@ -319,6 +319,11 @@ some inseparable prefixes:
 8. Ich stecke die Datei an und drucke die Artikel auf.
 
 
+### Checklist:
 
-
+1. The first part the prefix
+2. It goes to the very end of a sentence or clause
+3. Seperable prefixes incluse ab-, an-, auf-, aus-, ein-, fern, mit-, statt-, vor-, zu-
+4. In a good conventional dictionary it should say 'sep' after the main German entry
+5. Non-separable prefixes include be-, er-, ge-, ven-
 
