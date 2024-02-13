@@ -183,6 +183,142 @@ ich bin, du bist, Sie sind, er/sie/es ist, wir sind, ihr seid, Sie sind, sie sin
 9. Es ist Schwer.
 10. Bonn ist in Deutschland und Salzburg is in Österreich.
 
+&nbsp;
+
+## UNIT 5 - Separable verbs in the present tense
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+abfahren	-	to leave\
+abholen		-	to pick up\
+abwaschen	-	to do the washing up\
+anfangen	-	to start\
+ankommen	-	to arrive\
+anrufen		-	to phone\
+aufhören	-	to stop\
+aufräumen	-	to tidy up\
+aufstehen	-	to get up\
+ausgehen	-	to get out\
+ausschalten	-	to switch off\
+einkaufen	-	to go shopping\
+einladen	-	to invite\
+einschlafen	-	to fall asleep\
+fernsehen	-	to watch television\
+mitbringen	-	to bring along\
+mitkommen	-	to come along\
+mitmachen	-	to join in\
+stattfinden	-	to take place\
+vorbereiten	-	to prepare\
+sich vorstellen	-	to introduce oneself\
+zumachen	-	to close\
+
+&nbsp;
+
+**Prefixes go at the end**
+
+*When a sentence consists of **two main clauses**, the split-off prefix goes to the end of the releveant clause. **Not necessarily at the end of the sentence***
+
+- anfrufen &rarr;       Herr Lobo ruft seine Frau an.
+- aufstehen &rarr;      Nico steht um fünf Uhr morgens auf.
+- ausgehen &rarr;       Yasmin geht jeden Tag aus.
+- gernsehen &rarr;      Die Kinden sehen nicht viel fern.
+- einkaufen &rarr;      Er kauft im Supermarkt ein.
+- stattfinden &rarr;    Das Meeting findet am Montag statt.
+
+|*clause 1*|*clause2*|  |
+|:---------|:--------|:--|
+|Ich stehe auf| un dann früstücke ich| I get up and then I have breakfast.|
+| | | |
+|Herr Carlsen sieht fern| aber seine Kinder lesen.| Mr Carlsen is watching television, but his children are reading|
+
+&nbsp;
+
+**Herr Schuster *schläft* erst um Mitternacht *ein*, aber er *steht* schon um fünf Uhr *auf***
+
+**Verbs can have more than one prefix**
+
+anmachen - to turn/switch on\
+aufmachen - to open\
+ausmachen - to turn/switch off\ 
+mitmachen - to join in\
+nachmachen - to imitate\
+saubermacher - to clean\
+weitermachen - to continue\
+zumachen - to close\
+
+&nbsp;
+
+common separable prefixes:
+- **ab- an- auf- aus- ein- mit- nach- vor- zu- zurück-**
+
+some inseparable prefixes:
+- **be- er- ge- ver-**
+
+&nbsp;
+
+### Exercise 5.1
+
+&nbsp;
+
+1. Jens *steht* um hab acht Uhr *auf*.
+2. Er *fängt* seine Arbeit um neun Uhr *an*.
+3. Mittags *ruft* er seine Freundin *an*.
+4. Er *druckt* am Nachmittag viele Dokumente *aus*.
+5. Um siebzehn Uhr *hört* er mit seiner Arbeit *auf*.
+6. Nach der Arbeit *kauft* er im Supermarkt *ein*.
+7. Abends *sieht* er manchmal *fern*.
+8. Am Wochenende *geht* er oft *aus*.
+9. Er *schläft* meistens 
+
+&nbsp;
+
+### Exercise 5.2
+
+&nbsp;
+
+|aufstehen|s|verlieren|i|abfahren|s|anrufen|s|
+|:--------|-|:--------|-|:-------|-|:------|-|
+|verkaufen|i|fernsehen|s|anhängen|s|stattfinden|s|
+|einladen|s|mitkommen|s|bezahlen|i|erzählen|i|
+|aufräumen|s|früstücken|i|einkaufen|s|besuchen|i| 
+
+&nbsp;
+
+### Exercise 5.3
+
+&nbsp;
+
+1. Herr und Frau Nowitzki *stehen* um sieben Uhr *auf*.
+2. Die Kinder *räumen* ihr Zimmer *auf*.
+3. Er *kauft* immer im Supermarkt *ein*.
+4. Wir gehen ins Café. *Kommst* du *mit*?
+5. Wann *?!!?!?!*
+6. Herr Beckmann liebt TV-Serien. Er *sieht* jeden Tag *fehr*.
+7. Wann *fährt* der nächste Zug nach Hamburg *ab*?
+8. Wir *laden* viele Gäste zu unserer Party *ein*.
+9. Philip *hängt* eine Datei *an*.
+10. Sie hat ein neues Smartphone und *rufen* ihre Freundin *an*.
+
+&nbsp;
+
+### Exercise 5.4
+
+&nbsp;
+
+1. Ich stehe um sechs Uhr auf.
+2. Ich fange meine arbeit um acht Uhr an.
+3. Das Treffen findet am Montag statt.
+4. Wann fährt der Zug ab?
+5. Wann kommt der Zug an?
+6. Die Kinder sehen fehr.
+7. Kommst du an?
+8. Ich stecke die Datei an und drucke die Artikel auf.
+
+
 
 
 
