@@ -338,10 +338,117 @@ some inseparable prefixes:
 &nbsp;
 
 1. Du form:
-    - stem of the verb without ending: komm-en &rarr; komm Komm her!
+    - stem of the verb without ending: komm-en &rarr; komm. Komm her!
     - irregular (du) form:
         - if stem end -d, -t, consonant+m or consonant+n add -e: warten &rarr; wart(+ -e) Warte!
         - stem vowel change = same vowel change in imp: sprechen &rarr; sprich. Sprich leise!
         - stem vowel change a to ä: do not change (use stem): fahren &rarr; fahr. Fahr rechts!
     - separable verbs:
-        - separable  
+        - prefix after the verb or end of clause: mitmmachen &rarr; mach...mit &rarr; Mach bitte mit.
+    - haben and sein:
+        - like regular verbs, form from the stem: hab-en &rarr; hab. Hab Geduld. Be patient. sei-n &rarr; sei. Sei vorichtig. Be careful.
+2. One person formal - Sie form:
+    - just use the infinitive (with Sie after verb): kommen &rarr; Kommen Sie, bitte.
+    - separable verbs:
+        - verbs split as before: anfangen &rarr; Fangen Sie bitte an. Please start.
+    - haben and sein:
+        - just infinitive, but extra e with **sein**: haben &rarr; Hbaen Sie Geduld (be patient). sein &rarr; Seien Sie vorsichtig (be careful).
+3. More than one informally - Ihr form:
+    - add -t to stem: also for haben:
+        - even if -e because stem end -d, -t, consonant+m or consonant+n, add -t (-et)
+        - sein &rarr; seid
+        - separate verbs split prefix
+4. More than one person formal - Sie form:
+    - exactly like Sie singular
+
+&nbsp;
+
+### Exercise 6.1
+
+1. Bringen Sie mir noch einen Safat, bitte.
+2. Öffnen Sie bitte das Fenster.
+3. Warten Sie bitte noch fünf Minuten.
+4. Schicken Sie mir eine SMS.
+5. Kommen Sie herein!
+6. Fangen Sie an!
+7. Seine Sie bitte ruhig. 
+8. Haben Sie ein bisschen Geduld.
+
+&nbsp;
+
+### Exercise 6.2
+
+&nbsp;
+
+1. Bring du mir noch einen Safat, bitte.
+2. Öffne du bitte das Fenster.
+3. Warte du bitte noch fünf Minuten.
+4. Schicke du mir eine SMS.
+5. Komme du herein!
+6. Fange du an!
+7. Sei du bitte ruhig. 
+8. Habe du ein bisschen Geduld.
+
+&nbsp;
+
+### Exercise 6.3
+
+&nbsp;
+
+1. Fahr mit dem Fahrrad.
+2. Geh zu einem Yogakurs.
+3. Sieh weniger fern. 
+4. Ess meh Gemüse.
+5. Lies einen Blog über Gesundheit.
+6. Schläf mehr.
+7. Sei relaxter.
+8. Geh meh aus.
+9. Finde eine bessere Work-Life-Balance.
+
+&nbsp;
+
+### Exercise 6.3
+
+&nbsp;
+
+1. Please start
+    - Geh bitte aus
+    - Gehen Sie bitte aus
+    - Geht bitte aus
+2. Open the window
+    - Öff die fenster
+    - Öffen Sie die fenster
+    - Öfft die fenster
+3. Send me a text message
+    - Schick mir eine SMS 
+    - Schicken Sie mir eine SMS
+    - Schickt mir eine SMS
+4. Be careful
+    - Hab vorsichtig
+    - Sei Sie vorsichtig
+    - Seid vorsichtig
+
+&nbsp;
+
+### Checklist
+
+&nbsp;
+
+1. Du, Sie (one pers form), Ihr, Sie (multi form)
+2. By removing the -en from the stem
+3. Vowel change. Separable. Added -e?
+4. !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
