@@ -139,7 +139,7 @@ Kopfschmerzen haben &rarr; to have a headache &rarr; Sie hat Kopfschmerzen.
 5. Nadine hat ein neues Tablet.
 6. Haben Sie ein Zimmer frei?
 7. Ich habe Hunger.
-8. Susanne und Frank ~hat~ haben eine neue Wohnung.
+8. Susanne und Frank ~~hat~~ haben eine neue Wohnung.
 
 &nbsp;
 
@@ -150,8 +150,8 @@ Kopfschmerzen haben &rarr; to have a headache &rarr; Sie hat Kopfschmerzen.
 1. Sind Sie Engländer?          - Nein, ich bin aus Australien.
 2. Bist du aus Deutschland?     - Ja, ich komme aus der Nähe bon Bonn.
 3. Seid ihr aus München?        - Nein, wir sind aus Nürnberg.
-4. Was ist Nele von Beruf       - Sie ~sind~ ist Designerin.
-5. Was ~machen~ sind Katrin und Jan - Beide sind Studenten.
+4. Was ist Nele von Beruf       - Sie ~~sind~~ ist Designerin.
+5. Was ~~machen~~ sind Katrin und Jan - Beide sind Studenten.
 6. Was sind deine Hobbys?       - Mein Hobbys sind Musik und Computerspiele.
 7. Wo bist du geboren?          - Ich bin in Düsseldorf geboren.
 8. Wo seid ihr geboren?         - Wir sind beide in den USA geboren.
@@ -296,12 +296,12 @@ some inseparable prefixes:
 2. Die Kinder *räumen* ihr Zimmer *auf*.
 3. Er *kauft* immer im Supermarkt *ein*.
 4. Wir gehen ins Café. *Kommst* du *mit*?
-5. Wann ~?!!?!?!~ findet statt.
+5. Wann ~~?!!?!?!~~ findet statt.
 6. Herr Beckmann liebt TV-Serien. Er *sieht* jeden Tag *fehr*.
 7. Wann *fährt* der nächste Zug nach Hamburg *ab*?
 8. Wir *laden* viele Gäste zu unserer Party *ein*.
 9. Philip *hängt* eine Datei *an*.
-10. Sie hat ein neues Smartphone und *rufen* ihre Freundin *an*.
+10. Sie hat ein neues Smartphone und ~~*rufen*~~ ruft ihre Freundin *an*.
 
 &nbsp;
 
@@ -314,9 +314,9 @@ some inseparable prefixes:
 3. Das Treffen findet am Montag statt.
 4. Wann fährt der Zug ab?
 5. Wann kommt der Zug an?
-6. Die Kinder sehen fehr.
-7. Kommst du an?
-8. Ich stecke die Datei an und drucke die Artikel auf.
+6. Die Kinder sehen ~~fehr~~ fern.
+7. Kommst du ~~an~~ mit?
+8. Ich ~~stecke~~ hänge die Datei an und drucke ~~die~~ den Artikel auf.
 
 
 ### Checklist:
@@ -327,3 +327,21 @@ some inseparable prefixes:
 4. In a good conventional dictionary it should say 'sep' after the main German entry
 5. Non-separable prefixes include be-, er-, ge-, ven-
 
+&nbsp;
+
+## Unit 6 - Imperatives
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+1. Du form:
+    - stem of the verb without ending: komm-en &rarr; komm Komm her!
+    - irregular (du) form:
+        - if stem end -d, -t, consonant+m or consonant+n add -e: warten &rarr; wart(+ -e) Warte!
+        - stem vowel change = same vowel change in imp: sprechen &rarr; sprich. Sprich leise!
+        - stem vowel change a to ä: do not change (use stem): fahren &rarr; fahr. Fahr rechts!
+    - separable verbs:
+        - separable  
