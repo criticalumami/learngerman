@@ -57,7 +57,7 @@
 5. Die Reise
 6. Das Album
 7. Die Krankheit
-8. Die Eisen
+8. ~~Die~~ Daser Eisen
 9. Die Schwester
 10. Das Eigentum
 11. Das Appartement
@@ -104,8 +104,8 @@
 
 &nbsp;
 
-1. die Tannen &rarr; der Tan
-2. die Flüsse &rarr; das Fluss
+1. die Tannen &rarr; ~~der Tan~~ die Tanne  
+2. die Flüsse &rarr; ~~das~~ der Fluss
 3. die Bücher &rarr; das Buch
 4. die Übungen &rarr; der Ubung
 5. die Zeiten &rarr; die Zeit
@@ -115,10 +115,10 @@
 9. die Freundinnen &rarr; die Freundin
 10. die Könige &rarr; der König
 11. die Zeitungen &rarr; die Zeitung
-12. die Länder &rarr; der Land
+12. die Länder &rarr; ~~der~~ das Land
 13. die Bälle &rarr; der Ball
 14. die Finger &rarr; der Finger
-15. die Mädchen &rarr; die Mädchen
+15. die Mädchen &rarr; ~~die~~ das Mädchen
 
 &nbsp;
 
@@ -126,4 +126,4 @@
 
 &nbsp;
 
-1. der Mantel
+1. die Mantel
