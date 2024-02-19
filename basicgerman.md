@@ -439,6 +439,125 @@ some inseparable prefixes:
 3. Vowel change. Separable. Added -e?
 4. !
 
+&nbsp;
+
+## Unit 7 - Questions
+
+&nbsp;
+
+### Summary
+
+1. Wh-question: Woher kommen Sie?
+    - wo? where
+    - woher? where from
+    - wohin? where to
+    - wann? when
+    - wie? how/what
+    - wie lange? how long
+    - wie viel? how much
+    - wie viele? how many
+    - wie oft? how often
+    - warum? why
+2. Y/N question: Ist das Ihr handy?
+
+- wie for names and addresses
+
+&nbsp;
+
+### Exercise 7.1
+
+&nbsp;
+
+1. Wie heißen Sie?
+2. Wo wohnen Sie?
+3. Wie ist Ihre E-Mail-Adresse?
+4. Wo arbeiten Sie?
+5. ~~Wie~~ Was sind Sie von Beruf?
+6. ~~Wo~~ Woher kommen Sie eigentlich?
+7. Wie viel kostet das?
+8. Wann beginnt der WOrkshop?
+9. Wie viel Uhr ist es?
+10. ~~Wann~~ Woher kommt der Tennisspieler?
+11. Wohin fahren wir am Sonntag?
+12. Wie viele Einwohner hat Deutschland?
+
+&nbsp;
+
+### Exercise 7.2
+
+&nbsp;
+
+1. Ist das Resterant wirklich sehr billig?
+2. Ist Leon wirklich verheiratet?
+3. Macht Frau Weber wirklich viel Sport?
+4. Kostet Das Smartphone wirklich nur 80 Euro?
+5. Stehen Jennifer und Max wirklich um sechs Uhr auf?
+
+&nbsp;
+
+### Exercise 7.3
+
+&nbsp;
+
+1. ~~Wie heißt du?~~ Wie ist Ihr Name?
+2. Was sind Sie von Beruf?
+3. ~~Wann Sie die Arbeit anfangen?~~ Wann beginnt Ihre Arbeit?
+4. ~~Möchten Sie die Arbeit?~~ Ist die Arbeit interessant?
+5. Haben Sie Kinder?
+6. Sind Sie verheiratet?
+7. ~~Haben Sie Hobbys?~~ Was sind Ihre Hobby? 
+8. Sprechen Sie Spanisch?
+
+&nbsp;
+
+### Exercise 7.4
+
+&nbsp;
+
+1. Was ist dein Name?
+2. Woher kommst du?
+3. Wie ist deine email address?
+4. Wie spät ist es?
+5. Bist du verheiratet?
+6. Hast du Kinder?
+7. Sprichst du Englisch?
+8. Was magst du von Beruf?
+
+&nbsp;
+
+### Exercise 7.4
+
+&nbsp;
+
+1. Wie
+2. First position
+3. Second?
+4. Woher Wohin
+
+&nbsp;
+
+## Unit 8 - Articles
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
