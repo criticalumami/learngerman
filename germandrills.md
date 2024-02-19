@@ -107,7 +107,7 @@
 1. die Tannen &rarr; ~~der Tan~~ die Tanne  
 2. die Flüsse &rarr; ~~das~~ der Fluss
 3. die Bücher &rarr; das Buch
-4. die Übungen &rarr; der Ubung
+4. die Übungen &rarr; der Übung
 5. die Zeiten &rarr; die Zeit
 6. die Bäume &rarr; der Baum
 7. die Arme &rarr; der Arm
@@ -126,4 +126,56 @@
 
 &nbsp;
 
-1. die Mantel
+1. die Mäntel
+2. die Frauen
+3. die ~~Hause~~ Häuser
+4. die Fräulein~~en~~
+5. die Küsten
+6. die ~~Schwimmerinnen~~ NA
+7. die ~~Wägen~~ Wagen
+8. die Lehrer
+9. die ~~Richterinen~~ Richterinnen
+10. die ~~Bleistiften~~ Bleistifte
+11. die Plätz**e**
+12. die Sitten
+13. die ~~Lächen~~ NA
+14. die ~~Näse~~ Nasen
+16. die Lautsprecher
+
+&nbsp;
+
+### Exercise 5 
+
+&nbsp;
+
+1. der Lehrer, der Arbeiter, der Onkel, der Bruder, der Vater, der Buch, der Übung, der Ball, der Baum, der Arm
+2. die Lehrerin, die Ärtzin, die Schwimmerin, die Anwältin, die Freundin, die Länder, die Agentur, die Tasche, die Flasche
+3. das Mädchein, das Fraulein, das Menschlein, das Büchlein, das Eigentum, das Ergebnis
+
+&nbsp;
+
+# 2 - Forming Plurals
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
