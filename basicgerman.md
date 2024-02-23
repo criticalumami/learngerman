@@ -39,7 +39,7 @@ ich heisse
 du heisst  
 Sie heissen  
 er/sie/es heisst  
-wire heissen  
+wir heissen  
 ihr heisst  
 Sie heissen  
 sie heissen  
@@ -475,7 +475,7 @@ some inseparable prefixes:
 5. ~~Wie~~ Was sind Sie von Beruf?
 6. ~~Wo~~ Woher kommen Sie eigentlich?
 7. Wie viel kostet das?
-8. Wann beginnt der WOrkshop?
+8. Wann beginnt der Workshop?
 9. Wie viel Uhr ist es?
 10. ~~Wann~~ Woher kommt der Tennisspieler?
 11. Wohin fahren wir am Sonntag?
@@ -487,7 +487,7 @@ some inseparable prefixes:
 
 &nbsp;
 
-1. Ist das Resterant wirklich sehr billig?
+1. Ist das Restaurant wirklich sehr billig?
 2. Ist Leon wirklich verheiratet?
 3. Macht Frau Weber wirklich viel Sport?
 4. Kostet Das Smartphone wirklich nur 80 Euro?
@@ -540,9 +540,219 @@ some inseparable prefixes:
 
 &nbsp;
 
-### Summary
+### Exercise 8.1
 
 &nbsp;
+
+1. Die Frau kommt aus Brasilien.
+2. Die Idee ist wirklich gut.
+3. Wie heißt der Junge.
+4. Der Mann von Elena ist aus München.
+5. Das Handy ist teuer.
+6. Ist dies das Kind von Tim?
+7. Der Sommer ist jetzt zu Ende.
+8. Die Türkei ist schön.
+10. Was machen das Kinder.
+
+&nbsp;
+
+### Exercise 8.2
+
+&nbsp;
+
+Der die das die ein eine ein -
+
+&nbsp;
+
+### Exercise 8.3
+
+&nbsp;
+
+1. Der Kaffee ist stark.
+2. Das ist ein neues Computerspiel.
+3. Canberra ist die Hauptstadt von Australien.
+4. Ich möchte ein Bier und eine Cola, bitte.
+5. Hannover ist die Stadt in Deutschland.
+6. Das Restaurant ist sehr gut.
+
+&nbsp;
+
+### Exercise 8.4
+
+&nbsp;
+
+1. Die Frau kommt aus Berlin.
+2. Der Kaffee ist lecker.
+3. Das Kind ist sieben Jahre alt.
+4. Die Kinder spielen Fußball.
+5. Er ist Amerikaner.
+6. Er ist ein Lehrer.
+7. Das ist Die Brandenburg Tor. 
+8. Frühling war Kalt.i
+
+&nbsp;
+
+## UNIT 9 - Nouns and Gender
+
+&nbsp;
+
+### Exercise 9.1
+
+&nbsp;
+
+1. Der Montag, Dienstag, Mittwoch, Sonntag
+2. Der Audi, Ferrari, Nissan, Ford
+3. Das Silber, Gold, Eisen, Kupfer
+4. Die Rose, Tulpe, Sonnenblume
+5. Die Tochter, Schwester, Mutter, Cousine
+6. Der Sommer, Frühling, Herbst, Winter
+7. Der Wodka, Champagner, Rotwein, Schnaps
+8. Das Schwimmen, Essen, Tanzen, Joggen
+
+&nbsp;
+
+### Exercise 9.2
+
+&nbsp;
+
+|Noun|Gender|Noun|Gender|Noun|Gender|Noun|Gender|
+|-|-|-|-|-|-|-|-|
+|Bäckerei|f|Auto|n|Flasche|f|Temperatur|f|
+|Lampe|f|Märchen|n|Metzgerei|f|Museum|n|
+|Kirche|f|Emigration|f|Zentrum|n|Religion|f|
+|Liberalismus|m|Nation|f|Demokratie|f|Instrument|n|
+|Zeitung|f|Kino|n|Büro|n|Potenzial|n|
+|Meinung|f|Honig|m|Universität|f|Motor|m|
+|Karte|f|Optimismus|m|Mädchen|n|Natur|f|
+
+&nbsp;
+
+1. masculine:
+    - male persons
+    - days months
+    - seasons
+    - makers of cars
+    - alcoholic drinks
+2. feminine:
+    - female persons
+    - trees and flowers
+    - names of motorbikes and ships
+3. neuter:
+    - young persons
+    - names of hotels and cinemas
+    - most metals
+    - infinitives as nouns
+
+&nbsp;
+
+### Exercise 9.3
+
+&nbsp;
+
+1. Berlin ist eine fantastische Stadt
+2. Das Hotel liegt sehr zentral.
+3. Der Service ist ausgezeichnet und das Essen ist gut.
+4. Die Woche geht so schnell vorbei.
+5. Die Menschen in Berlin sind sehr freundlich.
+6. Heute Abend gehen wir zuerst in ein Konzert und dann in ein Restaurant und feiern unseren letzten Tag in Berlin.
+  
+&nbsp;
+
+### Exercise 9.4
+
+&nbsp;
+
+1. Das E-Auto fährt sehr ökologisch.
+2. Der Tisch und das Regal sind kaputt.
+3. Die Tochter heißt Marina.
+4. Die Rose ist sehr schön.
+5. Die Karte kostet 10 Euro.
+6. Die Jacke ist von Chanel.
+7. Das Bier ist alkoholfrei.
+8. Das Stadtzentrum ist sehr alt.
+9. Ist der VW neu?
+10. Das Mädchen ist elf Jahre alt und der Junge ist sieben.
+11. Die Internetverbindung ist sehr langsam.
+12. Die Grammatik ist manchmal schwer.
+
+&nbsp;
+
+## UNIT 10 - Plural of noun
+
+&nbsp;
+
+### Exercise 10.1
+
+&nbsp;
+
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
