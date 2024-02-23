@@ -80,10 +80,10 @@ sie googelt
 2. Ich komme aus Wien. &rarr; Er kommt aus Wien.
 3. Ich arbeite bei Radio O24. &rarr; Er arbeitet bei Radio O24.
 4. Ich esse zu Mittag meistens Sushi. &rarr; Er isst zu Mittag meistens Sushi.
-5. Ich spreche naturlisch Deutsch, aber auch Englisch und Spanisch. &rarr; Er spricht naturlisch Deutsch, aber auch Englisch und Spanisch.
+5. Ich spreche natürlich Deutsch, aber auch Englisch und Spanisch. &rarr; Er spricht natürlich Deutsch, aber auch Englisch und Spanisch.
 6. Ich lese gern Kriminalromane. &rarr; Er liest gern Kriminalromane.
 7. Ich fahre auch gern Ski und schwimme viel. &rarr; Er fahrt auch gern Ski und schwimme viel.
-8. Ich sehe gern Filme mit Michael Keaton. &rarr; Er sieht gern Gilme mit Michael Keaton.
+8. Ich sehe gern Filme mit Michael Keaton. &rarr; Er sieht gern Filme mit Michael Keaton.
 9. Ich schlafe oft lange. &rarr; Er schlaft oft lange.
 10. Ich reise gern. &rarr; Er risst gerne.
 11. Am Abend treffe ich oft Freunde im Kaffeehaus. &rarr; Am Abend trifft er oft Freunde im Kaffeehaus.
@@ -94,7 +94,7 @@ sie googelt
 1. She reads a book. &rarr; Sie liest ein Buch.
 2. Peter speaks German and English. &rarr; Peter spricht Deutsch und Englisch.
 3. We speak German and Spanish. &rarr; Wir sprachen Deutsch und Spanisch.
-4. Magda likes eating pizza. &rarr; Magda mocht pizza essen.
+4. Magda likes eating pizza. &rarr; Magda möchte pizza essen.
 5. I am meeting Nadine. &rarr; Ich treffe Nadine.
 6. She is taking the underground. &rarr; Sie nimmt der untergrund.
 7. He is wearing a T-shirt. &rarr; Er tragt ein T-shirt.
@@ -123,7 +123,7 @@ Hunger haben &rarr; to be hungry &rarr; Ich habe Hunger.
 Durst haben &rarr; to be thirsty &rarr; Er hat Durst.  
 Zeit haben &rarr; to be free/have time &rarr; Du hast Zeit.  
 Glück haben &rarr; to be lucky &rarr; Sie haben Glück.  
-Langewesle haben &rarr; to be bored &rarr; Wir haben Langeweile.  
+Langeweile haben &rarr; to be bored &rarr; Wir haben Langeweile.  
 Kopfschmerzen haben &rarr; to have a headache &rarr; Sie hat Kopfschmerzen.  
 
 &nbsp;
@@ -685,8 +685,89 @@ Der die das die ein eine ein -
 
 &nbsp;
 
-1. 
+1. die Messer
+2. die Mäntel
+3. die Bücher
+4. die Kühlschränke
+5. die Gläser
+6. die Mütter
+7. die Passwörter
+8. die Regale
+9. die Tassen
+10. die Teppiche
+11. die Zeitungen
+12. die Zimmer
 
+&nbsp;
+
+### Exercise 10.2
+
+&nbsp;
+
+1. Die Tage
+2. Die Kurse
+3. Die Orangensäfte
+4. Die Gäste
+5. Die Schnäpse
+6. Die Tassen
+7. Die Meinungen
+8. Die Städte
+9. Die Bratwürste
+10. Die Schiffe
+11. Die Programme
+12. Die Häuser
+13. Die Bücher
+14. Die Länder
+15. Die Tomaten
+16. Die Hotels
+17. Die Blogs
+18. Die Handys
+19. Die Tweets
+20. Die Sneakers
+
+&nbsp;
+
+### Exercise 10.3
+
+&nbsp;
+
+1. Masculine:
+    . -e 
+    . Umlaut +e
+    . Some without ending
+2. Feminine:
+    . -en -n and sometimes -e 
+    . Umlaut +e 
+    . Some without ending
+3. Neuter:
+    . Umlaut +er
+4. Foreign:
+    . -s
+
+&nbsp;
+
+### Exercise 10.4
+
+&nbsp;
+
+1. Ich möchte zwei Flaschen, Bitte.
+2. Zwei Würste, Bitte.
+3. Die Äpfel sind zu süß.
+4. Er hat zwei Schwestern und drei Brüder.
+5. Sie liest drei Zeitungen.
+6. Das Haus hat vier Zimmer.
+7. Sie spricht fünf Sprachen.
+8. Die Hause sind neu. 
+9. Er hat drei Handys.
+10. Die Partys sind immer interessant.
+
+## UNIT 11 - The Four Case
+
+&nbsp;
+
+### Exercise 11.1
+
+&nbsp;
 
 
 
