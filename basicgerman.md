@@ -662,7 +662,7 @@ Der die das die ein eine ein -
 
 &nbsp;
 
-1. Das E-Auto fährt sehr ökologisch.
+1. Das E Auto fährt sehr ökologisch.
 2. Der Tisch und das Regal sind kaputt.
 3. Die Tochter heißt Marina.
 4. Die Rose ist sehr schön.
@@ -769,21 +769,157 @@ Der die das die ein eine ein -
 
 &nbsp;
 
+. <ins>subject</ins>
+. **accusative**
+. _dative_ 
+
+1. <ins>Der Mann</ins> geht ins Fitnesscenter.
+2. <ins>Er</ins> kauft dem Mädchen ein Eis.
+3. <ins>Herr Schulz</ins> zeigt dem Gast den Garten.
+4. <ins>Der Kellner</ins> bringt dem Mann das Essen. 
+5. Um acht Uhr verlässt <ins>die Nachbarin</ins> das Haus.
+6. Nach dem Essen trinken <ins>die Leute</ins> noch Kaffee. 
+
+&nbsp;
+
+### Exercise 11.2
+
+&nbsp;
+
+1. Ich schenke _der Frau_ **ein Buch**.
+2. Er kauft _dem Mädchen_ **ein Eid**.
+3. Herr Schulz zeigt _dem Gast_ **den Garten**
+4. Der Kellner bringt _dem Mann_ **das Essen**.
+
+&nbsp;
+
+### exercise 11.3
+
+&nbsp;
+
+||accusative||dative||genitive||
+|-|-|-|-|-|-|-|-|
+|masculine|einen|y|einem|y|eines|y|
+|feminine|eine|n|einer|y|einer|y|
+|neuter|ein|n|einem|y|einem|y|
+
+&nbsp;
+
+||accusative||dative||genitive||
+|-|-|-|-|-|-|-|-|
+|masculine|den|y|dem|y|des|y|
+|feminine|die|n|der|y|der|y|
+|neuter|das|n|dem|y|des|y|
+
+&nbsp;
+
+## UNIT 12 - The Nominative Case
+
+&nbsp;
+
+NB: Seinen and werden take the nominative too: Es wird **ein** schöner Tag.
+
+&nbsp;
+
+### Exercise 12.1
+
+&nbsp;
+
+1. Dies ist ein LED Fernseher. Der LED Fernseher kostet 400 Euro.
+2. Dies ist ein  Auto. Das Auto ist ein VW.
+3. Dies ist eine Zeitung. Die Zeitung heißt Die Welt.
+4. Dies ist eine Flasche Bier. Die Flasche kommt aus München.
+5. Dies ist ein Hotel. Das Hotel heißt Maritim.
+6. Dies ist ein Supermarkt. Der Supermarkt heißt Aldi.
+7. Dies sind Studenten. Die Studenten kommen aus Kanada.
+8. Dies sind Trainers. Die Trainers sind neu.
+
+&nbsp;
+
+### Exercise 12.3
+
+&nbsp;
+
+1. Dies ist ein Haus.
+2. Das Haus ist sehr alt.
+3. Der Mann heißt Mario.
 
 
+&nbsp;
+
+## UNIT 13 - The Accusative Case
+
+&nbsp;
+
+. after most verbs
+. after these prepositions:
+    . bis until
+    . durch through
+    . für for
+    . gegen 
+    . ohne without
+    . um 
+
+&nbsp;
+
+### Exercise 13.1
+
+&nbsp;
+
+1. ich brauche eine Lampe.
+2. ich brauche eine Blumenvase.
+3. ich brauche einen Küchentisch.
+4. ich brauche ein Sofa.
+5. ich brauche ein Bücherregal.
+6. ich brauche einen Teppich.
+7. ich brauche einen Kühlschrank.
+8. ich brauche eine Mikrowelle.
+9. ich brauche eine Kaffeemaschine.
+10. ich brauche eine Waschmaschine.
+11. ich brauche ein Handy.
+12. ich brauche einen Camcorder.
 
 
+&nbsp;
+
+### Exercise 13.2
+
+&nbsp;
+
+1. Das Buch ist für einen Freund.
+2. Das Sweatshirt ist für eine Freundin.
+3. Die Sportschuhe sind für meine Schwester.
+4. Die Socken sind für meinen Vater.
+5. Die Lego-Spiele sind für das Kind.
+6. Er ist gegen die Idee.
+7. Ohne der Hund möchte er nicht in den Urlaub fahren.
+8. Er möchte um das ganze Welt fahren.
+
+&nbsp;
+
+### Exercise 13.3
+
+&nbsp;
+
+1. Ich möchte einen Kaffee.
+2. Der Mann kauft den Computer.
+3. Die Frau kauft den Camcorder.
+4. Das Kind liest das Buch.
+5. Das Sweatshirt ist für mein Bruder.
+6. Das Buch ist für meine Schwester.
+7. Wir gehen durch den Park.
+8. Ich brauche eine Kaffeemaschine und eine Mikrowelle.
+9. Ich brauche einen Regenschirm.
+10. Ich bin für die Idee.
 
 
+&nbsp;
 
+## UNIT 13 - The Accusative Case
 
+&nbsp;
 
-
-
-
-
-
-
+ 
 
 
 
