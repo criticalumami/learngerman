@@ -1001,6 +1001,59 @@ NB: Seinen and werden take the nominative too: Es wird **ein** schöner Tag.
 
 &nbsp;
 
+![genetive](genetive_endings.png)
+
+- masculine and neuter -es
+- feminine -er
+- one-syllable neuter and masculine nouns -es, longer ones add -s
+
+- trotz, despite
+- während, during
+- wegen, because of
+- (an)statt, instead of 
+
+- Während seiner Zeit... During this time...
+- Trotz ihres jungen Alters... Despite her young age...
+
+
+&nbsp;
+
+### Exercise 15.1
+
+&nbsp;
+
+1. Das ist das Mountainbike von meinem Sohn.
+2. Das sind die Sportsachen von meiner Frau.
+3. Das ist das Spielzeug von meinemm Kind.
+4. Das ist die Frau von meinem Chef.
+5. Da vorne steht der Scooter von meiner Schwester.
+6. Die Lehrerin von der Englischkurse kommt aus New York.
+7. Der Trainer von unserer Hockeymannschaft ist sehr gut.
+8. Die Meinung von meiner Freunde ist mir sehr wichtig.
+
+&nbsp;
+
+### Exercise 15.2
+
+&nbsp;
+
+1. Das ist der Scooter meines Bruders.
+2. Das ist das Auto meiner Schwester.
+3. Diese sind die Freunde meiner Tochter.
+4. Das ist Paulas Tasche.
+5. Es war Tims Fehlentwicklung.
+
+&nbsp;
+
+## Unit 16 - Personal Pronouns
+
+&nbsp;
+
+
+
+
+
+
 
 
 
