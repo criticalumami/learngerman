@@ -915,81 +915,11 @@ NB: Seinen and werden take the nominative too: Es wird **ein** schöner Tag.
 
 &nbsp;
 
-## UNIT 13 - The Accusative Case
+## UNIT 14 - The Dative Case
 
 &nbsp;
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![dative determiner](dative_determiners.png "dative")
 
 
 
