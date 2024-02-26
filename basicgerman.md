@@ -45,7 +45,7 @@ Sie heissen
 sie heissen  
 
 **Reissen**
-iche reise  
+ich reise  
 du reist  
 Sie reisen  
 er/sie/es reist  
