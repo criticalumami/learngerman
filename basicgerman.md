@@ -1050,6 +1050,164 @@ NB: Seinen and werden take the nominative too: Es wird **ein** schöner Tag.
 &nbsp;
 
 
+![prnouns_akk](pronouns_akk.png)
+
+- durch, through
+- für
+- gegen
+- ohne
+- um, around
+
+&nbsp;
+
+![dat](pronouns_dat.png)
+
+- außer, apart from
+- aus, from
+- bei, at, near
+- gegenüber, opposite
+- mit
+- nach, after, to
+- set, since, for
+- zu, to
+
+- danken
+- gehören, to belong to
+- antworten
+- helfen
+- folgen, to follow
+
+&nbsp;
+
+- The pronoun "man" - 'one, you', refers to people in general: 
+  	- Man tut das nicht. You don't do that. One does not do that.
+	- Man darf hier nicht fotografieren. You are not allowed to take photographs here.
+
+&nbsp;
+
+![summary](personal_pron_summary.png)
+
+&nbsp;
+
+### Did you know?
+
+- Wie geht es dir/Ihnen/euch?
+- Es geht mir gut. I am well.
+- Es tut mir leid. I am sorry.
+- Meine Nase/Mein Bein tut mir weh. My nose/My leg hurts.
+- Mir ist kalt/heiß. I am cold/hot.
+- Gefält fir/Ihnen das T-Shirt? Do you like the T-shirt?
+- Können Sie mir sagen, vieviel Uhr es ist? Can you tell me what time it is?
+
+&nbsp;
+
+### Exercise 16.1
+
+&nbsp;
+
+1. Er kommt aus Bremen.
+2. Sie hat einen neuen Freund.
+3. Es ist neu.
+4. Sie spielen im Park Fußball.
+5. Sie waren teuer.
+6. Sie kostet 7.50 Euro.
+7. Sie hat einen schlechten Tag.
+8. Es heißt Lena.
+9. Er ist Ingenieur von Beruf.
+10. Sie machen Urlaub in einem Wellnesshotel.
+
+&nbsp;
+
+### Exercise 16.2
+
+&nbsp;
+
+1. Ja, ich kaufe es.
+2. Ja, ich kenne ihn.
+3. Ja, ich kenne sie.
+4. Ja, ich habe es.
+5. Ja, ich trinke ihn.
+6. Ja, ich möchte sie.
+7. Ja, ich mag sie.
+8. Ja, ich besuche dich.
+9. Ja, ich besuch euch.
+10. Ja, es geh mir gut.
+
+&nbsp;
+
+### Exercise 16.3
+
+&nbsp;
+
+1. Schenkst du Tina etwas? - Ja, ich schenke ihr Blumen.
+2. Gefällt dir die Party? - Nein, die Party gefällt mir überhaupt nicht.
+3. Kaufst du Matthias ein T-Shirt? - Nein, ich kaufe ihm eine Baseballmütze.
+4. Hilfst du den Kindern? - Ja, ich helfe ihnen.
+5. Kannst du mir helfen? - Ja, ich helfe dir.
+6. Können Sie mir helfen? - Ja, ich helfe Ihnen.
+7. Gehört das Ihnen? - Ja, es gehört mir.
+8. Was bringst du denn Anna und Tina mit? - Ich kaufe ihnen eine Flasche Wein. 
+9. Soll ich euch die Wohnung zeigen? - Ja, zeig sie uns, bitte.
+10. Schickst du uns ein Selfie aus dem Urlaub? - Ja, ich schicke euch ein Selfie.
+
+
+&nbsp;
+
+### Exercise 16.4
+
+&nbsp;
+
+1. Der Kaffee ist gut. Es ist gut.
+2. Die Jacke ist neu. Sie ist neu.
+3. Ist es für mich?
+4. Ich kaufe ihm eine Flasche Wein.
+5. Er schickt ihr ein SMS.
+6. Wie geht es dir? Wie geht es Ihnen.
+7. Mir geht es gut.
+8. Es tut mir leid.
+
+&nbsp;
+
+### Unit 17 - Possesive Adjective
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
