@@ -921,6 +921,98 @@ NB: Seinen and werden take the nominative too: Es wird **ein** schöner Tag.
 
 ![dative determiner](dative_determiners.png "dative")
 
+&nbsp;
+
+- dem der dem den 
+- einem einer einem 
+- meinem meiner meinem meinen
+- keinem keiner keinem keinen
+
+- antworten
+- begegnen, to encounter
+- helfen
+- danken
+- gehören, to belong to
+- gratulieren
+- folge, to follow
+- trauen, to trust
+
+- aus, from. Er kommt aus der Turkei.
+- außer, apart from
+- bei, at neat
+- gegenüber, opposite. Er wohnt gegenüber der Kirche.
+- mit, with by. Ich fahre mit dem Bus.
+- nach, after to. Nach der Arbeit gehe ich einkaufen.
+- seit, since for. Tim studiert seit einem Jahr.
+- von, from
+- zu, to. Wir fahren zu meiner Freundin.
+
+&nbsp;
+
+### Exercise 14.1
+
+&nbsp;
+
+1. Sie gibt dem Großvater ein Buch über Nelson Mandela.
+2. Sie gibt der Mutter einen Strauß Blumen.
+3. Sie gibt dem Vater eine Flasche Wein.
+4. Sie gibt dem Sohn Star-Wars-Tasse.
+5. Sie gibt der Tochter ein Haarband.
+6. Sie gibt dem Baby einen Ball.
+
+&nbsp;
+
+### Exercise 14.2
+
+&nbsp;
+
+1. Er fährt jeden Tag mit dem Auto.
+2. Gegenüber dem Rathaus ist der Stadtpark.
+3. Sie kommt gerade aus der Stadt.
+4. Den neuen Shop gibt es seit einem Jahr.
+5. Vor einer Woche hat sie geheiratet,
+6. Was machst du heute nach der Arbeit.
+7. Sie wohnt bei dem Freund.
+8. Er telefoniert mit dem Handy.
+9. Sie hilft der Frau.
+10. Das gehört dem Mann.
+11. Er dankt den 20 Mitarbeitern.
+12. Wir helfen den Kindern.
+
+&nbsp;
+
+### Exercise 14.3
+
+&nbsp;
+
+1. Sie gibt dem Baby ein Buch.
+2. Paulina kauft dem Kind ein Eis.
+3. Er gibt dem Großvater eine Flasche Wein.
+4. Er folgt dem Mann.
+5. Das iPad gehört dem Fahrer.
+6. Peter hilft dem Mädchen.
+7. Er gibt dem Kinder einen Ball.
+8. Sie kommmt aus der Turkei.
+
+
+&nbsp;
+
+## UNIT 15 - The Genetive Case
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
