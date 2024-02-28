@@ -163,10 +163,76 @@
 &nbsp;
 
 
-
-
-
-
+| singular                 | plural                     | english         |
+|--------------------------|----------------------------|-----------------|
+| das Auto                 | die Autos                  | cars            |
+| das Baby                 | die Babys                  | babies          |
+| das Kino                 | die Kinos                  | movie theathers |
+| der Streik               | die Steiks                 | strike          |
+| das Hotel                | die Hotels                 | hotels          |
+| der Park                 | die Parks                  | parks           |
+|                          |                            |                 |
+| der Lehrer               | die Lehrer                 | teachers        |
+| der Wagen                | die Wagen                  | cars            |
+|                          |                            |                 |
+| der Vater                | die Väter                  | fathers         |
+| der Garten               | die Gärten                 | gardens         |
+| der Mantel               | die Mäntel                 | coats           |
+|                          |                            |                 |
+| der Arm                  | die Arme                   | arms            |
+| der Tisch                | die Tische                 | tables          |
+| der Hund                 | die Hunde                  | dogs            |
+|                          |                            |                 |
+| der Sohn                 | die Söhne                  | sons            |
+| der Stuhl                | die Stühle                 | chairs          |
+| der Kopf                 | die Köpfe                  | heads           |
+|                          |                            |                 |
+| der Bär                  | die Bären                  | bears           |
+| der Mensch               | die Menschen               | people          |
+| der Held                 | die Helden                 | heroes          |
+|                          |                            |                 |
+| der Junge                | die Jungen                 | boys            |
+| der Affe                 | die Affen                  | apes            |
+| der Glaube / der Glauben | die Glauben                | beliefs, faith  |
+|                          |                            |                 |
+| der Student              | der Studenten              | students        |
+| der Soldat               | der Soldaten               | soldiers        |
+| der Komponist            | die Komponisten            | composers       |
+|                          |                            |                 |
+| der Geist                | die Geisters               | spirits         |
+| der Gott                 | die Götter                 | gods            |
+| der Mann                 | die Männer                 | men             |
+| der Wald                 | die Wälder                 | woods           |
+|                          |                            |                 |
+| die Frau                 | die Frauen                 | women           |
+| die Arbeit               | die Arbeiten               | jobs, labors    |
+| die Regel                | die Regeln                 | rules           |
+| die Lampe                | die Lampen                 | lamps           |
+| die Sitte                | die Sitten                 | customs, habits |
+| die Schule               | die Schulen                | schools         |
+|                          |                            |                 |
+| die Bank                 | die Bänke                  | benches         |
+| die Hand                 | die Hände                  | hands           |
+| die Luft                 | die Lüfte                  | airs            |
+| die Nacht                | di Nächte                  | nights          |
+| die Kuh                  | die Kühe                   | cows            |
+| die Stadt                | die Städte                 | cities          |
+|                          |                            |                 |
+| die Mutter               | die Mütter                 | mothers         |
+| die Tochter              | die Töchter                | daughters       |
+| die Schwester            | die Schwestern             | sisters         |
+|                          |                            |                 |
+| die Ärtzin               | die Ärtzinnen              | physicians      |
+| die Studentin            | die Studentinnen           | students        |
+|                          |                            |                 |
+| das Mädchen              | die Mädchen                | girls           |
+| das Röslein              | die Röslein                | little roses    |
+| das Messer               | die Messer                 | knives          |
+| das Mädel                | die Mädel                  | girls           |
+| das Kissen               | die Kissen                 | pillows         |
+| das Einkommen            | (an infinitive, no plural) | income          |
+|                          |                            |                 |
+|                          |                            |                 |
 
 
 

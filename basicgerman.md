@@ -1168,18 +1168,114 @@ NB: Seinen and werden take the nominative too: Es wird **ein** schöner Tag.
 
 &nbsp;
 
-### Unit 17 - Possesive Adjective
+## Unit 17 - Possesive Adjective
 
 &nbsp;
 
+![possessive](poss_adj_ov.png)
 
+![sudmmary](summ_poss.png)
 
+&nbsp;
 
+### Exercise 17.1
 
+&nbsp;
 
+- my mein
+- your (informal) dein
+- your (formal) Ihr
+- his sein
+- her ihr
+- its sein
+- our unser
+- your (informal) euer
+- your (formal) Ihr
+- their ihr
 
+&nbsp;
 
+### Exercise 17.2
 
+&nbsp;
+
+1. Wie ist dein Name? - Mein Name ist Frank Auerbach.
+2. Wie ist deine Telefonnummer? - Meine Telefonnummer ist 888888.
+3. Ist das sein Auto? - Nein, das ist ihr Auto.
+4. Was sind Ihre Hobbys? - Meine Hobbys sind Joggen und Skifahren.
+5. Was sind euer Namen? - Unsere Namen sind Svenja und Boris.
+6. Sind das eure Sportsachen? - Ja, das sind unsere Sportsachen.
+
+&nbsp;
+
+### Exercise 17.3
+
+&nbsp;
+
+1. Tom sucht seine Brille.
+2. Paula sucht ihr Geld.
+3. Mehmet sucht seinen Controllen.
+4. Marion sucht ihren Schal.
+5. Martha sucht ihre SIM-Karte.
+6. Benjamin sucht sein I-Pad.
+7. Peter such seine Schuhe.
+8. Jessica und Pia suchen ihre Pässe.
+
+&nbsp;
+
+### Exercise 17.4
+
+&nbsp;
+
+1. Das ist mein Vater.
+2. Das ist meine Mutter.
+3. Marc sucht seine SIM-Karte.
+4. Susanne sucht ihren Führerschein.
+5. Wir treffen unsere Freunde.
+6. Sebastian spricht mit seiner Mutter.
+7. Arianne spricht mit ihrem Bruder.
+8. Die Kinder sprachen mit ihren Großeltern.
+
+&nbsp;
+
+## Unit 18 - Reflexive Verbs
+
+&nbsp;
+
+- sich amüsieren
+- sich anziehen - to get dressed
+- sich ärgern - to get or to be annoyed
+- sich ausziehen - to get undressed
+- sich bedanken - to say thank you
+- sich beeilen - to hurry (up)
+- sich duschen - to shower
+- sich entscheiden - to decide
+- sich entschuldigen - to apologise
+- sich kämmen - to comb one's hair
+- sich rasieren - to shave
+- sich schminken - to put makeup
+- sich setzen - to sit down
+- sich treffen - to meet
+- sich umziehen - to get changed
+- sich unterhalten - to talk, chat
+- sich verabschieden - to say goodbye
+- sich vortsellen - to introduce onseself
+- sich waschen - to wash oneself to have a wash
+
+### Reflexive Pronouns - Akk
+
+mich, dich, sich, uns, euch, sich
+
+- Ich wasche mich
+- Du wäschst dich
+- Sie waschen sich
+- er/sie/es Wäscht sich
+- Wir waschen uns
+- Ihr wascht euch
+- Sie waschen sich
+- Sie waschen sich
+
+### Reflexive 
 
 
 
