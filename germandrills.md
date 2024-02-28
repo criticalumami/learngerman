@@ -234,6 +234,187 @@
 |                          |                            |                 |
 |                          |                            |                 |
 
+&nbsp;
+
+### Exercise 6
+
+&nbsp;
+
+1. der Vogel - die Vögel
+2. der Spiegel - die Spiegel
+3. der Gärtner - die Gärtner
+4. der Brief - die Brief
+5. der Lehrling - die Lehrlinge
+6. der Physiker - die Physiker
+7. der Laden - die Läden
+8. der Käfig - die Käfige
+9. der Hammer - die Hämmer
+10. der Schuh - die Schuhe
+
+&nbsp;
+
+### Exercise 7
+
+&nbsp;
+
+1. die Maus - die Mäuse
+2. die Schülerin - die Schülerinnen
+3. die Kasse - die Kassen
+4. die Landkarte - die Landkarten
+5. die Hausarbeit - die Hausarbeite
+6. die Macht - die Mächte
+7. die Wurst - wir Würste
+8. die Schwerster - die Schwestern
+9. die Tafel - die Täfeln
+10. die Tanne - die Tännen
+
+&nbsp;
+
+### Exercise 8
+
+&nbsp;
+
+1. das Heft - die Hefte
+2. das Wort - die Wörte
+3. das Hotel - die Hotels
+4. das Kind - die Kinder
+5. das Rad - die Räder
+6. das Gesicht - die Gesichte
+7. das Bein - die Beine
+8. das Blatt - die Blätter
+9. das Büchlein - die Büchlein
+10. das Zimmer - die Zimmer
+
+&nbsp;
+
+### Exercise 9
+
+&nbsp;
+
+1. die Schulen - die Schule
+2. die Lehrer - der Lehrer
+3. die Kinos - das Kino
+4. die Hütten - die Hütte
+5. die Bände - der Band
+6. die Würstchen - das Würstchen
+7. die Eulen - die Eule
+8. die Namer - der Name
+9. die Würmer - der Wurm
+10. die Straßen - die Straß
+11. die Sachen - die Sache
+12. die Läden - die Lade
+13. die Wölfe - der Wolf
+14. die Schweine - das Schwein
+
+
+&nbsp;
+
+### Exercise 10
+
+&nbsp;
+
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
