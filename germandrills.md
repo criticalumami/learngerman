@@ -322,10 +322,15 @@
 &nbsp;
 
 1. sie 
-2. es
+2. ~es~ er
 3. es
 4. sie pl
-5.  
+5. sie
+6. es
+7. sie
+8. sie pl
+9. er
+10. ~sie~ er
 
 
 
