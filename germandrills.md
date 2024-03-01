@@ -332,8 +332,55 @@
 9. er
 10. ~sie~ er
 
+&nbsp;
 
+### Exercise 12
 
+&nbsp;
+
+1. sie
+2. sie
+3. sie
+4. wir
+5. es
+6. sie
+7. sie
+8. er
+9. er
+10. es
+11. sie
+12. sie
+13. er
+14. er
+15. wir
+
+&nbsp;
+
+### Exercise 13
+
+&nbsp;
+
+1. Der Fahrer
+2. Martin
+3. Die Nachbarn
+4. Deine Mutter
+5. Das Kind
+6. Die Lehrerin
+7. Das Buch
+8. Der Jung
+9. Der Beamter
+10. Das Haus
+11. Meine Eltern und ich
+12. Die Flasche
+13. Der Hund
+
+&nbsp;
+
+### Exercise 14
+
+&nbsp;
+
+1. 
 
 
 
