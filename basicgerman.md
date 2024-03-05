@@ -1275,7 +1275,165 @@ mich, dich, sich, uns, euch, sich
 - Sie waschen sich
 - Sie waschen sich
 
-### Reflexive 
+### Reflexive Pronouns (dativ)
+
+- sometimes the pronoun is indirect object:
+	- like when saying what clothes you are putting on
+	- Ich ziehe mich an &rarr; Ich ziehe mir eine Jacke an
+- only dativ example:
+	- sich überlegen: to think something over
+	- sich vornehmen: to intend to do
+- pronouns dativ example:
+	- Ich wasche mir die Haare
+	- Du wäschst dir die Haare
+	- Sie waschen sich die Haare
+	- Er/Sie/Es wäscht sich die Haare
+	- Wir waschen uns die Haare
+	- Ihr wascht euch die Haare
+	- Sie waschen sich die Haare
+	- Sie waschen sich die Haare
+- Sich,uns and euch are the same in dative and accusative
+- Mich/Mir Dich/Dir differ
+
+### Separable verbs
+
+- When a verb is separable, the pronoouon tends to follow the ver and the prefix goes to the end of the sentence or the main clause:
+	- anziehen &rarr; Ich ziehe mich an.
+	- vorstellen &rarr; Er stellt sich dem Publikum vor. He introduces himself to the audience.
+
+### Reflexive and non-reflexive verbs
+
+- most can be used as non reflexive:
+	- Ich wasche das Auto
+	- Ich wasche mich
+- Some only reflexive:
+	- sich beeilen
+	- sich bedanken
+
+### Useful Expressions
+
+- Wasch dir die Hände!		Wash your hands!
+- Ich putze mir die Zähne.	I brush my teeth.
+- Er putzt sich die Nase.	He blows his nose.
+- Sie schminkt sich.		She puts on her make-up
+
+### Exercise 18.1
+
+&nbsp;
+
+| amusieren | r | beeilen  | r | entscheiden   | r | einkaufen   | n |
+| anziehen  | r | sudieren | n | entschuldigen | r | tanzen      | n |
+| ausgehen  | n | duschen  | r | fahren        | n | unterhalten | r |
+| ausziehen | n | arbeiten | n | kämmen        | r | waschen     | r |
+
+&nbsp;
+
+### Exercise 18.2
+
+&nbsp;
+
+1. Er entschuldigt sich bei seiner Freundin.
+2. Das Kind kämmt sich nicht gern.
+3. Ich ärgere mich über die Preise.
+4. Ich ziehe mich um.
+5. Anne zieht sich neues Kleid an.
+6. Die Kinder waschen sich.
+7. Die Spieler duschen sich nach dem Spiel.
+8. Wir beeilen uns.
+9. Wir treffen uns um acht Uhr.
+10. Wir verabschieden uns.
+
+&nbsp;
+
+### Exercise 18.3
+
+&nbsp;
+
+1. Ich wasche mir die Hände.
+2. Putzt du dir heute nicht die Zähne?
+3. Zieh sich etwas Warmes an. Es ist kalt.
+4. Ich wasche mir das Gesicht nur mit Wasser.
+
+&nbsp;
+
+### Exercise 18.4
+
+&nbsp;
+
+1. Ich dusche mich.
+2. Ich putze mir die Zähne.
+3. Ich ziehe mich an.
+4. Ich kämme mich.
+5. Ich ziehe mir eine Jacke.
+6. Ich beeile mich.
+
+&nbsp;
+
+## UNIT 19 - Negatives
+
+&nbsp;
+
+### Exercise 19.1 
+
+&nbsp;
+
+1. Franziska joggt nicht.
+2. Mario ist nicht clever.
+3. Der film ist nicht interessant.
+4. Das Wetter in England ist nicht gut.
+5. Er fotografiert nicht gern.
+6. Nadine macht nicht gern Outdoorsport.
+7. Er fährt nicht gern mit seinem Mountainbike.
+8. Monica kommt nicht aus Österreich.
+9. Er ist nicht verheiratet.
+10. Mia studiert nicht Medizin.
+11. Sie geht heyte nicht ins Konzert.
+12. Er spielt nicht gut Klavier.
+13. Ich habe die App nicht gekauft.
+14. Er hat die E-Mail nicht gelesen.
+
+&nbsp;
+
+### exercise 19.2
+
+&nbsp;
+
+1. Das Team hat kein Glück.
+2. Sie hat keine Geduld.
+3. Er hat im Moment kein Geld.
+4. Elena hat keinen Bruder.
+5. Ich habe keine Zeit.
+6. Das ist kein Problem.
+7. Er ist Veganer und isst kein Fleisch.
+
+&nbsp;
+
+### exercise 19.3
+
+&nbsp;
+
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
