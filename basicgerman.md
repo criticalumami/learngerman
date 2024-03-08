@@ -1412,8 +1412,46 @@ mich, dich, sich, uns, euch, sich
 
 &nbsp;
 
-1. 
+1. Ist das ein Park? &rarr; Nein, das ist kein Park.
+2. Ist das eine Kneipe? &rarr; Nein, das ist keine Kneipe.
+3. Hast du ein Auto? &rarr; Nein, ich habe kein Auto.
+4. Möchtest du einen Kaffee? &rarr; Nein ich möchte keinen Kaffee.
+5. Nein, ich nehme keinen Nachtisch.
+6. Nein, sie hat keine Schwester.
+7. Nein, es hat keinen Wellnessbereich.
+8. Nein, ich habe keine Geschwister.
+9. Nein, ich habe keine Wanderschuhe.
+10. Nein, Freiburg hat keine U-Bahn.
+11. Nein, ich habe keine Zeit.
 
+&nbsp;
+
+### exercise 19.4
+
+&nbsp;
+
+1. Luke doesn't work. &rarr; Luke arbeitet nicht.
+2. The hotel is not beautiful. &rarr; Das hotel ist nicht schön.
+3. The tablet is not cheap. &rarr; Die Tablet ist nicht billig.
+4. Paul doesn't have a mountain bike. &rarr; Paul hat kein Mountainbike.
+5. They don't have a car. &rarr; Sie haben kein Auto.
+6. This is not a good idea. &rarr; Das ist nicht eine gute Idee.
+7. He hasn't got any time. &rarr; Er hat keine Zeit.
+8. She doesn't live in London, but in New York. &rarr; Sie wohnt nicht in London, sondern in New York.
+9. I don't drink coffee, but tea. &rarr; Ich trinke keinen Kaffee, Sondern Tee.
+10. This is not a problem. &rarr; Das ist kein Problem.
+
+&nbsp;
+
+## UNIT 20 - Comparison of adjectives and adverbs
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+. 
 
 
 
