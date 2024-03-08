@@ -1451,23 +1451,231 @@ mich, dich, sich, uns, euch, sich
 
 &nbsp;
 
-. 
+- Comparative: Bigger, cheaper, more expensive
+- Superlative: Biggest, cheapest, most expensive
+
+- English comparative: -er or "more"
+- English superlative: "the" -est or "the most"
+
+#### Formation in German
+
+- German comparative: add -er to the basic form (regardless of how long the adjective is):
+	- billig	&rarr;		Dieser Laptop ist billiger
+	- interessant 	&rarr;		London ist viel interessanter als Paris
+
+- German superlative: add -sten to the adjective and put "am" before it, if the superlative comes after a noun:
+	- billig	&rarr; 		Dieser Laptop ist am billigsten
+
+#### The comparative in detail
+
+- Adding -er:
+	- klein		&rarr;		kleiner
+	- cool		&rarr;		cooler
+	- schnell	&rarr;		schneller
+	- hässlich	&rarr;		hässlicher
+	- langweilig	&rarr;		langweiliger
+	- ökologisch	&rarr;		öokologischer
+- Adding umlaut + -er:
+- most short adjectives with the stem vowel a, o or u also add an umlaut
+	- alt		&rarr;		älter
+	- arm [poor]	&rarr;		ärmer
+	- jung		&rarr;		jünger
+	- groß		&rarr;		größer
+	- kalt		&rarr;		kälter
+	- lang		&rarr;		länger
+	- stark [strong] &rarr;		stärker
+	- warm		&rarr;		wärmer;
+	- Exception:
+		- flach		&rarr;		flacher
+		- klar		&rarr;		klarer
+		- voll		&rarr;		voller
+		- gesund	&rarr;		gesünder
+- Irregular forms:
+	- gut		&rarr;		besser
+	- hoch		&rarr;		höher
+	- if -er -el drop e in comparative:
+		- teuer		&rarr;		teurer
+		- dunkel	&rarr;		dunkler
+- Hoow to say 'than' als:
+	- Berlin ist größer als München
+	- Der Rhein ist länger als die Donau
+
+#### The superlative in more detail
+
+- Adding -sten:
+	- The superlative is formed by adding -sten preceded by am
+	- klein		&rarr;		am kleinsten
+	- cool		&rarr;		am coolsten
+	- schnell	&rarr;		am schnellsten
+	- hässlich	&rarr;		am hässlichsten
+	- langweilig	&rarr;		am langweiligsten
+	- ökologisch	&rarr;		am ökologischsten
+- Adding umlaut + -sten:
+	- most monosyllabic adjectives with stem vowel a, o, u add umlaut
+	- jung		&rarr;		am jüngsten
+	- groß		&rarr;		am größten
+	- lang		&rarr;		am längsten
+	- warm		&rarr;		am wärmsten
+	- Exception:
+		- flach		&rarr;		am flachsten
+		- klar		&rarr;		am klarsten
+		- voll		&rarr;		am vollsten
+- Irregular forms:
+	- gut		&rarr;		am besten
+	- nah		&rarr;		am nächsten [the closest]
+	- hoch		&rarr;		am höchsten
+	- -er -el keep the e:
+		- teuer		&rarr;		am teuersten
+		- dunkel	&rarr;		am dinkelsten
+- Adjectives ending in -d, -t, -s, -z:
+	- usually add extra e before -sten
+	- kalt		&rarr;		am kältesten
+	- kurz		&rarr;		am kürzesten
+	- gesund	&rarr;		am gesündesten
+	- interessant	&rarr;		am interessantesten
+
+#### Comparative and superlative with adverbs
+
+- Adverbs in German:
+	- In English add -ly beautifully
+	- In German most have the same form as adjectives
 
 
 
+- Hana läuft langsam. &rarr; Kira läuft langsamer. &rarr; Paula läuft am langsamsten.
+- Timo singt schlecht. &rarr; Sascha singt schlechter. &rarr; Jan singt am schlechtesten.
+- Das Hardcover kostet wenig. &rarr; Das Paperback kostet weniger. &rarr; Das E-Book kostet am wenigsten.
+
+- Using gern and viel:
+	- Ich trike gern Wasser. &rarr; Ich trinke lieber Kaffee. &rarr; Ich trinke am liebsten Bier.
+	- Björn twittert viel. &rarr; Rania twittert mehr. &rarr; Axel twittert am meisten [the most].
 
 
+- NB:
+	- The examples in this unit relate to comparative and superlative forms FOLLOWING nouns. These forms may change endings when they appear BEFORE a noun.
 
+- Did you know:
+	- another way of making comparison "so ... wie" [as ... as]
+	- Er ist so kalt wie gestern:
+		- It is as cold as yesterday
+	- Er ist so groß wie sein Bruder:
+		- He is as tall as his brother
+	- Der Film ist so gut wie das Buch:
+		- The film is as good as the book
 
+&nbsp;
 
+### Exercise 20.1
 
+&nbsp;
 
+|                  | comparative         | superlative             |
+| klein            | kleiner             | am kleinsten            |
+| langweilig       | langweiliger        | am langweiligsten       |
+| alt              | älter               | am ältesten             |
+| groß             | größer              | am größten              |
+| hoch             | höher               | am höchsten             |
+| interessant      | interessanter       | am interessantesten     |
+| intelligent      | intelligenter       | am intelligentesten     |
+| umweltfreundlich | umweltfreundlichter | am umweltfreundlichsten |
+| gut              | besser              | am bestern              |
+| gern             | lieber              | am liebsten             |
+| viel             | mehr                | am miesten              |
 
+&nbsp;
 
+### Exercise 20.2
 
+&nbsp;
 
+1. Ist der Rhein wirklich länger als die Donau?
+2. Norddeutschland ist flacher als Süddeutschland.
+3. Der Zug ist billiger als das Flugzeug.
+4. Ist das I-Pad teurer als das I-Phone?
+5. Ich finde das Buch interessanter als den Film.
+6. Die neue Castingshow ist langweiliger als die alte.
+7. Auf dem Land ist es ruhiger als in der Stadt.
+8. Heute ist es kälter als gestern.
+9. Das neue Modell ist am ökologischer.
+10. Er lebt jetzt gesünder als früher.
+11. Welcher Berg in Österreich ist am höchsten?
+12. Welche Musik hörst du am liebsten?
+13. Welches Auto ist am umweltfreundlichsten?
+14. Dieser Club ist im Moment am coolsten.
+15. Diese Pizza schmekt am bestern.
 
+&nbsp;
 
+### Exercise 20.3
+
+&nbsp;
+
+1. München ist groß:
+	1. Hamburg ist größer
+	2. Berlin ist am größten
+2. Die Donau ist lang:
+	1. Die Elbe ist länger
+	2. Der Rhein ist am längsten
+3. Salat schmeckt gut:
+	1. Pasta schmeckt besser
+	2. Pizza schmeckt am besten
+4. Tim spricht klar:
+	1. Jan spricht klarer
+	2. Anna spricht am klarsten
+5. Susanne macht viel Sport:
+	1. Nele macht mehr Sport
+	2. Anke macht meisten Sport
+6. Ich trinke gern Kaffee:
+	1. Ich trinke lieber grünen Tee
+	2. Ich trinke am liebsten schwarzen Tee
+7. Portugiesisch ist kompliziert:
+	1. Ungarisch ist komplizierter
+	2. Chinesisch ist am kompliziertesten
+8. Frankfurt ist multikulturell:
+	1. Hamburg ist multikultureller
+	2. Berlin ist am multikulturellsten
+
+&nbsp;
+
+### Exercise 20.4
+
+&nbsp;
+
+1. London ist größer als Paris
+2. Der Rhein ist länger als die Donau
+3. Jan ist älter als Gabriel
+4. Boris ist intelligenter las Moritz
+5. Hannah ist am intelligentesten
+6. Der Zug ist ökologischer als das Flugzeug
+7. Das Buch ist besser als der Film
+8. Tim ist so groß wie sein Bruder
+9. Diese Pizza schmeckt am besten
+
+- Checklist:
+	- -er als
+	- am -sten
+	- same
+	- most monosyllabic
+	- if superlative -d -t -s -z then add -e
+&nbsp;
+
+## UNIT 21 - Modal Verbs
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+- The six modal verbs:
+	- dürfen		may, to be allowed
+	- können		can, to be able to
+	- müssen		must, to have to
+	- sollen		should, to be supposed to, ought to
+	- wollen		to want to
+	- mögen			to like
+- All are quite irregular and often have a stem vowel change in the present tense
+- 
 
 
 
