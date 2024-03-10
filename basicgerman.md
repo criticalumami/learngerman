@@ -1675,7 +1675,7 @@ mich, dich, sich, uns, euch, sich
 	- wollen		to want to
 	- mögen			to like
 - All are quite irregular and often have a stem vowel change in the present tense
-- 
+-
 
 
 
