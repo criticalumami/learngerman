@@ -380,16 +380,120 @@
 
 &nbsp;
 
+1. Man kann nicht jedem gefallen.
+2. In unserem Klassenzimmer spricht man nur Deutsch.
+3. Was man verspricht, das muss man halten.
+4. Hat man an die Tür geklopft?
+5. Warum muss man so lange warten?
+6. Bei grün darf man über die Straße gehen.
+7. Damals war man großzügiger.
+8. Man hat sie davor gewarnt.
+9. Man soll nicht fluchen.
+10. Man wird es schnell vergessen.
+11. Man muss im Wartesaal warten.
+12. Man soll nicht vergessen.
+13. Man steht an der Tür und weint.
+14. Während der Krise war man sie hoffnungslos.
+15. Man darf nicht lachen.
+
+&nbsp;
+
+### Exercise 15
+
+&nbsp;
+
+1. Seine Schwester hat das Geld gefunden:
+	1. Jemand hat das Geld gefunden.
+	2. Niemand hat das Geld gefunden.
+2. Ist mein Bruder da?:
+	1. Ist jemand da?
+	2. Ist niemand da?
+3. Die Lehrerinnen haben etwas zu sagen:
+	1. Jemand hat etwas zu sagen.
+	2. Niemand hat etwas zu sagen.
+4. Der alte Herr hat den roten Sportwagen gekauft:
+	1. Jemand hat den roten Sportwagen gekauft.
+	2. Niemand hat den roten Sportwagen gekauft.
+5. Ich werde dir helfen:
+	1. Jemand wird dir helfen.
+	2. Niemand wird dir helfen.
+6. Frau Schneider hat das Geld verloren:
+	1. Jemand hat das Geld verloren.
+	2. Niemand hat das Geld verloren.
+7. Heute kommen, unsere Verwandten zu Besuch:
+	1. Heute kommt, jemand zu Besuch.
+	2. Heute kommmt, niemand zu Besuch.
+8. Meine Freunde warten an der Ecke:
+	1. Jemand wartet an der Ecke.
+	2. Niemand wartet an der Ecke.
+
+&nbsp;
+
+## 4 - Nominative Case
+
+&nbsp;
+
+### Exercise 16
+
+&nbsp;
+
+1. N
+2. S
+3. S
+4. P
+5. P
+6. S
+7. P
+8. S
+9. N
+10. S
+
+&nbsp;
+
+### Exercise 17
+
+&nbsp;
+
+1. Haben deine Eltern sehr lange darauf gewartet?
+2. War Onkel Franz in Dänemark?
+3. Hast du mit deinem Professor gesprochen?
+4. Ist die junge Krankeschwester eine Bekannte von ihm?
+5. Liegt Hamburg an der Elbe?
+6. Helfen die Brürder einander?
+7. Ist das neue Gebäude in der Hauptstraße ein Museum?
+8. Ist die Brücke ziemlich weit von hier.
+9. Versteht er das nicht?
+10. Waren sie gestern noch in Paris?
+
+&nbsp;
+
+### Exercise 18
+
+&nbsp;
+
+1. Er
+2. Sie
+3. Er
+4. Sie
+5. Er
+6. Sie
+7. Er
+8. Sie
+9. es
+10. Er
+11. Wir
+12. Sie
+13. Er
+14. Sie
+15. Es
+
+&nbsp;
+
+### Exercise 19
+
+&nbsp;
+
 1. 
-
-
-
-
-
-
-
-
-
 
 
 

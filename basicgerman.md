@@ -1675,19 +1675,96 @@ mich, dich, sich, uns, euch, sich
 	- wollen		to want to
 	- mögen			to like
 - All are quite irregular and often have a stem vowel change in the present tense
--
+
+#### Modal verbs in detail
+
+- Dürfen:
+
+	- Sie dürfen hier parken.
+	- Darf ich Ihnen helfen?
+	- Sie dürfen hier nicht parken.
+	- Man darf hier nicht fotografieren.
+
+| ich darf       | wir dürfen |
+| du darfst      | ihr dürft  |
+| Sie dürfen     | Sie dürfen |
+| er/sie/es darf | sie dürfen |
+
+- Können:
+	- Kannst du mir helfen?
+	- Er kann sehr gut kochen.
+
+| ich kann       | wir können |
+| du kannst      | ihr könnt  |
+| Sie können     | Sie können |
+| er/sie/es kann | sie können |
+
+- Müssen:
+	- Ich muss jetzt gehen.
+	- Er muss morgen arbeiten.
+	- Du musst nicht gehen.
+	- Du musst dich nicht entschuldigen.
+	- "You must not" = dürfen + nicht or kein (not muss)
+	- Sie dürfen keine Selfies machen.
+	- Hier dürfen Sie nicht rauchen.
+
+| ich muss       | wir müssen |
+| du musst       | ihr müsst  |
+| Sie müssen     | Sie müssen |
+| er/sie/es muss | sie müssen |
+
+- Sollen:
+	- Sie sollen mehr Sport machen.
+	- Was soll das bedeuten?
+
+| ich soll       | wir sollen |
+| du sollst      | ihr sollt  |
+| Sie sollen     | Sie sollen |
+| er/sie/es soll | sie sollen |
+
+- Wollen [want to]:
+	- Ich will nach New York fliegen.
+	- Sie will etwas essen.
+
+| ich will         | wir wollen |
+| du willst        | ihr wollt  |
+| Sie wollen       | Sie wollen |
+| er/sie/es wollen | sie wollen |
+
+- Mögen / Möchten [to like to, would like to]:
+	- Ich mag Emma Watson.
+	- Er mag Tofu.
+	- Sie mögen Island.
+	- Sie mag Tennis.
+	- Mögen is only used in connection with nouns
+	- Mögen is most often used in its subjunctive form, möchten, would like to.
+	- Möchten is sometimes used without a second verb:
+		- Ich möchte einen Kaffee, bitte.
 
 
+| ich mag       | wir mögen |
+| du magst      | ihr mögt  |
+| Sie mögen     | Sie mögen |
+| er/sie/es mag | sie mögen |
 
 
+| ich möchte       | wir möchten |
+| du möchtest      | ihr möchtet |
+| Sie möchten      | Sie möchten |
+| er/sie/es möchte | sie möchten |
 
+#### Modal verbs used with another verb
 
+- Er kann sehr gut kochen.
+- Ich will nach New York fliegen.
+- Ich kann morgen nicht kommen.
+- Sie will eine neue App kaufen.
+- Kannst du mmir helfen?
+- Darf ich Sie etwas fragen?
+- Ich möchte heute Abend ausgehen. [seperabale verbs don't split]
+- Er muss die Fotos ausdrucken
 
-
-
-
-
-
+#### Overview
 
 
 
