@@ -493,13 +493,158 @@
 
 &nbsp;
 
-1. 
+1. es
+2. sie pl
+3. sie
+4. sie
+5. sie pl
+6. er
+7. es
+8. er
+9. es
+10. sie
+11. er
+12. sie pl
+13. sie
+14. es/sie pl
+15. es/sie pl
+16. es/sie pl
+17. er
+18. er
+19. sie
+20. sie p;
 
+&nbsp;
 
+### Exercise 20
 
+&nbsp;
 
+1. Die Kinder, Kinder, keine Kinder
+2. Das Buch, ein Buch, kein Buch
+3. Der Mensch, ein Mensch, kein Mensch
+4. Die Tische, eine Tische, keine Tische
+5. Die Dame, eine Dame, keine Dame
+6. Die Schule, eine Schule, keine Schule
+7. Der Wecker, ein Wecker, kein Wecker
+8. Der Fluss, ein Fluss, kein Fluss
+9. Die Männer, Männer, keine Männer
+10. Der Theater, ein Theater, kein Theater
+11. Die Übungen, Übungen, keine Übungen
+12. Die Straße, eine Straße, keine Straße
+13. Der Arm, ein Arm, kein Arm
+14. Der Stuhl, ein Stuhl, kein Stuhl
+15. Das Stück, ein Stück, kein Stück
 
+&nbsp;
 
+## 5 - Accusative Case
+
+&nbsp;
+
+- den, einen, keinen
+- direct objects
+- accusative preposition:
+	- bis: till, until, as far as
+	- durch: through, across
+	- entlang: along(side), down (the middle)
+	- für: for
+	- gegen: against
+	- ohne: without
+	- um: around, at (time on a clock)
+	- wider: against, contrary to (usually poetical)
+- **bis** is never followed by an article or other determiner. it tends to be used with proper nouns. in all other instances bis **combines** with other prepositions:
+	- Wir fahren nur **bis** Goslar: We're only traveling as far as Goslar.
+	- Ich bleibe **bis** nächsten Freitag: I'm staying until next Friday.
+	- Sie spazieren **bis zum** Stadtpark: They're strolling as far as the city park.
+	- Ich ging mit ihr **bis an** das Ende der Straße: I went with her up to the end of the street.
+	- Der Weg führte **bis ins** Tal: The lane led as far as the valley.
+- **entlang** always follows the object in the accusatigve prepositional phrase:
+	- Die Feiernden gingen die Straße **entlang**: The revelers went down the street.
+	- Dieser Weg führt den Bach **entlang**: This path goes along the brook.
+- **entlang** is sometimes combined with the preposition **an**:
+	- Dieser Weg führt **am** Fluss **entlang**: This path goes along the river.
+- Ein Mann schwimmt **durch** den Fluss &rarr; A man is swimming across the river.
+- Ich habe ein Geschenk **für** dich &rarr; I have a gift for you.
+- Der Junge
+
+&nbsp;
+
+### Exercise 21
+
+&nbsp;
+
+1. S
+2. S
+3. DO
+4. DO
+5. DO
+6. DO
+7. S
+8. DO
+9. DO
+10. DO
+
+&nbsp;
+
+### Exercise 22
+
+&nbsp;
+
+1. Wer durchziehen die Touristen?
+2. Was schriebt das Kind?
+3. Wen lengte die Mutter aufs Bett?
+4. Was baut man in der Schillerstraße?
+5. Was trinkst du gern?
+6. Wer bringt uns Würsten und Kartoffeln?
+7. We hat ein paar neue Gedichte geschrieben?
+8. Was möchten die Gäste essen?
+9. Für wen hast du die Briefmarken?
+10. Was bäckt herr Schäfer?
+11. Wer hat ein Stein ins Fenster geworfen?
+12. Was fängt seine Tochter mit einer Hand?
+13. Was stand früher an dieser Ecke?
+14. Was wollen die Studenten trinken?
+15. Gegen wen hat ihr Vater gesprochen?
+
+&nbsp;
+
+### Exercise 23
+
+&nbsp;
+
+1. Haben Sie sie verloren? Sie haben die Schlussel verloren.
+2. Meine Tante stellte ihn auf den Tisch. Meine Tante stellte den Hund auf den Tisch.
+3. Ich muss sie unterschreiben. Ich muss die Form unterschreiben.
+4. Die Läufer erreichen es. Die Läufer erreichen das Ende.
+5. Sie hat es in der Bibliothek gelesen. Sie hat das Buch in der Bibliothek gelesen.
+6. Kennst du sie nicht? Kennst du meine Schwester nicht?
+7. Onkel Peter wird uns bald besuchen. Onkel Peter wird Anna und mich besuchen.
+8. Das Hochwasser hat sie zerstört. Das Hochwasser hat die Stadt zerstört.
+9. Ich verstehe ihn überhaupt nicht. Ich verstehe den Lehrer überhaupt nicht.
+10. Die kinder wollen sie trinken. Die kinder wollen die Apfelschorle trinken.
+11. Herr Bauer wird es braten. Herr Bauer wird das Rindfleisch braten.
+12. Habes Sie sie angerufen? Haben Sie Ihre Tochter angerufen?
+13. Ich möchte ihn vorstellen. Ich möchte den Lehrer vorstellen.
+14. Mein Bruder hat ihn noch nicht gekauft. Mein Bruder hat den Bleistift nicht gekauft.
+15. Die jungen Eltern lieben es sehr. Die jungen Eltern lieben das Kind sehr.
+
+&nbsp;
+
+### Exercise 24
+
+&nbsp;
+
+1. für sie
+2. gegen ihn
+3. dagegen
+4. darum
+5. dadurch
+6. ohne sie
+7. um es
+8. dafür
+9. ohne ihn
+10. dadurch
 
 
 
