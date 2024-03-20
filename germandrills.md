@@ -646,7 +646,13 @@
 9. ohne ihn
 10. dadurch
 
+&nbsp;
 
+### Exercise 25
+
+&nbsp;
+
+1. Wir fahren gerade durch
 
 
 
