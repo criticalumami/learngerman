@@ -652,9 +652,15 @@
 
 &nbsp;
 
-1. Wir fahren gerade durch
-
-
+1. Wir fahren gerade durch den Wald. (oder einen tunnel)
+2. Wie viel Uhr ist ese? Um viertel nach zwölf muss ich nach Hause gehen.
+3. Können Sie bis die Schule bleiben?
+4. Ich habe wirklich niichts gegen den Lehrer.
+5. Erik spielt Klavier für seine Kinder.
+6. Warum ist dein Freund ohne uns gekommen?
+7. Ein Vogel flog durch unsere Stadt.
+8. Der arme Mann sorgt und arbeitet für 
+9. 
 
 
 
