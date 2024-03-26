@@ -655,15 +655,124 @@
 1. Wir fahren gerade durch den Wald. (oder einen tunnel)
 2. Wie viel Uhr ist ese? Um viertel nach zwölf muss ich nach Hause gehen.
 3. Können Sie bis die Schule bleiben?
-4. Ich habe wirklich niichts gegen den Lehrer.
-5. Erik spielt Klavier für seine Kinder.
-6. Warum ist dein Freund ohne uns gekommen?
-7. Ein Vogel flog durch unsere Stadt.
-8. Der arme Mann sorgt und arbeitet für 
-9. 
+4. Ich habe wirklich nichts gegen den Lehrer.
+5. Erik spielt Klavier für seinen Kind.
+6. Warum ist dein Freund ohne seinen Mann gekommen?
+7. Ein Vogel flog durch das Fenster.
+8. Der arme Mann sorgt und arbeitet für seinen Sohn.
+9. Wir gehen die Küste etland.
+10. Alle kämpfen gengen den Kapitalist.
+
+&nbsp;
+
+### Exercise 26
+
+&nbsp;
+
+1. Bleibst du eine Woche lang in Paris?
+2. Sie kam letzten Monaten vorbei.
+3. Er ist jede Woche zwei Tage in der Haptstadt.
+4. Wir bleiben deises Jahr in Bremen.
+5. Ich begegnete ihr einen Augenblick zuvor.
+6. Wir fahren nächsten Samstag nach Ulm.
+7. Er arbeitete einen Monate lang in einer Fabrik.
+8. Waren Sie ein paar Monate in Italien?
+9. Benno hat den ganzen Abend auf dem Sofa geschlafen.
+10. Wir haben ihn letzte Woche gesehen.
+
+&nbsp;
+
+## 6 - Dative Case
+
+some dative verbs:
+	 - begegen - meet
+	 - danken
+	 - dienen - serve
+	 - drohen - threaten
+	 - folgen - follow
+	 - gefallen - please, like
+	 - gehören - belong
+	 - glauben - believe
+	 - helfen
+	 - raten - advise
+	 - schaden - harm
+	 - vertrauen - trust
+
+dative prepositions:
+	- aus - out, from
+	- außer - except (for)
+	- bei - by, at
+	- gegenüber - opposite, accross from:
+		- note: gegenüber FOLLOWS pronouns doesn't precede them:
+			- Wer sitzt ihm gegenüber?
+			- Die Kirche ist gegenüber dem Park.
+			- Wir sitzen dem Professor gegenüber.
+	- mit
+	- nach - after
+	- seit - since
+	- von - from, of
+	- zu - to
+
+prepositional adverbs:
+
+| preposition     | perpopsitional adverb | question |
+| (mit) + ihm =   | damit                 | womit?   |
+| (zu) + ihr =    | dazu                  | wozu?    |
+| (aus) + ihnen = | daraus                | woraus?  |
+
+if the prepopsition begins with a vowel add the letter **r** between the prefix and the preposition:
+**aus** becomes **dar~~r~~aus** and **wo~~r~~aus**
+
+impersonal expressions:
+	- es fällt mir ein		it occurs to me
+	- es gefällt dem Mann		the man likes it
+	- es geht der Frau gut		the woman feels well
+	- es gelingt mir		I succeed, I manage (to do something)
+	- es glückt dir			you prosper, you succeed
+	- es genügt dem Studenten	the student is satisfied (with something)
+	- es kommt mir vor		it appears to me
+	- es passt ihr gut		it fits her well
+	- es scheint ihm		it seems to him
+	- es schmeckt mir gut		it tastes good to me
+	- es steht ihr gut		she looks good in it
+not only used with es can be used with almost any singular or plural noun that makes sence in the csentence as subject of these verbs:
+	- Diese Handschuhe gefallen dem Mann
+	- Das Kleid ppasst ihr gut
 
 
+&nbsp;
 
+### exercise 27
+
+&nbsp;
+
+1. der Lehrer		den Lehrer		dem Lehrer
+2. kein Mann		keinen Mann		keinem Mann
+3. die Leute		die Leute		den Leuten
+4. seine Mutter		seine Mutter		seiner Mutter
+5. dein Wagen		deinen Wagen		deinem Wagen
+6. das Heft		das Heft		dem Heft
+7. ein Zimmer		ein Zimmer		einem Zimmer
+8. Tische		Tische			Tischen
+9. keine Tasse		keine Tasse		keiner Tasse
+10. keine Tassen	keine Tassen		keinen Tassen
+11. mein Bruder		meinen Bruder		meinem Bruder
+12. ein Schrank		einen Schrank		einem Schrank
+13. ein Schiff		ein Schiff		einem Schiff
+14. ihre Geschwister	ihre Geschwister	ihren Geschwister
+15. die Gäste		die Gäste		den Gästen
+
+NB: Nouns in the dative plural must have an **-n** ending:
+	- Mit die Kinder
+	- Mit den Kindern
+
+&nbsp;
+
+### exercise 28
+
+&nbsp;
+
+1. 
 
 
 
