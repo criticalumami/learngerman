@@ -1766,8 +1766,82 @@ mich, dich, sich, uns, euch, sich
 
 #### Overview
 
+|           | dürfen | können | müssen | sollen | wollen | mögen |
+|-----------|--------|--------|--------|--------|--------|-------|
+| ich       | darf   | kann   | muss   | soll   | will   | mag   |
+| du        | darfst | kannst | musst  | sollst | willst | magst |
+| Sie       | dürfen | können | müssen | sollen | wollen | mögen |
+| er/sie/es | darf   | kann   | muss   | soll   | will   | mag   |
+| wir       | dürfen | können | müssen | sollen | wollen | mögen |
+| ihr       | dürft  | könnt  | müsst  | sollt  | wollt  | mögt  |
+| Sie       | dürfen | können | müssen | sollen | wollen | mögen |
+| sie       | dürfen | können | müssen | sollen | wollen | mögen |
 
+&nbsp;
 
+### Exercise 21.1
+
+&nbsp;
+
+- ich darf, du darfst, Sie dürfen, er/sie/es darf, wir dürfen, ihr dürft, Sie dürfen, sie dürfen.
+- ich kann, du kannst, Sie können, er/sie/es kann, wir können, ihr könnt, Sie können, sie können.
+- ich muss, du musst, Sie müssen, er/sie/es muss, wir müssen, ihr müsst, Sie müssen, sie müssen.
+- ich soll, du sollst, Sie sollen, er/sie/es soll, wir sollen, ihr sollt, Sie sollen, sie sollen.
+- ich will, du willst, Sie wollen, er/sie/es will, wir wollen, ihr wollt, Sie wollen, sie wollen.
+- ich mag, du magst, Sie mögen, er/sie/es mag, wir mögen, ihr mögt, Siw mögen, sie mögen.
+
+&nbsp;
+
+### Exercise 21.2
+
+&nbsp;
+
+1. Ich kaann gut Ski fahren.
+2. Kannst du mir eine SMS schicken?
+3. Er kann am Freitag nicht arbeiten.
+4. Könnt ihr bitte ein bisschen leise sein?
+5. Wir können uns nächstes Wochenende treffen.
+6. Marion kann sehr gut kochen.
+
+&nbsp;
+
+### Exercise 21.3
+
+&nbsp;
+
+1. Draf ich Sie etwas fragen?
+2. Hier darf man nicht parken.
+3. Kinder dürfen die Baustelle nicht betreten.
+4. Mein Arzt sagt, ich soll mehr joggen.
+5. Musst du immer so spät nach Hause kommen?
+6. Ich möchte noch einen Tee, bitte.
+7. Er will mit dem Fahrrad fahren.
+8. Wollt ihr uns nicht mal besuchen?
+9. Kann man hier gut essen gehen?
+10. Ich will aam Wochenende einen Ausflug machen.
+11. Möchtet ihr ein Eis essen?
+12. Er soll ein neues Smaratpphone kaufen.
+13. Können Sie mir helfen?
+14. Du sollst nicht so viel Zeit vor dem Bildschirm verbringen.
+15. Hier müssen Sie langsam fahren.
+16. Kannst du das bitte wiederholen.
+
+&nbsp;
+
+### Exercise 21.4
+
+&nbsp;
+
+1. Ich kann sehr gut kochen.
+2. Er will gesünder leben.
+3. Sie soll mehr Sport machen.
+4. Wir möchten bezahlen.
+5. Ich mag Berlin.
+6. Ich möchte einen Kaffee, bitte.
+7. Kannst du mir helfen? Können Sie mir helfe?
+8. Darf ich dir etwas fragen? Darf ich Ihr etwas fragen?
+9. Ich muss einkafen gehen.
+10. Du musst nicht hier praken. Sie müssen hier nicht parken.
 
 
 
