@@ -772,7 +772,85 @@ NB: Nouns in the dative plural must have an **-n** ending:
 
 &nbsp;
 
-1. 
+1. Was hast du deinem Freund geschickt?:
+	1. Was hast du deinem Bruder geschickt?
+	2. Was hast du deiner Tanten geschickt?
+	3. Was hast du meinen Eltern geschickt?
+	4. Was hast du dem Mädchen geschickt?
+	5. Was hast du deiner Freundin geschickt?
+
+2. Ich möchte mit herrn Schneider sprechen:
+	1. Ich möchte mit meiner Lehrerin sprechen
+	2. Ich möchte mit den Schülern sprechen
+	3. Ich möchte euch sprechen
+	4. Ich möchte ihnen sprechen
+
+3. Niemand kann uns helfen:
+	1. Niemand kann mir helfen
+	2. Niemand kann ihm helfen
+	3. Niemand kann der Frau helfen
+	4. Niemand kann den Touristen helfen
+	5. Niemand kann dem Verbrecher helfen
+
+&nbsp;
+
+### exercise 29
+
+&nbsp;
+
+1. Ich habe einen Brief [a.] zu Erik bekommen
+2. [d.] Nach einem Mann wurden alle gerettet
+3. Im Bus steht man vielen Menschen [a.] gegenüber
+4. Sie ist [d.] seit vier Wochen in München
+5. Sie fragen [c.] mit dem Weg in die Berge
+6. Was liegt auf dem Boden [b.] um der Tür
+7. Ist dein Ring [a.] ohne Gold
+8. [a.] Mit wem sind sie spazieren gegangen
+9. Gudrun wird [a.] nach ihren Verwandten wohnen
+10. Er zieht die Uhr [a.] aus seiner Tasche
+
+&nbsp;
+
+### exercise 30
+
+&nbsp;
+
+1. Hast du mit [a.] ihnen gesprochen?
+2. Ich fahre aufs Land zu [d.] meinem Bruder.
+3. Die Sportler kommen aus [d.] ihren Keller.
+4. Niemand hat sie außer [a.] ihrer Tante gesehen.
+5. Bei [d.] wem hat er gewohnt?
+6. Er hat seine Mutter seit [a.] zwei Jahren nicht gesehen.
+7. Ich glaube [a.] dir nicht.
+8. Sie kamen nach [b.] dem Frühstuck.
+9. Wird einer von [b.] mir mitkommen?
+10. Das wird [b.] keinem Menschen helfen.
+
+&nbsp;
+
+### exercise 31
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
