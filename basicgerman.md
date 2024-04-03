@@ -2062,10 +2062,103 @@ S = Sein
 
 &nbsp;
 
+### Regular Verbs
 
+&nbsp;
 
+|           |       | mach-en  | spiel-en  | kauf-en  |
+| ich       | -te   | machte   | spielte   | kaufte   |
+| du        | -test | machtest | spieltest | kauftest |
+| Sie       | -ten  | machten  | spielten  | kauften  |
+| er/sie/es | -te   | machte   | spielte   | kaufte   |
+| wir       | -ten  | machten  | spielten  | kauften  |
+| ihr       | -tet  | machtet  | spieltet  | kauftet  |
+| Sie       | -ten  | machten  | spielten  | kauften  |
+| sie       | -ten  | machten  | spielten  | kauften  |
 
+- Gestern kaufte ich eine neue App.
+- Am Samstag spielten sie Fußball.
+- Als Kind wohnte er in Berlin.
 
+&nbsp;
+
+### Irregular Verbs
+
+&nbsp;
+
+vowel change often
+ending same as present except for ich er/sie/es (no ending)
+
+|           |     | seh-en | schreib-en | geh-en |
+| ich       | -   | sah    | schrieb    | ging   |
+| du        | -st | sahst  | schriebst  | gingst |
+| Sie       | -en | sahen  | schieben   | gingen |
+| er/sie/es | -   | sah    | schrieb    | ging   |
+| wir       | -en | sahen  | schrieben  | gingen |
+| ihr       | -t  | saht   | schriebt   | gingt  |
+| Sie       | -en | sahen  | schrieben  | gingen |
+| sie       | -en | sahen  | schrieben  | gingen |
+
+- Gestern sah ich einen Film
+- Er schrieb eine SMS
+- Sie gingen ins Café
+
+### Mixed Verbs
+
+Change stem but end in -te like regular verbs
+
+bringen &rarr; brachte
+denken &rarr; dachte 
+kennen &rarr; kannte (to know - aquainted with)
+wissen &rarr; wusste (to know - a fact)
+
+### Watch out for
+
+- spelling:
+	- stems end in -t -n -d need extra e
+- separable verbs:
+	- prefix goes to end:
+		- aufstehen &rarr; Ich stand um sechs Uhr auf. (i got up at six)
+		- hochladen &rarr; Er lud die Fotos hoch. (he uploaded the photos)
+
+### Haben, sein and modal verbs
+
+|           | haben   | sein  |
+| ich       | hatte   | war   |
+| du        | hattest | warst |
+| Sie       | hatten  | waren |
+| er/sie/es | hatte   | war   |
+| wir       | hatten  | waren |
+| ihr       | hattet  | wart  |
+| Sie       | hatten  | waren |
+| sie       | hatten  | waren |
+
+- Ich hatte keine Zeit
+- Er hatte schrecklichen Hunger
+- Er war letztes Jahr in London
+- Wo wart ihr denn? where were you
+
+- modal verbs behave similarly to mixed verbs
+
+|           | dürfen   | können   | müssen   | sollen   | wollen   | mögen    |
+| ich       | durfte   | konnte   | musste   | sollte   | wollte   | mochte   |
+| du        | durftest | konntest | musstest | solltest | wolltest | mochtest |
+| Sie       | durften  | konnten  | mussten  | sollten  | wollten  | mochten  |
+| er/sie/es | durfte   | konnte   | musste   | sollte   | wollte   | mochte   |
+| wir       | durften  | konnten  | mussten  | sollten  | wollten  | mochten  |
+| ihr       | durftet  | konntet  | musstet  | solltet  | wolltet  | mochtet  |
+| Sie       | durften  | konnten  | mussten  | sollten  | wollten  | mochten  |
+| sie       | durften  | konnten  | mussten  | sollten  | wollten  | mochten  |
+
+- Er konnte nicht kommen
+- Wir mussten arbeiten
+- Ich wollte ihr mailen
+
+&nbsp;
+
+### Exercise 23.1
+
+&nbsp;
 
 
 
