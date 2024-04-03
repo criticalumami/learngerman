@@ -2160,11 +2160,75 @@ wissen &rarr; wusste (to know - a fact)
 
 &nbsp;
 
+Nun *war* das arme Kind in dem großen Wald ganz allein. Da *hatte* es große Angst.
+Es *wusste* nicht, wo es *war* und *fing* an zu laufen, bis es bald Abend *wurde*.
+Da *sah* es ein klein Häuschen und *ging* hinein. In dem Haus *war* alles klein:
+Da *stand* ein Tisch mit sieben kleinen Tellern. Außerdem *gab* es sieben Messer und Gabeln
+und sieben Becher. An der durstig *war*, aß von jedem Teller ein wenig Gemüse und Brot und
+*trank* aus jedem Becher einen Tropfen Wein. Dann, weil es so müde *war*, *legte* es 
+sich in ein Bett, aber keins *passte*; das eine *war* zu lang, das andere zu kurz, 
+bis endlich dasa siebente recht *war* - und darin *blieb* es liegen, *dachte* an den lieben 
+Gott und *schlief* ein.
+
+&nbsp;
+
+| regular verbs      | irregular verbs               | mixed verbs          |
+| pass &rarr; passte | war &rarr; sein               | wusste &rarr; wissen |
+| legte &rarr; legen | hatte &rarr; haben            | dachte &rarr; denken |
+|                    | ging &rarr; gehen             |                      |
+|                    | fing an &rarr; anfangen       |                      |
+|                    | trank &rarr;  trinken         |                      |
+|                    | wurde &rarr; werden           |                      |
+|                    | sah &rarr; sehen              |                      |
+|                    | schlief an &rarr; einschlafen |                      |
+|                    | stand &rarr; stehen           |                      |
 
 
+&nbsp;
 
+### Exercise 23.2
 
+&nbsp;
 
+|           | spielen   | kaufen   | wohnen   |
+| ich       | spielte   | kaufte   | wohnte   |
+| du        | spieltest | kauftest | wohntest |
+| Sie       | spielten  | kauften  | wohnten  |
+| er/sie/es | spielte   | kaufte   | wohnte   |
+| wir       | spielten  | kauften  | wohnten  |
+| ihr       | spieltet  | kauftet  | wohntet  |
+| Sie       | spielten  | kauften  | wohnten  |
+| sie       | spielten  | kauften  | wohnten  |
+
+&nbsp;
+
+### Exercise 23.3
+
+&nbsp;
+
+1. Ich bliebte eine Woche in Prag.
+2. Sahst du das Fußballspiel im Fernsehen?
+3. Luke und Sybille gingen gestern in den Wellnessclub.
+4. Nach dem Essen tranken wir noch Kaffee.
+5. Frau Schneider fuhrte das erste Mal nach Schottland.
+6. Er schrieb eine SMS an seine Freundin.
+7. Das wusste ich nicht.
+8. Da brachte der Kellner noch einen Nachtisch.
+
+&nbsp;
+
+### Exercise 23.4
+
+&nbsp;
+
+1. Gestern spielte ich Tennis.
+2. Ich kaufte eine Tasse Kaffee.
+3. Als Kind lebte ich in Frankfurt.
+4. Ich ging ins Kino.
+5. Wir blieben eine Woche.
+6. Es war letztes Jahr.
+7. Ich stand um acht Uhr auf.
+8. Ich wollte kommen, aber ich hatte keine Zeit.
 
 
 
