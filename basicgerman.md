@@ -1843,6 +1843,337 @@ mich, dich, sich, uns, euch, sich
 9. Ich muss einkafen gehen.
 10. Du musst nicht hier praken. Sie müssen hier nicht parken.
 
+&nbsp;
+
+## UNIT 22 - The Present Perfect Tense
+
+&nbsp;
+
+### Regular Verbs
+
+&nbsp;
+
+Formation:
+	- The present perfect tense of regulra verbs (weak verbs) is contructed using the present tense of **haben** + past participle.
+	- participle = ge + stem + t
+	- stem + en &rarr; ge + stem + t
+	- kauf-en &rarr; ge-kauf-t
+	- spiel-en &rarr; ge-spiel-t
+	- sag-en &rarr; ge-sag-t
+
+**Haben** is the finite verb:
+	- ich habe gespielt
+	- du hast gespielt
+	- Sie haben gespielt
+	- er/sie/es hat gespielt
+	- wir haben gespielt
+	- ihr habt gespielt
+	- Sie haben gespielt
+	- sie haben gespielt
+
+Word order:
+	- haben second, pp last
+
+&nbsp;
+
+### Irregular verbs
+
+&nbsp;
+
+Formation:
+	- Irregular verbs (strong) form their past participle in most cases by adding **ge-** to the beginning and **-en** to the end
+	- stem + en &rarr; ge + stem + en
+	- les-en &rarr; ge-les-en
+	- schlaf-en &rarr; ge-schlaf-en
+	- seh-en &rarr; ge-seh-en
+	- majority have vowel change
+	- find-en &rarr; ge-fund-en
+	- helf-en &rarr; ge-holf-en
+	- schreib-en &rarr; ge-schrieb-en
+	- trink-en &rarr; ge-trunk-en
+	- nehm-en &rarr; ge-nomm-en
+
+Mixed verbs:
+	- stem vowel change like irregular but add **-t**
+	- bring-en &rarr; ge-brach-t
+	- denk-en &rarr; ge-dach-t
+	- wiss-en &rarr; ge-wuss-t
+
+&nbsp;
+
+### The Present Perfect Tense with Sein
+
+&nbsp;
+
+Verbs of motion take **sein**:
+	- verbs of motion indicating movement
+	- verbs expressing state change
+	- fahren &rarr; to go to drive &rarr; Ich bin nach München gefahren
+	- fliegen &rarr; to fly &rarr; Bist du mit Easyjet geflogen
+	- gehen &rarr; to go to walk &rarr; Er ist zu Fuß gegangen
+	- kommen &rarr; to come &rarr; Er ist u spät gekommen
+	- schwimmen &rarr; to swim &rarr; Sie ists zwei Kilometer geschwommen
+	- wachsen &rarr; to grow &rarr; Du bist aber gewachsen!
+	- reisen &rarr; to travel &rarr; Wir sind früher viel gereist
+	- joggen &rarr; to jog &rarr; Er ist im Parkk gejoggt
+	- bleiben &rarr; gebleiben to stay
+	- sterben &rarr; gestorben to die
+	- werden &rarr; geworden to become
+
+Haben &rarr; gehabt
+Sein &rarr; gewesen
+
+#### Verbs with inseperable prefix
+
+be- er- ver- zer- do not put **ge-**:
+	- Er hat dass Essen bezahlt
+	- Wir haben das Auto verkauft
+	- Ich habe meinen Terminkkalender verloren
+verbs ending with -ieren do not add **ge-**:
+	- Er hat in Berlin studiert
+	- Was ist passiert
+
+&nbsp;
+
+### Separable Verbs
+
+&nbsp;
+
+| regular                           | irregular                         |
+| prefix + **ge** + stem + t        | prefix + **ge** +stem + en        |
+| aufmach-en &rarr; auf-ge-mach-t   | aufsteh-en &rarr; auf-ge-stand-en |
+| einkauf-en &rarr; ein-ge-kauf-t   | fernseh-en &rarr; fern-ge-seh-en  |
+
+- Hast du den Brief aufgemacht? (opened)
+- Sie haben online eingefkauft
+- Wann bist du aufgesstanden? (to get up)
+- Ich habe am Abend ferngesehen
+
+&nbsp;
+
+### Exercise 22.1
+
+&nbsp;
+
+I = Irregular Past Participle
+S = Sein
+
+| arbeiten |    | hören  | I  | nehmen    | I  | sprechen | I  |
+| bleiben  | IS | kaufen |    | schreiben | I  | stehen   | I  |
+| essen    | I  | kommen | IS | schwimmen | IS | treffen  | I  |
+| fahren   | I  | lesen  | I  | sehen     | I  | trinken  | I  |
+| gehen    | IS | machen |    | spielen   |    | wohnen   |    |
+
+&nbsp;
+
+### Exercise 22.2
+
+&nbsp;
+
+1. Er hat bis zwanzig Uhr gearbeitet.
+2. Ich habe gestern ein Konzert gehört.
+3. Paula hat eine neue Jacke gekauft.
+4. Was haben Sie gesagt?
+5. Wir sind lange auf den Bus gewartet.
+6. Was hast du am Wochenende gemacht.
+7. Ina hat etwas Neues gepostet.
+8. Er hat sehr viel eingekauft.
+9. Ich habe das Fenster zugemacht.
+10. Nada und David haaben beide in Heidelberg studiert.
+11. Er hat mit seiner Karte bezahlt.
+12. Hast du deine SMS gecheckt.
+
+&nbsp;
+
+### Exercise 22.3
+
+&nbsp;
+
+1. Ich habe ein Croissant mit Marmelade gegessen
+2. Ich habe Jaasmintee getrunken
+3. Ich habe die Zeitun gelesen
+4. Ich bin mit dem Fahrrad zur Arbeit gefahren
+5. Ich fhabe E-Mails geschrieben
+6. Ich habe mit Kunden gesprochen
+7. Ich habe um halb sieben gejoggt
+8. Ich habe um acht Uhr einen Freund getroffen
+9. Wir sind in ein Restaurant gegangen
+10. Ich bin um elf Uhr zu Haus gewesen
+11. Ich habe einen Clip auf Youtube gesehen
+12. Ich bin um Mitternacht ins Bett gegangen
+13. Ich habe gleich geschlafen
+
+&nbsp;
+
+### Exercise 22.4
+
+&nbsp;
+
+1. Maya hat bis neun Uhr gearbeitet:
+	1. du hast bis neun Uhr gearbeitet
+	2. Sie haben bis neun Uhr gearbeitet
+	3. ihr hatt bis neun Uhr gearbeitet
+2. Er hat einen T-shirt gekauft:
+	1. du hast einen
+	2. Sie haben einen
+	3. ihr hatt
+3. sie hat in Berlin studiert:
+	1. du hast
+	2. Sie haben
+	3. ihr hat
+4. sie haben online bezahlt:
+	1. du hast
+	2. Sie haben
+	3. ihr hat
+5. sie haben ferngesehen:
+	1. du hast
+	2. Sie haben
+	3. ihr hat
+6. er ist zum restaurant gegangen:
+	1. du bist
+	2. Sie sind
+	3. ihr ist
+7. Wann hast du aufgestanden:
+	1. wann hast du aufgestanden
+	2. wann haben Sie aufgestanden
+	3. wann hatt ihr aufgestanden
+8. was hast du gestern gemacht:
+	1. was hast du gestern gemacht
+	2. was haben Sie
+	3. was hatt ihr
+9. was ist passiert
+10. er hat ein photo gepostet:
+	1. du hast
+	2. Sie haben
+	3. ihr hatat
+
+#### Checklist
+
+1. to express the past in spoken
+2. haben + pp
+3. fahren, laufen, gehen, bleiben, liegen,
+4. regular: ge-stem-t irregular ge-stem-en
+5. last
+
+
+&nbsp;
+
+## UNIT 23 - The Simple Past Tense
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
