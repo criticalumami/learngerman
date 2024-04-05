@@ -2230,8 +2230,102 @@ Gott und *schlief* ein.
 7. Ich stand um acht Uhr auf.
 8. Ich wollte kommen, aber ich hatte keine Zeit.
 
+- written german
+- stem + te,test,ten,te,ten,tet,ten,ten
+- vowel change
+- like present but ich and er/sie/es no ending
+- haben sein and modal verbs
 
+&nbsp;
 
+## UNIT 24 - The Future Tense
+
+&nbsp;
+
+### Exercise 24.1
+
+&nbsp;
+
+- ich werde
+- du wirst
+- Sie werden
+- er/sie/es wird
+- wir werden
+- ihr werdet
+- Sie werden
+- sie werden
+
+&nbsp;
+
+### Exercise 24.2
+
+&nbsp;
+
+1. Morgen
+2. in einer hablen Stunde
+3. Nächsten Monat
+4. am Freitag
+5. heute
+6. später
+7. bald
+8. in den Sommerferien
+
+&nbsp;
+
+### Exercise 24.3 
+
+&nbsp;
+
+1. Freya wird ein Buch über Yoga lesen
+2. Jan wird eine Radtour machen
+3. Louis und Anna werden zu Hause bleiben
+4. Ich werde Freunde besuchen
+5. Die Nachbarn werden einen Computerspielabend machen
+6. Valentin wird an seinem Blog schreiben
+7. Annett wird im Supermarkt jobben
+8. Wir werden auf eine Party gehen
+
+&nbsp;
+
+### Exercise 24.4
+
+&nbsp;
+
+1. Ich arbeite am Freitag:
+	1. Ich werde am Freitag arbeiten
+2. Ich komme später:
+	1. Ich werde später kommen
+3. Er geht morgen ins Kino:
+	1. Er wird morgen ins Kino gehen
+4. Wir bleiben am Wochenende zu Haus:
+	1. Wir werden am Wochenende zu Haus bleiben
+5. Morgen regnet es:
+	1. Es wird Morgen regnen
+6. Was machst du später?:
+	1. Was machen Sie später?
+	2. Was macht ihr später?
+	3. Was wirst du später machen?
+	4. Was werden Sie später machen?
+	5. Was werdet ihr später machen?
+7. Was machst du in den Sommerferien?:
+	1. Was machen Sie in den Sommerferien?
+	2. Was macht ihr in den Sommerferien?
+	3. Was wirst du in den Sommerferien machen?
+	4. Was werden Sie in den Sommerferien machen?
+	5. Was werdet ihr in den Sommerferien machen?
+
+&nbsp;
+
+- present + time
+- werden
+- wirst etc
+- last
+
+&nbsp;
+
+## UNIT 25 - Prepositions
+
+&nbsp;
 
 
 
