@@ -1570,6 +1570,7 @@ mich, dich, sich, uns, euch, sich
 &nbsp;
 
 |                  | comparative         | superlative             |
+|------------------|---------------------|-------------------------|
 | klein            | kleiner             | am kleinsten            |
 | langweilig       | langweiliger        | am langweiligsten       |
 | alt              | älter               | am ältesten             |
@@ -1939,10 +1940,10 @@ verbs ending with -ieren do not add **ge-**:
 
 &nbsp;
 
-| regular                           | irregular                         |
-| prefix + **ge** + stem + t        | prefix + **ge** +stem + en        |
-| aufmach-en &rarr; auf-ge-mach-t   | aufsteh-en &rarr; auf-ge-stand-en |
-| einkauf-en &rarr; ein-ge-kauf-t   | fernseh-en &rarr; fern-ge-seh-en  |
+| regular                         | irregular                         |
+| prefix + **ge** + stem + t      | prefix + **ge** +stem + en        |
+| aufmach-en &rarr; auf-ge-mach-t | aufsteh-en &rarr; auf-ge-stand-en |
+| einkauf-en &rarr; ein-ge-kauf-t | fernseh-en &rarr; fern-ge-seh-en  |
 
 - Hast du den Brief aufgemacht? (opened)
 - Sie haben online eingefkauft
@@ -1958,11 +1959,11 @@ verbs ending with -ieren do not add **ge-**:
 I = Irregular Past Participle
 S = Sein
 
-| arbeiten |    | hören  | I  | nehmen    | I  | sprechen | I  |
-| bleiben  | IS | kaufen |    | schreiben | I  | stehen   | I  |
-| essen    | I  | kommen | IS | schwimmen | IS | treffen  | I  |
-| fahren   | I  | lesen  | I  | sehen     | I  | trinken  | I  |
-| gehen    | IS | machen |    | spielen   |    | wohnen   |    |
+| arbeiten |    | hören  | I  | nehmen    | I  | sprechen | I |
+| bleiben  | IS | kaufen |    | schreiben | I  | stehen   | I |
+| essen    | I  | kommen | IS | schwimmen | IS | treffen  | I |
+| fahren   | I  | lesen  | I  | sehen     | I  | trinken  | I |
+| gehen    | IS | machen |    | spielen   |    | wohnen   |   |
 
 &nbsp;
 
@@ -2173,6 +2174,7 @@ Gott und *schlief* ein.
 &nbsp;
 
 | regular verbs      | irregular verbs               | mixed verbs          |
+|--------------------|-------------------------------|----------------------|
 | pass &rarr; passte | war &rarr; sein               | wusste &rarr; wissen |
 | legte &rarr; legen | hatte &rarr; haben            | dachte &rarr; denken |
 |                    | ging &rarr; gehen             |                      |
@@ -2327,131 +2329,500 @@ Gott und *schlief* ein.
 
 &nbsp;
 
+#### Prepositions + Accusative
+
+&nbsp;
+
+- bis		until
+- durch		through
+- für		for
+- gegen		against, around
+- ohne		without
+- um		around, at
+
+PS: 	- Er spielt gegen den Sieger (against the winner)
+	- gegen acht Uhr (around 8)
+	- um die Welt
+	- um fünf Uhr
+
+Endings in the accusative case:
+	- articles, possessive and the negative kein referring to masculine nouns take **-en**.
+	- feminine equivalents end in **-e**
+	- neuters with **-s** for the definite article but no ending for others
+	- Ich reise nie ohne mein**en** E-Reader
+	- Was für ein**e** Überrsachung
+	- was für ein Geschenk\
+	- in less formal:
+		- durch das &rarr; durchs
+		- für das &rarr; fürs
+		- um das &rarr; ums
+
+&nbsp;
+
+### Prepositions + Dative
+
+&nbsp;
+
+- aus		from, out of
+- außer		apart from
+- bei		at, near
+- gegenüber	opposite
+- mit		with, by (for means of transport)
+- nach		after, to
+- seit		since, for
+- von		from
+- zu		to
+
+Endings in the dative case:
+	- **-em** masculine and neuter - **-er** for the feminine nouns:
+	- bei dem &rarr; beim
+	- von dem &rarr; vom
+	- zu der &rarr; zur
+	- zu dem &rarr; zum
+
+&nbsp;
+
+### Prepositions + Accusative or Dative
+
+&nbsp;
+
+- an		at, on
+- auf		on, on top of
+- hiner		behind
+- in		in
+- neben		next to, beside
+- über		over, above, across
+- unter		under, among
+- vor		in front of, before
+- zwischen	between
+
+- Sie geht ins (in das) Café:
+	- Movement = Accusative
+- Sie war im (in dem) Café:
+	- Position = Dative
+
+- in das = ins
+- in dem = im
+- auf das = aufs
+
+&nbsp;
+
+### Prepositions + genitive
+
+&nbsp;
+
+- trotz		despite
+- während	during
+- wegen		becuse of, due to
+- (an)stat	instead of
+
+- Während des Sommers lebt er in Italien
+- Wegen ihrer Allergie kann sie keinen Weizen essen
+- Trotz des schlechten Wetters fuhr er mit dem Fahrrad - Despite the bad weather he went by bike
+- -es for msaculine and neuter nouns -er for feminine
+
+&nbsp;
+
+### Summary
+
+&nbsp;
+
+| **accusative**            | **dative**                   | **accusative or dative**     | **genetive**                |
+| ------------------------- | ---------------------------- | --------------------------   | -----------------------     |
+| **bis** until             | **aus** from, out of         | **an** at, on                | **trotz** despite           |
+| **durch** through         | **außer** apart from         | **auf** on, on top of        | **wärend** during           |
+| **für** for               | **bei** at, near             | **hinter** behind            | **wegen** because of due to |
+| **gegen** against, around | **gegenüber** opposite       | **in** in, into              | **(an)statt instead of      |
+| **ohne** without          | **mit** with, by (transport) | **neben** next to            |                             |
+| **um** around, at         | **nach** after, to           | **über** over, above, across |                             |
+|                           | **seit** since, for          | **unter** under, among       |                             |
+|                           | **von** from                 | **vor** in front of, before  |                             |
+|                           | **zu** to                    | **zwischen** between         |                             |
+
+- für, um, durch, gegen, ohne : FUDGO
 
+&nbsp;
 
+### Exercise 25.1
 
+&nbsp;
 
+1. Max Störzl kommt aus Österreich, aber lebt in Berlin
+2. Sie wohnt bei ihrer Tante
+3. Am Wochenende fährt sie nach Hamburg
+4. Meistens fährt er mit dem Mountainbike, manchmal geht er zum Fuß
+5. Gehst du später in die Kneipe
+6. Kommst du heute Abend mit ?? Kino?
+7. Ich war erst gestern ins Kino
+8. Das Flachbildschirm hängt an der Wand
+9. Treffen wir uns um acht Uhr?
+10. Wie komme ich zum Bahnhof?
+11. Ist das der Weg gegenüber Pauluskirche?
+12. Die Touristeninformation ist gegenüber dem Museum
+13. Bayern München hat gegen Real Madrid gewonnen
+14. Ich bin um den Vorscchlag
+15. 
 
+&nbsp;
 
+### Exercise 25.2
 
+&nbsp;
 
+| only accusative | only dative                       | accusative or dative | genetive |
+| --------------- | -----------                       | -------------------- | -------  |
+| für um gegen    | zum zur zu mit gegenüber nach bei | ins im in aus auf    | während  |
 
+&nbsp;
 
+### Exercise 25.3
 
+&nbsp;
 
+1. Er ist gegen den plan
+2. Ohne seine Spielekonsole kann er nicht mehr leben
+3. Gehen wir durch das Park?
+4. Nach der Schule will er ein Gapjahr machen
+5. Mit dem Fahrrad bist du aber schneller
+6. Er macht seit einem Jahr einen Pilateskurs
+7. Wie weit ist es bis zum Bahnhof?
+8. Von der Haltestelle sind es nur fünf Minuten bis ncah Hause
+9. Wir gehen heute ins Restaurant
+10. Wie ist das Essen im neueun Restaurant?
+11. Am Wochenende war er bei seinen Eltern
+12. Fährst du zu deine Freunden?
 
+&nbsp;
 
+### Exercise 25.4
 
+&nbsp;
 
+1. We're walking through the park:
+	1. Wir gehen (laufen?) durch den Park
+2. He is against the plan:
+	1. Er ist gegen den Plan
+3. I go by car:
+	1. Ich gehe mit dem Auto
+4. Marion goes by bike:
+	1. Marion geht mit dem Fahrrad
+5. How do I get to the railway station?:
+	1. Wie gehe ich nach dem Bahnhof
+6. We are going to the cinema?:
+	1. Gehen wir ins Kino? (zum Kino?)
+7. Are you going to the cinema?:
+	1. Gehst du ins/zum Kino?
+	2. Gehen Sie ins/zum Kino?
 
+- durch, gegen, für, bis, ohne, um
+- bei, mit, zu, gegenüber, aus, außer
+- movement accusative position dative
+- auf das, bei dem, in dem, in das ins, zum zu dem
 
+&nbsp;
 
+## Unit 26 - Adjective endings
 
+&nbsp;
 
+#### Adjectives with the indefinite article
 
+&nbsp;
 
+##### Nomintive case
 
+&nbsp;
 
+Es ist ein neuer Laptop
+Es ist eine interessante Ausstellung
+Es ist ein langweiliges Buch
 
+- Note that in the absence of a definite article (der, die, dsa), the adjective takes the definite article endings (-er, -e, -(e)s) and 'marks' the noun, i.e indicates whether it is masculine, feminine or neuter.
 
+&nbsp;
 
+##### Accusative case
 
+&nbsp;
 
+- The endings in the accusative case are the same as in the nominative, with the exception of adjectives preceding masculine nouns, which add **-en**:
 
+Saskia hat einen neuen Laptop
+Er besucht eine interessante Ausstellung
+Er liest ein langweiliges Buch
 
+&nbsp;
 
+##### Dative case
 
+&nbsp;
 
+- all adjectives add **-en**
 
+Mit einem neuen Laptop kann man schneller arbeiten
+Sie trafen sich auf einer interessanten Ausstellung
+Mit einem langweiligen Buch kann er nichts anfangen
 
+&nbsp;
 
+##### Possessives and **kein**
 
+&nbsp;
 
+- all endings apply also when the adjective follows the possessives (mein, dein, sein etc) aand the negative kein
 
+Das ist mein neuer Laptop
+Das ist keine gute Ausstellung
 
 
+&nbsp;
 
+##### Plural forms
 
+&nbsp;
 
+- The indefinite article ein 'a' cannot refer to the plural. After the possessives and kein, all adjectives add **-en**. 
 
+&nbsp;
 
+#### Summary
 
+&nbsp;
 
+|             | masculine          | feminine                        | neuter                   | plural            |
+| :---        | --------           | --------                        | -----                    | ----              |
+| nominative  | ein neuer Laptop   | eine interessante Ausstellung   | ein langweiliges Buch    | meine alten DVDs  |
+| acccusative | einen neuen Laptop | eine interessante Ausstellung   | ein langweiliges Buch    | meine alten DVDs  |
+| dative      | einem neuen Laptop | einer interessanten Ausstellung | einem langweiligen Buch  | meine alten DVDs  |
+| genetive    | eines neuen Laptop | einer interessanten Ausstellung | eines laangweiligen Buch | meiner laten DVDs |
 
+PS:
+	- the nominative and accusative singular forms have the endings associated with the definite article
+	- all dative, genetive and plural endings take **-en**
 
+&nbsp;
 
+#### Adjectives with no article
 
+&nbsp;
 
+##### Nominative case
 
+&nbsp;
 
+Deutscher Wein ist nicht teuer
+Italienische Salami ist sehr populär
+Polnisches Bier schmeckt gut
 
+&nbsp;
 
+##### accusative case
 
+&nbsp;
 
+Er mag deutschen Wein
+Sie liebt italienische Salami
+Er trinkt viel polnisches Bier
 
+&nbsp;
 
+##### Dative case
 
+&nbsp;
 
+- with no articles endings are a bit different in dative
+- the adjectives take the typical dative ending **-em** **-er** **-em**
 
+Fisch passt zu deutschem Wein
+Was hälst du von italienischer Salami
+Von polnischem Bier bekommt man keinen Kater
 
+&nbsp;
 
+##### Plural forms
 
+&nbsp;
 
+- nominative and accusative add **-e**
+- dative adds **-en**
 
+&nbsp;
 
+#### Summary
 
+&nbsp;
 
+|            | masculine        | feminine             | neuter            | plural              |
+| :---       | ----             | ----                 | ----              | ----                |
+| nominative | deutscher Wein   | italienische Salami  | polnisches Bier   | deutsche Touristen  |
+| accusative | deutschen Wein   | italienische Salami  | polnisches Bier   | deutsche Touristen  |
+| dative     | deutschem Wein   | italienischer Salami | polnischem Bier   | deutschen Touristen |
+| genetive   | deutschen Weines | italienischer Salami | polnischen Bieres | deutscher Touristen |
 
+- in the absence of an article the adjective takes the ending associated with the relevant definite article
 
+&nbsp;
 
+#### Adjectives with the definite article
 
+&nbsp;
 
+##### Nominative case
 
+&nbsp;
 
+- In the nominative case the definite articles (der, die, das) clearly 'mark' the gender of the noun.
+- All adjectives add **-e**
 
+Der blaue Rock sieht cool aus
+Die grüne Jacke steht ihr
+Das blaue T-Shirt ist aus London
 
+&nbsp;
 
+##### accusative case
 
+&nbsp;
 
+- The endings are identical to the ones in the nominative with the exception of the masculine nouns where **-en** is adaded
 
+Heute trägt sie den blauen Rock
+Sie mag die grüne Jacke
+Er kauft das blaue T-Shirt
 
+&nbsp;
 
+##### Dative case
 
+&nbsp;
 
+- All adjectives add **-en**
 
+Sie trägt ihren Mantel mit dem blauen Rock/der grünen Jacke/dem blauen T-Shirt
 
+&nbsp;
 
+##### Plural forms
 
+&nbsp;
 
+- All plurals add -en
 
+&nbsp;
 
+##### Dieser 'this'
 
+&nbsp;
 
+- the determiner **dieser** 'this, these' follows the pattern of the definite article and requires the same adjective endings
 
+&nbsp;
 
+### Summary - adjectivev endings after the definite articles
 
+&nbsp;
 
+|            | masculine         | feminine         | neuter            | plural            |
+| :----      | ----              | ----             | ----              | ----              |
+| nominative | der blaue Rock    | die grüne Jacke  | das blaue Hemd    | die neuen Schuhe  |
+| accusative | den blauen Rock   | die grüne Jacke  | das blaue Hemd    | die neuen Schuhe  |
+| dative     | dem blauen Rock   | der grünen Jacke | dem blauen Hemd   | den neuen Schuhen |
+| genetive   | des blauen Rockes | der grünen Jacke | des blauen Hemdes | der neuen Schuhe  |
 
+PS:
+	- there are only two aadjective endings after the definite article **-e** and **-en**
+	- **-e** is used for all singular forms in the nominative and accusative case, apart from masculine nouns in the accusative
+	- **-en** is used for all dative and genetive forms, all plural endings and the masculine accusative forms.
 
+&nbsp;
 
+#### Adjectives in the comparative and superlative
 
+&nbsp;
 
+- adjectives in the comparative and superlative - when in front of a noun - change their endings accordingly
 
+Sie haben ein größeres Haus gekauft
+Dies ist der hipste Club in Berlin
+Er trägt sein bestes Hemd
+Sie produzieren den besten Biowein
 
+- there is no **am** before the superlative form when it occurs in front of the noun
 
+&nbsp;
 
+### Exercise 26.1
 
+&nbsp;
 
+1. Es ist ein schöner Tag
+2. Das ist ein guter Preis
+3. Sie hat einen neuen Wohnung?
+4. Haben Sie eine neue Wohnung?
+5. Anja telefoniert mit einer guten Freundin
+6. Ist er wirklich mit seinem alten Auto nach Italien gefahren
+7. Zu seinem blauen Hemd trägt er eine coolen Sweatjacke
+8. Sind das seine neuen Schuhe?
+9. Sie hat ihre schönsten Sachen agezogen
+10. Er ttrifft sich mit seinen besten Freunden
 
+&nbsp;
 
+### Exercise 26.2
 
+&nbsp;
 
+1. Liebe Susanne
+2. Lieber Daniel
+3. Liebe Eltern
+4. Guten Morgen
+5. Guten Tag
+6. Gute Nacht
+7. Mit freundlicher Gruß
+8. In große Liebe
+9. Mit vielen Küssen
+10. Mit freundlichen Grußen
 
+&nbsp;
 
+### Exercise 26.3
 
+&nbsp;
 
+1. Das grüne Hemd gefällt mir
+2. Die blaue Jacke ist auch nicht schlecht
+3. Die weiße Bluse trage ich am liebsten
+4. Passt sie denn zu der weißen Bluse?
+5. Der blaue Anzug wr sehr teuer
+6. Ich ziehe den blaue Anzug fast jeden Tag an
+7. Mit dem blauen Anzug trage ich am liebsten die rote Krawatte
+8. Die italienischen Schuhe sehen wirklich trendy aus
 
+&nbsp;
 
+### Exercise 26.4
+
+&nbsp;
+
+1. Guten Morgen
+2. Gute Nacht
+3. Es ist einen schöne Tag
+4. Er kauft einen neuen Laptop
+5. Ich mag italiaischen Wein
+6. Die rote Jacke ist cool
+7. Ich mag den blauen Anzug
+8. Ich trage die schwarze Schuhe
+
+- before
+- -e but accusative masc -en and plural -en
+- take the ending of the article
+- nominative singular accusative singular except plural
+
+&nbsp;
+
+## UNIT 27 - Numbers and dates
+
+&nbsp;
 
 
 
