@@ -2824,6 +2824,89 @@ Sie produzieren den besten Biowein
 
 &nbsp;
 
+### Exercise 27.1
+
+&nbsp;
+
+1. eins
+2. fünf
+3. dreizehn
+4. einundzwanzig
+5. siebenundreißig
+6. zweihundertsiebenundachtzig
+7. neunhundertsiebenundsechsig
+8. einthausandvierhunderteinundfünfzig
+9. sechsthausendzweihundertsiebenundfünfzig
+10. zwölftausenddreihundertsiebenundzwanzig
+11. funfundfunzigthausendsechshundertneunundneunzig
+12. dreihundertelfthausendvierhundertzweiundzwanzig
+13. funfhundertundneunzehntausandsechshundertzwölf
+14. zwei millionen siebenhundertvierundvierzigthausendunddreihundertundneunundzwanzig
+
+&nbsp;
+
+### Exercise 27.2
+
+&nbsp;
+
+1. Gestern war der fünfte
+2. Der siebte April ist ein Montag
+3. morgen ist der siebzehnte Mai
+4. Jans Geburtstag ist der dreißte September
+5. Der Geburtstag von Sybille ist der vierzehnte August
+6. Der Tag der Arbeit ist der erste Mai
+7. Frühlingsanfang ist der einundzwanzigste März
+8. Der Tag der Deutschen Einheit ist der dritte Oktober
+9. Heililgabend ist der vierundzwanzigste Dezember
+
+&nbsp;
+
+### Exercise 27.3
+
+&nbsp;
+
+1. Martin Luther ist am zehnten November vierzehnhundertdreiundachtzig in Eisleben geboren
+2. Johann Wolfgang von Goethe ist am achtundzwanzigsten August siebzehnhundertsechsundfünfzig in Frnakfurt am Main geboren
+3. Wolfgang Amadeus Mozart ist am siebenundzwanzigsten Januar siebzehnhundertsechsundfünfzig in Salzburg geboren
+4. Sigmund Freud ist am sechsten Mai achtzehnhundertsechsundfünfzig in Freiburg geboren
+5. Rudolf Christian Karl Diesel ist am vierzehnte März achtzehnhundertneunundsiebzig in Paris geboren
+6. Albert Einsten ist am vvierzehnte März achtzehnhundertneunundsiebenzig in Ulm geboren
+7. Angela Merkel ist am siebzehnte Juli neunzehntausendvierundfünfzig in Hamburg geboren
+8. Sebastian Vettel ist am dritte Juli neunzehnhundertsiebenundachtzig in Heppenheim geboren
+
+&nbsp;
+
+### Exercise 27.4
+
+&nbsp;
+
+1. Heute ist der erste April
+2. Morgen ist der dreiundzwanzigste
+3. Der sechzehnte Juni ist einen Freitag
+4. Kommst du um eins
+5. Es gibt eins Uhr
+6. Sie hat am siebente January geboren
+7. Ich gehe am achtundzwanzigste Februar nach München
+8. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
