@@ -2887,7 +2887,201 @@ Sie produzieren den besten Biowein
 5. Es gibt eins Uhr
 6. Sie hat am siebente January geboren
 7. Ich gehe am achtundzwanzigste Februar nach München
-8. 
+8. Oktoberfest beginnt am zwanzigste September
+9. Arnold Schwarzneggar ist am dreißigte Juli neunzehnhundertsiebenundvierzig in Österreich geboren
+10. Sie ist in zwanzighundertswölf geboren
+
+&nbsp;
+
+## UNIT 28 - Conjunctions and clauses
+
+&nbsp;
+
+### Coordinating conjunctions
+
+&nbsp;
+
+#### Und
+
+- Carsten ist Modedesigner und er arbeitet freiberuflich (freelancer)
+- Carsten ist Modedesigner und arbeitet freiberuflich
+
+no comma
+
+#### Aber
+
+- Ich möchte gern kommen, aber ich habe leider keine Zeit
+- Sie wohnt seit einem Jahr in Madrid, aber sie spricht immer noch kein Spanisch
+
+comma
+
+#### Oder
+
+- Möchtest du relaxeen oder willst du lieber joggen gehen?
+- Wir können uns eine Pizza machen oder möchtest du essen gehen?
+
+#### Denn
+
+- Er kann nicht kommen, denn er ist krank
+- Tina möchte Ingenieurin werden, denn sie interessiert sich für Technik (technology)
+
+comma
+
+#### Sondern
+
+'but' after a negative statement
+
+- Zürich liegt nicht in Österreich, sondeern in der Schweiz
+- Ich möchte keine Cola, sondern eine Limo
+
+denn aber sondern &rarr; comma
+
+&nbsp;
+
+### Subordinating conjunctions
+
+&nbsp;
+
+- dass		that
+- obwol		although
+- weil		because
+- als		when (referring to past events)
+- wenn		if, when, whenever
+- ob		whether
+- nachdem	after
+- während	during
+
+#### Dass
+
+used like the English 'that' after verbs such as **glauben** 'to believe' **meinen** 'to be of the opinion' **denken** 'to think'
+or with reported speech **sagen** 'say' **berichten** 'report'
+
+- Denkst du, dass es morgen schön wird?
+- Er sagte, dass er leider keine Zeit hat
+
+#### Obwohl
+
+although
+
+- Ich habe das Tablet gekauft, obwohl es teuer war
+- Ich muss noch arbeiten, obwohl ich keine Lust mehr habe (don't feel like it)
+
+#### Weil
+
+because
+like denn but used more frequently
+
+- Sie fühlt sich fitter, weil sie mehr Sport macht
+- Ich konnte nicht anrufen, weil das Akky von meinem Smartphone leer war
+
+#### Als
+
+refers to single event or longer period in the past
+
+- Ich habe etwas gekocht, als nach Hause kam
+- Ich lebte in Kanada, als ich ein Kind war
+
+#### Wenn
+
+'if'
+
+- Wenn du Lust hast, können wir einen Film sehen
+- Ich helfe dir, wenn du dich anstrengst (if you make an effort)
+
+'whenever'
+
+- Er hat nie Zeit, wenn seine Freundin da ist
+- Er besuchte mich immer, wenn er in Hamburg war
+
+- The easiest way to check wether **wenn** or **als** in the past tense is to consider wether you can use 'whenever' in English. If you can then you normally use **wenn**
+
+- Wenn er Zeit hatte, ging er ins Theater
+- Wenn ich seine Stimme hörte, dachte ich an meinen Bruder
+
+### Main Points
+
+- und no need to repeat the subject
+- Denn = Weil = Because
+- Wenn != als
+- Subordinate = verb at the end
+- always a comma before subordinate, and before **aber** **denn**
+
+
+&nbsp;
+
+### Exercise 28.1
+
+&nbsp;
+
+1. Das ist nicht Jude Law sondern das ist Benedict Cumberbacht
+2. Sandra kommt später denn sie muss arbeiten
+3. Marcell ist Student, und er jobbt am Wochenende in einem Supermarkt
+4. Möchtest du zu Hause bleiben oder willst du in die Stadt fahren?
+5. Caroline wohnt seit sechs Monaten in Berlin, aber sie war noch nicht am Brandenburger Tor
+6. Björn will einen Wellnessurlaub machen, denn er will relaxen
+
+&nbsp;
+
+### Exercise 28.2
+
+&nbsp;
+
+1. Er hat nie Zeit, weil er zu viel arbeitet
+2. Glaubst du, dass er noch kommt?
+3. Pia ist immer glücklich, weil es Freitag ist
+4. Ich konnte keine SMS schicken, weil ich keine Netzverbindung hatte
+5. Sie lernt Deutsch, weil ihre Großeltern aus Hamburg stammen
+6. Wir essen, wenn du fertig bist
+7. Sie gehen joggen, obwohl es sehr kalt is
+8. Er fährt gern nach Paris, obwohl nicht viel Französisch spricht
+9. Als sie ein Kind war, lebte sie im Ausland
+10. Immer wenn er Geburtstag hatte, gingen sie in den Zoo
+11. Er meint, dass Deutschland ein interessantes Land ist
+12. Wir können ein paar Clips auf YouTube sehen, wenn du Lust hast
+
+&nbsp;
+
+### Exercise 28.3
+
+&nbsp;
+
+1. Sie macht einen Salat, wenn sie nach Hause kommt
+2. Ich schreibe dir eine SMS, wenn ich Zeit habe
+3. Er macht gern Urlaub in Deutschland, weil er das Land mag
+4. Viele Leute lernen Englisch, weil die Sprache sehr wichtig ist
+5. Sie lebt gern in Berlin, obwohl die Stadt oft hektisch und anstrengend ist
+6. Er fühlt sich oft gestresst, obwohl er regelmäßig Yoga macht
+
+7. Wenn sie nach Hause kommt, macht sie einen Salat
+8. Weinn ich Zeit habe, schreibe ich dir eine SMS
+9. Weil er das Land mag, macht er gern Urlaub in Deutschland
+10. Weil die Sprache sehr wicht ist, lernen viele Leute Englisch
+11. Obwohl die Stadt oft hektisch und anstrengend ist, lebt sie gern in Berlin
+12. Obwohl er regelmäßig Yoga macht, fühlt er sich oft gestresst
+
+&nbsp;
+
+### Exercise 28.4
+
+&nbsp;
+
+1. Er ist Designer und arbeitet für Google
+2. Ich will kein Kaffee, sondern Tee
+3. Ich würde gerne kommen aber ich muss arbeitet
+4. Sie denkt, dass es eine gute Idee ist
+5. Ich möchte Berlin, weil es eine interessante Stadt ist
+6. Er studiert Deutsch, weil er die Sprache magt
+7. Ich wohne in Kanada, als ich ein Kind war
+8. Wir bleiben nach Haus, wenn es regnet
+9. Wenn ich Zeit habe, schicke ich einen SMS
+
+&nbsp;
+
+## UNIT 29 - Word order
+
+&nbsp;
+
+
 
 
 
