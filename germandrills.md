@@ -832,11 +832,35 @@ NB: Nouns in the dative plural must have an **-n** ending:
 
 &nbsp;
 
+1. Es gehört nicht deinem Vater
+2. Sein Bruder hat mit der Lehrerin getanzt
+3. Was hat sie seinem Freund gegeben
+4. In der Straßenbahn sitzt er meiner Freundin gegenüber
+5. Herr Schneider kommt vom Supermarkt
+6. Morgen fahren wir zu unseren Eltern
+7. Ihre Ohrringe waren aus Silber
+8. Nach dem Abendessen gingen wir sofort ins Kino
+9. Haben Sie lange bei ihrem Bruder gewohnt
+10. Der Anzug passt deinem Vater gar nicht
+11. Ich habe ihr für dem Geschenk gedankt
+12. We hat Ihrer Mutter die Blumen geschenkt
+13. Alle sprechen von meiner Frau
+14. Di Würstchen schmecken meinen Kinder nicht
+15. Tante Gerda hat meiner Mutter eine Ansichtkarte geschickt
 
+&nbsp;
 
+### exercise 32
 
+&nbsp;
 
-
+1. Wem wirst du die Blümen geben?
+2. Ich wohne lieber bei meine Eltern
+3. Der Rundfunk teilt ?!?!?!!?
+4. Erik hat seinem Onkel für das Geschenk gedankt
+5. Brachst du einen Kaffee nicht?
+6. Ich werde nie gegen den Fhührer sprechen
+7. 
 
 
 
