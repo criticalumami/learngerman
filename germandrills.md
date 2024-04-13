@@ -870,6 +870,134 @@ NB: Nouns in the dative plural must have an **-n** ending:
 14. Die Frau gibt ihre Katze eine Münze
 15. Was machst du am Wochenende
 
+&nbsp;
+
+## 7 - Genetive Case
+
+&nbsp;
+
+- link nouns to show possession
+- identify the object of the genetive preposition
+
+| masculine     | feminine    | neuter        | plural        |
+| ---------     | --------    | ------        | -----         |
+| des Mannes    | der Frau    | des Kindes    | der Lampen    |
+| eines Mannes  | einer Frau  | eines Kindes  | N/A           |
+| keines Mannes | keiner Frau | keines Kindes | keiner Lampen |
+
+- masculine and neuter require -(e)s endings
+- no plural indefinite genetive 
+- names show possession by adding -s to them:
+	- Martins Familie
+	- Deutschlands Grenzen (borders)
+- pronouns do not have a genetive declention, instead, they form possessive adjectives
+
+| pronoun | possessive adjective |                           |
+| ------  | ------               | ----                      |
+| ich     | mein                 | my                        |
+| du      | dein                 | your (singular, informal) |
+| er      | sein                 | his                       |
+| sie s.  | ihr                  | her                       |
+| es      | sein                 | its                       |
+| wir     | unser                | our                       |
+| ihr     | euer                 | your (plural, informal)   |
+| sie pl. | ihr                  | their                     |
+| Sie     | Ihr                  | your (formal)             |
+| wer     | wessen               | whose                     |
+
+- the possessive adjective euer requires a minor spelling change when an ending is added:
+	- eure, eurer, euren, eurem, eures
+
+### Possession
+
+- in english 's or of
+- in german genetive case:
+	- der Vater der braut
+	- die Gesundheit des Kindes
+- possession is also possible with the dative preposition von, similar to of in english
+- everyday, von, more common
+- written:
+	- die Kinder meiner Schwester - viele der Studenten
+- spoken:
+	- die Kinder von meiner - viele von den Studenten
+- von is required in both if:
+	- a noun stands alone without a definite or indefinite article or any other indicated word
+	- the noun follows 'etwas' 'nichts' 'viel'
+	- a pronoun is used in place of a noun:
+
+| noun with an article (use genitive) | --- | der Geruch der frischen Luft         | the smell of the fresh air |
+| noun standing alone                 | --- | der Geruch von Essig                 | the smell of vinegar       |
+| etwas, nichts, viel (use von)       | --- | etwas von dem Bier                   | some of the beer           |
+|                                     | --- | nichts von dem Schatz                | nothing of the treasure    |
+|                                     | --- | viel von der Arbeit                  | much of the work           |
+|                                     | --- |                                      |                            |
+| pronouns                            | --- | jeder von euch eine Bekannte von ihm | an acquaintance of his     |
+
+- there are four primary genetive prepositions:
+	- statt (anstatt)		instead of
+	- trotz				in spite of, despite
+	- während			during
+	- wegen				because of, on account of
+
+
+- Statt meines Bruders kam meine Schwester zu Besuch:
+	- Instead of my brother, my syster came for a visit
+- Trotz des Gewitters gingen die Wanderer weiter:
+	- In spite of the storm, the hikers continued on
+- Während des Sommers machten wir viele Ausflüge:
+	- During the summer, we took many excursions
+- Wegen ihrer Krankheit hat die Schülerin viel versäumt::
+	- Because of her illness, the pupil missed a lot
+
+&nbsp;
+
+### Exercise 33
+
+&nbsp;
+
+1. der Professor, den Professor, dem Professor, des Professores
+2. die Lehrerin, die Lehrerin, der Lehrerin, der Lehrerin
+3. das Gebäude, das Gebäude, dem Gebäude, des Gebäudes
+4. Bücher, Bücher, Bücher
+5. meine Kinder, meine Kinder, meine Kindern, meiner Kinder
+6. kein Brot, kein Brot, keinem Brot, Keines Brot
+7. eine Tür, eine Tür, einer Tür, einer Tür
+8. die Leute, die Leute, die Leuten, der Leute
+9. kein Krieg, keinen Krieg, keinem Krieg, keines Kriegs
+
+&nbsp;
+
+### Exercise 34
+
+&nbsp;
+
+1. ich mein
+2. du dein
+3. er sein
+4. sie s. ihr
+5. es sein
+6. wir unser
+7. ihr euer
+8. sie pl. ihr
+9. Sie ihr
+10. wer wessen
+
+&nbsp;
+
+### Exercises 35
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
 
 
 
