@@ -860,7 +860,15 @@ NB: Nouns in the dative plural must have an **-n** ending:
 4. Erik hat seinem Onkel für das Geschenk gedankt
 5. Brachst du einen Kaffee nicht?
 6. Ich werde nie gegen den Fhührer sprechen
-7. 
+7. Benno arbeitet seit achtzehnhundertacht in Amerika
+8. Die Reiseleiterin hat es das Schloss gezeigt
+9. Kannst du meinen Vater damit helfen
+10. Die Jungen wollen mit der Mädchen tanzen
+11. Wir haben ein Paket von France bekommen
+12. Der Diener bringt meinem Freund einen Tasse Tee
+13. Warum soll ich Liebe glauben
+14. Die Frau gibt ihre Katze eine Münze
+15. Was machst du am Wochenende
 
 
 
