@@ -3132,11 +3132,27 @@ refers to single event or longer period in the past
 
 &nbsp;
 
+1. Normalweise wasche ich am sieben Uhr ab
+2. Glucklichweise sie sprechen Englisch
+3. Er kann sehr gut Fussball gespielt
+4. Hast du ein iPad:
+	Haben Sie ein iPad
+5. Nach der Arbeit gehen wir manchmal zu Gym
+6. Ich denke dass er bei Oxfam arbeitet
+7. Obwohl ihre Mutter aus Deutschland kommt, spricht sie nicht Deutsch
+8. Wann ich mehre Zeit habe, ich ein Jahr in Osterreich oder Deutschland will verbringen
 
+&nbsp;
 
+### Checklist
 
+&nbsp;
 
-
+- second
+- subject after verb
+- reltive subordinate conjunction
+- finite verb at the end
+- tekamolo
 
 
 
