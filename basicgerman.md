@@ -3081,13 +3081,56 @@ refers to single event or longer period in the past
 
 &nbsp;
 
-### 
+### Exercisw 29.1
 
+&nbsp;
 
+1. Normalweise fangt er seine Arbeit um acht Uhr an
+2. Danach geht Jana noch in den Wellnessclub und macht einen Zumbakurs
+3. Meistena besuchen Sie am Wochenende ihre Eltern
+4. Deshalb hat Kira sich so gefreut
+5. Zum Gluck hat er noch einen Backup gemacht
 
+&nbsp;
 
+### Exercise 29.2
 
+&nbsp;
 
+1. Sie gehen am Wochenende in das neue spanische Restaurant
+2. Robin fahrt morgen mit dem Auto zu seinem Eltern
+3. Ich habe gestern Tennis im Park gespielt
+4. Ich muss noch schnell im Supermarkt einkaufen
+5. Er trifft sich heute Abend mit Freunden in der Stadt
+6. Ich bin Weihnachten mit dem Eurostar nach London gefahren
+
+&nbsp;
+
+### Exercise 29.3 
+
+&nbsp;
+
+1. Konnen Sie mir helfen?
+2. Er kann sehr gut Klavier spielen
+3. Nachstes Jahr mochte Sebastian ein Gapjahr machen
+4. Wirst du im Sommer wieder nach Mallorca fahren?
+5. Sie wird im Januar die Schule beenden
+6. Er hat letztes Jahr sein Abitur gemacht
+7. Die Kinder sehen den ganzen Tag fern
+8. Gestern haben wir an die See einen Ausflug gemacht
+9. Hier durfen Sie nicht rauchen
+10. Sie ist schon um funf Uhr aufgestanden
+11. Die Leute haben sich seh uber unsere Geschenke gefreut
+12. Er bereitet sich auf ein wichtiges Meeting vor
+13. Die Lufthansa hat eunen neuen Chef bekommen
+14. Die Bevolkerung Berlins ist in den letzten Jahren stark gewaschen
+15. Deutschland wird weiterhin eine wichtige Rolle in Europa haben
+
+&nbsp;
+
+### Exercise 29.4
+
+&nbsp;
 
 
 
