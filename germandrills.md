@@ -925,13 +925,17 @@ NB: Nouns in the dative plural must have an **-n** ending:
 	- the noun follows 'etwas' 'nichts' 'viel'
 	- a pronoun is used in place of a noun:
 
-| noun with an article (use genitive) | --- | der Geruch der frischen Luft         | the smell of the fresh air |
-| noun standing alone                 | --- | der Geruch von Essig                 | the smell of vinegar       |
-| etwas, nichts, viel (use von)       | --- | etwas von dem Bier                   | some of the beer           |
-|                                     | --- | nichts von dem Schatz                | nothing of the treasure    |
-|                                     | --- | viel von der Arbeit                  | much of the work           |
-|                                     | --- |                                      |                            |
-| pronouns                            | --- | jeder von euch eine Bekannte von ihm | an acquaintance of his     |
+
+|                                     |      |                                      |                            |
+| --------                            | ---- | -----                                | -----                      |
+| noun with an article (use genitive) | ---  | der Geruch der frischen Luft         | the smell of the fresh air |
+| noun standing alone                 | ---  | der Geruch von Essig                 | the smell of vinegar       |
+| etwas, nichts, viel (use von)       | ---  | etwas von dem Bier                   | some of the beer           |
+|                                     | ---  | nichts von dem Schatz                | nothing of the treasure    |
+|                                     | ---  | viel von der Arbeit                  | much of the work           |
+|                                     | ---  |                                      |                            |
+| pronouns                            | ---  | jeder von euch eine Bekannte von ihm | an acquaintance of his     |
+
 
 - there are four primary genetive prepositions:
 	- statt (anstatt)		instead of
@@ -958,7 +962,7 @@ NB: Nouns in the dative plural must have an **-n** ending:
 1. der Professor, den Professor, dem Professor, des Professores
 2. die Lehrerin, die Lehrerin, der Lehrerin, der Lehrerin
 3. das Gebäude, das Gebäude, dem Gebäude, des Gebäudes
-4. Bücher, Bücher, Bücher
+4. Bücher, Büchern, Bücher
 5. meine Kinder, meine Kinder, meine Kindern, meiner Kinder
 6. kein Brot, kein Brot, keinem Brot, Keines Brot
 7. eine Tür, eine Tür, einer Tür, einer Tür
@@ -988,8 +992,196 @@ NB: Nouns in the dative plural must have an **-n** ending:
 
 &nbsp;
 
+1. Die Lautsprecher des Radios sind kaputt
+2. Das Kleid meiner Kusine passt ihr nicht
+3. Das Spielzeug de Kinder ist überall auf dem Boden
+4. Das Schlafzimmer meiner Brüder war zu klein
+5. Die Stimme der Mädchen ist süß
+6. Der Sohn der Ärztin wurde Rechtsanwalt
+7. Die Handschuhe meines Gastes sind unter dem Bett
+8. Das ist die Unterschrift einer Freundin von mir
+9. Hast du die Briefe des Dichters gelesen
+10. Der Eingang des Museums ist frisch gestrichen
 
+&nbsp;
 
+### Exercises 36
+
+&nbsp;
+
+1. Trotz des Regens blieben wir nicht zu Hause
+2. Wegen einer Prüfung geht sie nicht ins Kino
+3. Ich war während des Krieges in der Schweiz
+4. Trotz des schönen Wetters will er nicht im Garten spielen
+5. Anstatt meines Onkels musste meine Tante arbeiten
+6. Wegen einer Erkältung konnte er nicht zur Schule gehen
+7. Anstatt eines Hundes kaufte ich eine Katze
+8. Während des Tages arbeitet Erik in einer Fabrik
+9. Die Studentin hat während ihres Urlaubs viel versäumt
+10. Wegen eines Gewitters ist niemand draußen
+
+&nbsp;
+
+### Exercises 37
+
+&nbsp;
+
+1. Seine Beschreibung `Der Probleme` war ausführlich:
+	1. Seine Beschreibung seiner Afrikareise war ausführlich
+	2. Seine Beschreibung der Idee war ausführlich
+	3. Seine Beschreibung des Verbrechens war ausführlich
+	4. Seine Beschreibung der Krisen war ausführlich
+	5. Seine Beschreibung des Unfalls war ausführlich
+2. Die neue Wohnung `meines Bruders` ist in einem Vorort:
+	1. Die neue Wohnung meiner Eltern ist in einem Vorort
+	2. Die neue Wohnung einer Freundin ist in einem Vorort
+	3. Die neue Wohnung des Arztes ist in einem Vorort
+	4. Die neue Wohnung meiner Verwandten ist in einem Vorort
+	5. Die neue Wohnung eines Freundes ist in einem Vorort
+	6. Die neue Wohnung des Unfalls ist in einem Vorort
+3. Hast du die Reden des Direktors gehört?:
+	1. Hast du die Reden der Schauspielerin gehört?
+	2. Hast du die Reden der Politiker gehört?
+	3. Hast du die Reden des Bürgermeisters gehört?
+	4. Hast du die Reden meines Chefs gehört?
+	5. Hast du die Reden der Manager gehört?
+	6. Hast du die Reden meiner Tochter gehört?
+
+&nbsp;
+
+## 8 - Accusative-Dative Prepositions
+
+&nbsp;
+
+### Accusative or Dative
+
+- an		at
+- auf		on, onto
+- hinter	behind
+- in		in, into
+- neben		next to
+- über		over
+- unter		under
+- vor		in front of, before
+- zwischen	between
+
+- if movement is implied &rarr; accusative
+- if location is implied &rarr; dative
+
+- not verbs of motion but takes accusative:
+	- warten
+	- denke
+	- verliebte (in love)
+	- sprechen
+
+- Auf wen warten Sie?
+- Ich denke oft an meine Familie
+- Martin verliebte sich in sie - Martin is in love with her
+
+- achten auf		A		pay attention to
+- sich beklagen über	A		complain about
+- denken an		A		think about
+- sich erinnern an	A		remember, remind of
+- erkennen an		D		recognize by
+- sich freuen auf	A		look forward to
+- sich freuen über	A		be glad about
+- glauben an		A		believe in
+- hoffen auf		A		put faith in, hope for
+- sich irren in		A		be wrong about
+- leiden an		D		suffer from
+- reden über		A		talk about
+- schreiben an		A		write to
+- schreiben über	A		write about
+- schützen vor		D		protect from
+- sprechen über		A		speak about
+- sterben an		D		die from
+- teilnehmen an 	D		take part in
+- sich verlassen auf	A		rely on
+- sich verlieben in	A		fall in love with
+- verzichten auf	A		do without
+- warnen vor		D		warn against
+- warten auf		A		wait for
+
+- Wohin? Where to? Accusative - In die Schule
+- Wo?	 Where?	   Dative     - In der Schule
+
+- If a pronoun refers to an inanimate object, a prepositional adverb is used instead of a prepositional phrase:
+	- daneben	next to it
+	- darin		in it
+	- worauf	on what
+	- wovor		in front of what
+
+&nbsp;
+
+### Exercises 38
+
+&nbsp;
+
+1. Ein altes Porträt hing über dem Bett:
+	1. Ein altes Porträt hing über dem Schrank
+	2. Ein altes Porträt hing über einer Lampe
+	3. Ein altes Porträt hing über dem Sofa
+	4. Ein altes Porträt hing über der Stühle
+2. Ihre Katze schläft gern auf dem Bett:
+	1. Ihre Katze schläft gern auf dem Tisch
+	2. Ihre Katze schläft gern auf einem Kissen
+	3. Ihre Katze schläft gern auf der Couch
+	4. Ihre Katze schläft gern auf dem Fensterbrett
+3. Der neue Wagen steht hinter dem Haus:
+	1. Der neue Wagen steht hinter der Garage
+	2. Der neue Wagen steht hinter der Bäume
+	3. Der neue Wagen steht hinter einem Gebäude
+	4. Der neue Wagen steht hinter dem Supermarkt
+4. Ist die Milch in dem Keller?:
+	1. Ist die Milch in der Kühlschrank
+	2. Ist die Milch in der Küche
+	3. Ist die Milch in einer Flasche
+	4. Ist die Milch im Esszimmer
+5. Hier sind wir unter unseren Freunden:
+	1. Hier sind wir unter unseren Schulkameraden
+	2. Hier sind wir unter unserer Verwandte
+	3. Hier sind wir unter unseren Geschwister
+	4. Hier sind wir unter unseren Nachbarn
+
+&nbsp;
+
+### Exercise 39
+
+&nbsp;
+
+1. Wir fahren vor das Restaurant:
+	1. Wir fahren vor das Kino
+	2. Wir fahren vor die Schule
+	3. Wir fahren vor einen Laden
+	4. Wir fahren vor das Museum
+2. Denkst du niemals an deinen Bruder?:
+	1. Denkst du niemals an deine Kinder
+	2. Denkst du niemals an deine Freundin
+	3. Denkst du niemals an deine Eltern
+	4. Denkst du niemalt an deinen Sohn
+3. Eine kleine Maus kroch unter das Bett:
+	1. Eine kleine Maus kroch unter den Tisch
+	2. Eine kleine Maus kroch unter das Kissen
+	3. Eine kleine Maus kroch unter den Ofen
+	4. Eine kleine Maus kroch unter die Decke
+4. Er hat sich neben eine Bekannte gesetzt:
+	1. Er hat sich neben seinen Freund gesetzt
+	2. Er hat sich neben meine Schwester gesetzt
+	3. Er hat sich neben unseren Rechtsanwalt gesetzt
+	4. Er hat sich neben unsere Kinder gesetzt
+5. Ich stelle meine Fahrrad hinter das Haus:
+	1. Ich stelle meine Fahrrad hinter einen Baum
+	2. Ich stelle meine Fahrrad hinter die Garage
+	3. Ich stelle meine Fahrrad hinter die Türen
+	4. Ich stelle meine Fahrrad hinter das Tor
+
+&nbsp;
+
+### Exercises 40
+
+&nbsp;
+
+1. 
 
 
 
