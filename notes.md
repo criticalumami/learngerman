@@ -1,5 +1,8 @@
 
-## Klassishe Präpositionen
+## Klassishe Lokale Präpositionen - Wo Fragen
+(ohne wechselpräpositionen)
+
+&nbsp;
 
 - **in** (im - in der):
   Gebäude, Straße, Länder/Stäte
@@ -7,9 +10,13 @@
   Personen, Aktivitäten, Firmen(Namen)
 - **an** (am - an der):
   Gewässer, Strand, Bahnhof, Flughafen
-
-
-
+- **gegenüber** (von (sprechen))
+- **innerhabl** (genetiv) (within)
+- **außerhalb** (genetiv) (outside of)
+- **um...herum** (akk) (around)
+- **an...entlang** (dativ) (along)
+  
+ 
 Ich bin in Supermarkt
 Ich bin bei einem Freund.
 Ich bin am Meer
@@ -23,7 +30,131 @@ Ich bin bei Ali
 Ich bin meiner Schwester
 Ich bin bei meinem Bruder
 Ich bin bei der Arbeit
-Ich bin beim Sport
+Ich bin beim Sport/Yoga/Fitness
+Ich arbeite bei Samsung
+Ich kaufe bei Rewe ein
+Ich bin am Meer/Fluss/See
+Ich wohne an der Spree
+Ich bin an der Nordsee
+Ich bin am Strand
+Ich bin am Bahnhof/am Flughafen
+Es gibt viele Geschäfte im/am Bahnhof
+Ich wohne gegenüber (von) der Apotheke
+Ich arbeite gegenüber (von) dem Supermarkt
+Sie wohnt innerhalb des Bezirks(district) Tempelhof
+Er wohnty innerhalb des Stadtzentrums
+Innerhalb dieser Stadt gibt es keine Fabrik
+Ich wohne außerhalb der Stadt
+Ich wohne außerhalb des Hauses
+Außerhalb des Restaurants kann man rauchen
+Wir tanzen um den Tisch herum
+Um die Kirche herum gibt es viele Leute
+Die Planeten bewegen sich um die Sonne herum
+Wir sitzen um den Tisch herumm
+Am Fluss entlang gibt es viele Bäume
+Am Strand entlang gibt es viele Hotels
+An der Straße entlang gibt es viele Geschäfte
+
+1. Ich bin im Kino
+2. Ich war gestern am Meer
+3. Wir feiern morgen im Restaurant
+4. Er ist gerade bei Media Markt
+5. Sie liegen am Strand und sonnen sich
+6. Heute bleiben sie zu Hause
+7. Innerhalb des Gebäubdes ist das Rauchen verboten
+8. Um den See herum gibt es viele Cafés
+9. Gegenüber meinem Haus ist ein großer Park
+10. Er wohn direkt an der Spree
+11. Wir kommen um 17 Uhr am Bahnhof an
+12. Er sitzt gerade beim Arzt
+13. Sie wohnen in der Schillerstraße
+14. Sie ist beim Yoga
+15. Ich kaufe immer bei Aldi ein
+16. Sie machen in Spanien Urlaub
+17. Am Flughafen ist immer alles sehr teuer
+18. Gegenüber (von) der Schule ist eine groß Baustelle
+19. Mein Bruder ist momentan beim Fitness
+20. Er ist in der Schule
+
+## Lokale Präpositionen - Wohin Fragen - Teil 2
+
+### Klassischen Präpositionen
+
+[TEIL 2 !! | Lokale Präpositionen | Wohin? | A2 B1 B2 | Deutsch lernen | Learn German](https://youtu.be/UCkDgqhjvow)
+
+- in (ins - das / in die - die / in den - der): 
+  Gebäude, Straßen, Länder mit Artikel
+- zu (zum - der, das  / zur - die): 
+  Personen, Aktivitäten, Firmen, Institutionen, Straßen, Flughafen, Bahnhof
+- an (ans -das / an die - die / an den -der): 
+  Gewässer, Strand
+- nach - Hause, Länder/Städtei, recht/links
+- um (around)
+- durch (through)
+- entlang
+
+&nbsp;
+
+Ich gehe ins Kino
+Ich gehe in die Bäckerei
+Ich gehe in den Park / den Supermarkt
+Ich gehe in den Sportzentrum
+Ich gehe in den Raum
+Ich gehe in die ...straße
+Ich fliege in die Türkei/Schweiz/Ukraine
+Ich fliege in den Iran/Irak
+Ich gehe zu Benjamin
+Ich gehe zu meiner Mutter
+Ich gehe zum Arzt
+Ich gehe zum Schwimmen
+Ich gehe zur Arbeit
+Ich gehe zu Rewe/Media Markt/Natto
+Ich gehe zum Amt/Jobcenter/Bürgeramt
+Ich gehe zur Schule/Universität
+Ich gehe zur Simplonstraße
+Ich gehe zum Flughafen/Bahnof
+Ich fahre ans Meer
+Ich fahre an den See
+Ich gehe an den Fluss
+Ich fahre an die Havel/Spree
+Ich gehe an den Strand
+Ich gehe nach Hause
+Ich fahre nach Berlin/Spanien
+Ich fahre nach Polen um Kippen zu holen
+Ich gehe nach rechts/links
+Ich gehe um die Stadt
+Ich gehe um die Ecke
+Ich fliege um die Welt
+Ich gehe durch die Tür
+Ich gehe durch den Park
+Gehe Sie hier die Straße entlang
+Ich gehe den Fluss entlang
+
+1. Ich bin gestern ans Meer gefahren
+2. Wir gehen morgen ins Restaurant
+3. Er geht gerade zu Media Markt
+4. Sie fahren an den Strand und sonnen sich
+5. Heute gehen sie nach Hause
+6. Gehen Sie einfach hier um die Ecke. Da ist dann eine Bank
+7. Sie müssen hier 200m die Straße entlang gehen und dann an der Kreuzung nach rechts
+8. Er fáhrt heute an die Spree
+9. Gehen sie durch die erste Tür und dann gleich rechts
+10. Wir fahren um 17 Uhr zum Bahnhof
+11. Er geht gerade zum Arzt
+13. Sie laufen zur Schillerstraße
+14. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
