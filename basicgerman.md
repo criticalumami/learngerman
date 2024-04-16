@@ -2450,18 +2450,18 @@ Endings in the dative case:
 1. Max Störzl kommt aus Österreich, aber lebt in Berlin
 2. Sie wohnt bei ihrer Tante
 3. Am Wochenende fährt sie nach Hamburg
-4. Meistens fährt er mit dem Mountainbike, manchmal geht er zum Fuß
+4. Meistens fährt er mit dem Mountainbike, manchmal geht er zu Fuß
 5. Gehst du später in die Kneipe
-6. Kommst du heute Abend mit ?? Kino?
-7. Ich war erst gestern ins Kino
+6. Kommst du heute Abend mit im Kino?
+7. Ich war erst gestern im Kino
 8. Das Flachbildschirm hängt an der Wand
 9. Treffen wir uns um acht Uhr?
 10. Wie komme ich zum Bahnhof?
-11. Ist das der Weg gegenüber Pauluskirche?
+11. Ist das der Weg zum Pauluskirche?
 12. Die Touristeninformation ist gegenüber dem Museum
 13. Bayern München hat gegen Real Madrid gewonnen
-14. Ich bin um den Vorscchlag
-15. 
+14. Ich bin für den Vorschlag
+15. Während der Ferien habe ich gejobbt
 
 &nbsp;
 
@@ -2469,9 +2469,9 @@ Endings in the dative case:
 
 &nbsp;
 
-| only accusative | only dative                       | accusative or dative | genetive |
-| --------------- | -----------                       | -------------------- | -------  |
-| für um gegen    | zum zur zu mit gegenüber nach bei | ins im in aus auf    | während  |
+| only accusative | only dative                           | accusative or dative | genetive |
+| --------------- | -----------                           | -------------------- | -------  |
+| für um gegen    | zu mit aus gegenüber nach bei         | in aus               | während  |
 
 &nbsp;
 
@@ -2481,16 +2481,16 @@ Endings in the dative case:
 
 1. Er ist gegen den plan
 2. Ohne seine Spielekonsole kann er nicht mehr leben
-3. Gehen wir durch das Park?
+3. Gehen wir durch den Park?
 4. Nach der Schule will er ein Gapjahr machen
 5. Mit dem Fahrrad bist du aber schneller
 6. Er macht seit einem Jahr einen Pilateskurs
 7. Wie weit ist es bis zum Bahnhof?
-8. Von der Haltestelle sind es nur fünf Minuten bis ncah Hause
+8. Von der Haltestelle sind es nur fünf Minuten bis nach Hause
 9. Wir gehen heute ins Restaurant
 10. Wie ist das Essen im neueun Restaurant?
 11. Am Wochenende war er bei seinen Eltern
-12. Fährst du zu deine Freunden?
+12. Fährst du zu deinen Freunden?
 
 &nbsp;
 
@@ -2503,11 +2503,11 @@ Endings in the dative case:
 2. He is against the plan:
 	1. Er ist gegen den Plan
 3. I go by car:
-	1. Ich gehe mit dem Auto
+	1. Ich fahre mit dem Auto
 4. Marion goes by bike:
-	1. Marion geht mit dem Fahrrad
+	1. Marion fährt mit dem Fahrrad
 5. How do I get to the railway station?:
-	1. Wie gehe ich nach dem Bahnhof
+	1. Wie gehe ich zum Bahnhof
 6. We are going to the cinema?:
 	1. Gehen wir ins Kino? (zum Kino?)
 7. Are you going to the cinema?:
@@ -2761,7 +2761,7 @@ Sie produzieren den besten Biowein
 4. Haben Sie eine neue Wohnung?
 5. Anja telefoniert mit einer guten Freundin
 6. Ist er wirklich mit seinem alten Auto nach Italien gefahren
-7. Zu seinem blauen Hemd trägt er eine coolen Sweatjacke
+7. Zu seinem blauen Hemd trägt er eine coole Sweatjacke
 8. Sind das seine neuen Schuhe?
 9. Sie hat ihre schönsten Sachen agezogen
 10. Er ttrifft sich mit seinen besten Freunden
@@ -2778,8 +2778,8 @@ Sie produzieren den besten Biowein
 4. Guten Morgen
 5. Guten Tag
 6. Gute Nacht
-7. Mit freundlicher Gruß
-8. In große Liebe
+7. Mit freundlichem Gruß
+8. In großer Liebe
 9. Mit vielen Küssen
 10. Mit freundlichen Grußen
 
@@ -2794,7 +2794,7 @@ Sie produzieren den besten Biowein
 3. Die weiße Bluse trage ich am liebsten
 4. Passt sie denn zu der weißen Bluse?
 5. Der blaue Anzug wr sehr teuer
-6. Ich ziehe den blaue Anzug fast jeden Tag an
+6. Ich ziehe den blauen Anzug fast jeden Tag an
 7. Mit dem blauen Anzug trage ich am liebsten die rote Krawatte
 8. Die italienischen Schuhe sehen wirklich trendy aus
 
@@ -2806,16 +2806,16 @@ Sie produzieren den besten Biowein
 
 1. Guten Morgen
 2. Gute Nacht
-3. Es ist einen schöne Tag
-4. Er kauft einen neuen Laptop
+3. Es ist ein schöner Tag
+4. Er hat einen neuen Laptop gekauft
 5. Ich mag italiaischen Wein
 6. Die rote Jacke ist cool
 7. Ich mag den blauen Anzug
-8. Ich trage die schwarze Schuhe
+8. Ich trage die schwarzen Schuhe
 
 - before
 - -e but accusative masc -en and plural -en
-- take the ending of the article
+- take the ending of the article - marker for the noun
 - nominative singular accusative singular except plural
 
 &nbsp;
