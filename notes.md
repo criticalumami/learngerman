@@ -150,6 +150,71 @@ Ich gehe den Fluss entlang
 18. Mein Bruder läuft zum Fitness
 19. Er geht zur Schule (in die - means inside)
 
+## Lokale Präpositionen - Woher
+
+- aus (aus dem, aus der): 
+  Gebäude, Länder/Städte
+- von (vom, von der): 
+  Personen, Aktivitäten, Institutionen, Firmen, Namen, Strand, Flughafen, Bahnhof, Gewässer
+- Hause - Ich komme von zu Hause
+
+Ich komme aus der Schule
+Ich komme aus der Küche
+Ich komme aus dem Kino
+Ich komme aus Rewe
+Ich komme aus dem Supermarkt
+Ich komme aus dem Theater
+Ich komme aus Spanien/Berlin
+Ich komme aus der Türkei/Schweiz
+Ich komme aus dem Iran/Irak
+
+Ich komme von meiner Schwester
+Ich komme vom Artz
+Ich komme von meinem Bruder
+Ich komme von meinen Eltern
+Ich komme von Peter
+Ich komme von der Arbeit
+Ich komme von Sport/Yoga/Training
+ich komme vom Jobcenter
+Ich komme von Media Markt
+Ich komme von Bozena
+Ich komme von der Post
+Ich komme vom Strand
+Ich komme vom Bahnhof/Flughafen
+
+Woher kommst du?
+Ich komme vom Meer. OK
+Ich war gerade am Meer. Besser
+
+1. Ich komme vom/aus dem Kino
+2. Ich komme gerade vom Meer
+3. Wir kommen aus dem Restaurant
+4. Sie kommen von Media Markt
+5. Sie kommen vom Strand
+6. Sie kommt von zu Hause
+7. Er kommt von der Spree:
+	1. Ich war gerade an der Spree
+8. Wir kommen vom Bahnhof
+9. Er kommt gerade vom Arzt
+10. Sie kommen aus der Schillerstraße
+11. Sie kommt vom Yoga
+12. Ich komme von Aldi
+13. Sie komme aus Spanien
+14. Sie kommen vom Flughafen
+15. Mein Bruder kommt um 18 Uhr vom Fitness
+16. Er kommt aus der / von der Schule
+
+## Die Zusammenfassung
+
+|         | Personen, Firmen, Namen, Institutionen | Gebäude, Straße     | Länder/Städte | Gewässer            | Hause    |
+| ------- | ---------------------------            | ----------------    | ------------- | ------------        | -------- |
+| Wo?     | beim, bei der, bei (Namen)             | im, in der          | in            | am, an der          | zu       |
+| Wohin?  | zum, zur, zu (ohne artikel, Namen)     | in den, in die, ins | nach          | an den, ans, an die | nach     |
+| Woher   | vom, von der, von                      | aus dem, aus der    | aus           | vom, von der        | von zu   |
+
+
+
+
 
 
 
