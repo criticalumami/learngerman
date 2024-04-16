@@ -141,8 +141,18 @@ Ich gehe den Fluss entlang
 9. Gehen sie durch die erste Tür und dann gleich rechts
 10. Wir fahren um 17 Uhr zum Bahnhof
 11. Er geht gerade zum Arzt
-13. Sie laufen zur Schillerstraße
-14. 
+12. Sie laufen zur Schillerstraße
+13. Sie geht zum yoga
+14. Ich gehe jetzt zu Aldi
+15. Sie fliegen nach Spanien
+16. Er fährt später noch zum Flughafen
+17. Mein Traum ist es, durch die USA zu reisen
+18. Mein Bruder läuft zum Fitness
+19. Er geht zur Schule (in die - means inside)
+
+
+
+
 
 
 
