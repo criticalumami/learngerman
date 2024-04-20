@@ -1181,10 +1181,88 @@ NB: Nouns in the dative plural must have an **-n** ending:
 
 &nbsp;
 
-1. 
+1. daran - woran
+2. auf ihn auf wen
+3. in sie in wen
+4. daran woran
+5. voran -
+6. neben ihr
+7. .
+8. .
+9. .
+10. .
+11. .
+12. .
+13. .
+14. .
 
+&nbsp;
 
+### Exercise 41
 
+&nbsp;
+
+1. Sie schreibt einen Brief vor die Eltern
+2. Die Katzen springen auf den Schrank
+3. Jeman steht an der Tur
+4. Erik wartere uber dem Kino
+5. Frau Klein sitzt neben ihrem Mann
+6. Sie ist in einer Woche angekommen
+7. Wer hangte dieses Poster uber mein Bett
+8. Das Kind schlaft zwischen seinen Eltern
+9. Der alte Hund kriecht unter den Tisch
+10. Ein Fremder steht hinter der Mauer
+11. Sie kommen ins Wohnzimmer
+12. Mein Vater hangt ein Bild am Tisch
+13. Gestern waren wir in der Stadt
+14. Gudrun stnd auf dem Spiegel
+15. Der Frosch spring auf den Felsen
+
+&nbsp;
+
+### Exercise 42
+
+&nbsp;
+
+1. Diw Wanderer wollen auf den Berg steigen
+2. Die Zeitungen waren unter dem Tisch
+3. Neben der Schulerin sitzt Professor Bingen
+4. Warum stehst du so lange vor deiner Mutter
+5. Wir mussen wieder auf meinen Vater warten
+6. Der Kranke leider an ???
+7. Sie wird die Blumen auf dem Tisch stellen
+8. Ich habe ds alte Buch hinter dem Bett gefunden
+9. Vor ???? wohnten wir noch in Hmburg
+10. Die Jungen reden uber die Steppe
+11. Ich freue mich schon uf seiner Besuch
+12. Das weinende Machen ist in ??? gelaufen
+13. Karl wird eine Postkarte am Tisch schreiben
+14. Was machst du in Sylvester
+15. Ein grosser Wgen steht vom bhnstei?!?!?!?!
+16. Der Hund sitzt an dem Bett und warter auf seinen Hern
+17. Wir essen nur selten im Restaurant
+18. Das schlafende Baby liegt auf 1!?!?!?
+19. Sie hat oft an
+20. .
+
+&nbsp;
+
+### Exercise 43
+
+&nbsp;
+
+1. Er liegt das Buch auf den Tisch; Er schlaft auf dem Tisch
+2. Sie liegen den Buch unter den Himmel; Ich spiele unter dem Himmel
+3.  Ich lege die Blumen von Tomb; Ich schlafe vvom Tisch
+4.  Ich !?!?!?!
+
+&nbsp;
+
+## 9- Der Words and Ein Words
+
+&nbsp;
+
+### Summary 
 
 
 
