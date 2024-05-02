@@ -1338,16 +1338,53 @@ NB: Nouns in the dative plural must have an **-n** ending:
 | ---                | nominative    | accusative    | dative         | genetive        |
 |--------------------|---------------|---------------|----------------|-----------------|
 | 1. kein / Blume    | keine Blume   | keine Blume   | keiner Blume   | keiner Blume    |
-| 2. mein / Kinder   | keine Kinder  | keine Kinder  | keiner Kindern | keiner Kinder   |
-| 3. jener / Freunde | jene Freunde  | jene Freunde  | jener Freunde  | jener Freunde   |
+| 2. mein / Kinder   | meine Kinder  | meine Kinder  | meinen Kindern | meiner Kinder   |
+| 3. jener / Freunde | jene Freunde  | jene Freunde  | jenen Freunde  | jener Freunde   |
 | 4. welcher / Zug   | welcher Zug   | welchen Zug   | welchem Zug    | welches Zuges   |
 | 5. unser / Artz    | unser Arzt    | unseren Arzt  | unserem Arzt   | unseres Artzes  |
 | 6. einige / Tassen | einige Tassen | einige Tassen | einigen Tassen | einiger Tassens |
 | 7. viele / Leute   | viele Leute   | viele Leute   | vielen Leuten  | vieler Leute    |
 | 9. dein / Kusine   | deine Kusine  | deine Kusine  | deiner Kusine  | deiner Kusine   |
-| 8. jeder / Stück   | jeder Stück   | jeden Stück   | jedem Stück    | jedes Sückes    |
+| 8. jeder / Stück   | jedes Stück   | jedes Stück   | jedem Stück    | jedes Sücks     |
 | 10. beide / Länder | beide Länder  | beide Länder  | beiden Ländern | beider Länder   |
 
+&nbsp;
+
+### Exercise 45
+
+&nbsp;
+
+1. Sie wohnen nicht in dieser Straße, sondern in jener
+2. Sie stand nicht an dieser Tür, sondern jener
+3. Ich kaufte nicht dieses Bild, sondern jenes
+4. Die Kinder gehen nicht zu dieser Schule, sondern zu jener
+5. Wir verkaufen nicht diesen VW, sondern jenen
+6. Sie fahren nicht mit diesem Bus, sondern mit jedem
+7. Martin wird nicht an dieser Ecke stehen, sondern an jener
+8. Ich warte nicht auf diesem Zug, sonder auf jenem
+9. Er spricht nicht über diese Probleme, sondern über jene
+10. Sie haben nicht diesen Mann verhaftet, sondern jenen
+
+&nbsp;
+
+### Exercise 46
+
+&nbsp;
+
+1. Ich habe **deinen** Professor noch nicht kennen gelernt:
+	1. Ich habe diesen Professor noch nicht kennen gelernt
+	2. Ich habe seinen Professor noch nicht kennen gelernt
+	3. Ich habe Ihren Professor noch nicht kennen gelernt
+	4. Ich habe jenen Professor noch nicht kennen gelernt
+	5. Ich habe euren Professor noch nicht kennen gelernt
+2. Meine Schwester will **seine** Romane lesen:
+	1. Meine Schwester will diese Romane lesen
+	2. Meine Schwester will viele Romane lesen
+	3. Meine Schwester will keine Romane lesen
+	4. Meine Schwester will meine Romane lesen
+	5. Meine Schwester will beide Romane lesen
+3. Sie liebt **jene** Menschen nicht:
+	1. 
 
 
 
