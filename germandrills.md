@@ -1264,16 +1264,89 @@ NB: Nouns in the dative plural must have an **-n** ending:
 
 ### Summary 
 
+&nbsp;
+
+#### Der words
+
+&nbsp;
+
 | -----      | masculine       | feminine     | neuter        | plural         |
+|------------|-----------------|--------------|---------------|----------------|
 | nominative | dieser Freund   | diese Lampe  | dieses Haus   | diese Tische   |
 | accusative | diesen Freund   | diese Lampe  | dieses Haus   | diese Tische   |
 | dative     | diesem Freund   | dieser Lampe | diesem Haus   | diesen Tischen |
 | genetive   | dieses Freundes | dieser Lampe | dieses Hauses | dieser Tische  |
 
+&nbsp;
 
+- only modifies plurals:
+	- alle
+	- beide (both)
+- modify plural or singular:
+	- jeder
+	- jener (each, every)
+	- welcher (which)
+	- mancher (some, many a)
+- used only with plural:
+	- einige (some)
+	- mehrere (several)
+	- sämtliche (all)
+	- viele (many)
+	- wenige (few)
+- Solcher (such) is a special case, it is used mostly in the plural and is declined like dieser:
+	- Solcher Bücher sind sehr interessant
+- When used with a singular noun, solcher is preceded by **ein** and is declined like an adjective:
+	- Ein solches Hemd würde ich nie tragen.
+	- I'd never wear such a shirt
+- Solcher is also used in its undeclined form (**solch**) as a replacement for **so**:
+	- so eine Wohnung - such an apartment
+	- solch eine Wohnung - such an apartment
+	- so ein Flugzeug - such an airplane
+	- solch ein Flugzeug - such an airplane
 
+&nbsp;
 
+#### Ein words
 
+&nbsp;
+
+| ------     | masculine       | feminine     | neuter        | plural         |
+|------------|-----------------|--------------|---------------|----------------|
+| nominative | kein Freund     | keine Lampe  | kein Haus     | keine Tische   |
+| accusative | keinen Freund   | keine Lampe  | kein Haus     | keine Tische   |
+| dative     | keinem Freund   | keiner Lampe | keinem Haus   | keinen Tischen |
+| genetive   | keines Freundes | keiner Lampe | keines Hauses | keiner Tische  |
+
+&nbsp;
+
+- the other words are declined in the same way, and all of them, except for **ein** itself, can be used with either singular or plural nouns:
+	- mein
+	- dein
+	- sein
+	- ihr her
+	- unser our
+	- euer your plural informal
+	- Ihr your singular or plural formal
+	- ihr their
+
+&nbsp;
+
+### Exercise 44
+
+&nbsp;
+
+| ---                | nominative    | accusative    | dative         | genetive        |
+|--------------------|---------------|---------------|----------------|-----------------|
+| 1. kein / Blume    | keine Blume   | keine Blume   | keiner Blume   | keiner Blume    |
+| 2. mein / Kinder   | keine Kinder  | keine Kinder  | keiner Kindern | keiner Kinder   |
+| 3. jener / Freunde | jene Freunde  | jene Freunde  | jener Freunde  | jener Freunde   |
+| 4. welcher / Zug   | welcher Zug   | welchen Zug   | welchem Zug    | welches Zuges   |
+| 5. unser / Artz    | unser Arzt    | unseren Arzt  | unserem Arzt   | unseres Artzes  |
+| 6. einige / Tassen | einige Tassen | einige Tassen | einigen Tassen | einiger Tassens |
+| 7. viele / Leute   | viele Leute   | viele Leute   | vielen Leuten  | vieler Leute    |
+| 9. dein / Kusine   | deine Kusine  | deine Kusine  | deiner Kusine  | deiner Kusine   |
+| 8. jeder / Stück   | jeder Stück   | jeden Stück   | jedem Stück    | jedes Sückes    |
+| 10. beide / Länder | beide Länder  | beide Länder  | beiden Ländern | beider Länder   |
 
 
 
