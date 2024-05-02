@@ -1264,7 +1264,11 @@ NB: Nouns in the dative plural must have an **-n** ending:
 
 ### Summary 
 
-
+| -----      | masculine       | feminine     | neuter        | plural         |
+| nominative | dieser Freund   | diese Lampe  | dieses Haus   | diese Tische   |
+| accusative | diesen Freund   | diese Lampe  | dieses Haus   | diese Tische   |
+| dative     | diesem Freund   | dieser Lampe | diesem Haus   | diesen Tischen |
+| genetive   | dieses Freundes | dieser Lampe | dieses Hauses | dieser Tische  |
 
 
 
