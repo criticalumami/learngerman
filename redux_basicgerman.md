@@ -34,3 +34,7 @@
 |wir    |-en    |kommen |wohnen |hören  |
 |ihr    |-t     |kommt  |wohnt  |hört   |
 |Sie    |-en    |kommen |wohnen |hören  |
+
+&nbsp;
+
+
