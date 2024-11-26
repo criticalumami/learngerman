@@ -2,7 +2,7 @@
 %mzrxa
 &nbsp;  
 
-## Unit 3: Ver variations and irregular verbs
+## Unit 3: Verb variations and irregular verbs
 
 ich -e  
 du -st  
@@ -20,8 +20,7 @@ du arbeitest
 Sie arbeiten  
 er/sie/est arbeitet  
 wir arbeiten  
-ihr arbeitet  
-Sie arbeiten  
+ihr arbeitet  Sie arbeiten  
 sie arbeiten  
 
 **Tanzen**  
