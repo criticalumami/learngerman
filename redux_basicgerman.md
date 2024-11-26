@@ -24,3 +24,13 @@
 |kommen|komm|to come|
 |wohnen|wohn|to live|
 |hören|hör|to hear|
+
+&nbsp;
+
+|       |       |komm-en|wohn-en|hör-en |
+|----   |----   |---    |---    |---    |
+|Sie    |-en    |kommen |wohnen |hören  |
+|er/sie/es|-t   |kommt  |wohnt  |hört   |
+|wir    |-en    |kommen |wohnen |hören  |
+|ihr    |-t     |kommt  |wohnt  |hört   |
+|Sie    |-en    |kommen |wohnen |hören  |
