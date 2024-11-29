@@ -46,7 +46,7 @@ du -st
 Sie -en
 er/sie/es -t
 wir -en
-ihr -t 
+ihr -t
 Sie -en
 sie -en
 
@@ -210,4 +210,4 @@ e &arr; ie
 
 &nbsp;
 
-1. 
+1.
