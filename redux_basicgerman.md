@@ -206,7 +206,7 @@ e &arr; ie
 
 &nbsp;
 
-## Exercise 3.1
+## Exercise 3.2
 
 &nbsp;
 
