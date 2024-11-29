@@ -125,6 +125,89 @@ sie -en
 
 &nbsp;
 
-1.
+1. the stem is the infinitive without -en -n
+2. -e -st -en -t
+3. -en -en -t -en
+4. one present tense in german
+5. conjugated or 'personal' ending as opposed to an infinite -en ending
 
+&nbsp;
 
+# UNIT 3 - Verb variation and irregular verbs
+
+&nbsp;
+
+stems ending in **-d** or **-t**
+
+&nbsp;
+
+|infinitive|stem|finite verb||
+|arbeiten|arbeit|du arbeitest|to work|
+|kosten|kost|es kostet|to cost|
+|reden|red|ihr redet|to talk|
+
+&nbsp;
+
+verbs such as **atmen** and **regnen**
+
+&nbsp;
+
+|infinitive|stem|finite verb||
+|atmen|atm|du atmest|to breathe|
+|regnen|regn|es regnet|to rain|
+
+&nbsp;
+
+only du, es/sie/es and ihr are affected
+
+&nbsp;
+
+stems ending in **-s**, **-ss**, **-ß**, **-x** or **-z**
+
+&nbsp;
+
+|infinitive|finite verb||
+|reisen|du reist| to travel|
+|küssen|du küsst|to kiss|
+|heißen|du heißt|to be called|
+|mixen|du mixt|to mix|
+|tanzen|du tanzt| to dance|
+
+&nbsp;
+
+Irregular verbs with vowel changes
+
+&nbsp;
+
+|infinitive|finite verb||
+|schlafen|du schläfst|to sleep|
+|essen|du isst|to eat|
+|sprechen|er spricht|to speak|
+|lesen|er liest|to read|
+|sehen|sie sieht|to see|
+
+&nbsp;
+
+a &arr; ä
+e &arr; i
+e &arr; ie
+
+&nbsp;
+
+## Exercise 3.1
+
+&nbsp;
+
+1. ich arbeite, du arbeitest, Sie arbeiten, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, Sie arbeiten, sie arbeiten.
+2. ich tanze, du tanzt, Sie tanzen, er/sie/es tanzt, wir tanzen, ihr tanzt, Sie tanzen, sie tanzen.
+3. ich heiße, du heißt, Sie heißen, er/sie/es heißt, wir heißen, ihr heißt, Sie heißen, sie heißen.
+4. ich reise, du reist, Sie reisen, er/sie/es reist, wir reisen, ihr reist, Sie reisen, sie reisen.
+5. ich googele, du googelest, Sie googeln, er/sie/es googelet, wir googeln, ih googelet, Sie googeln, sie googeln.
+
+&nbsp;
+
+## Exercise 3.1
+
+&nbsp;
+
+1. 
