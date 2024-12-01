@@ -210,4 +210,35 @@ e &arr; ie
 
 &nbsp;
 
-1.
+|bleiben|x|helfen|-|schreiben|x|stehen|-|
+|essen|-|kommen|x|schwimmen|x|tragen|-|
+|fahren|-|nehmen|-|sehen|-|treffen|-|
+|geben|-|lesen|-|singen|x|trinken|x|
+|gehen|x|schlafen|-|sprechen|-|waschen|-|
+
+&nbsp;
+
+## Exercise 3.3
+
+&nbsp;
+
+1. Ich heiße Hans Homann &arr; Er heißt Hans Homann.
+2. Ich komme aus Wien &arr; Er kommt aus Wien.
+3. Ich arbeite bei Radio Ö24 &arr; Er arbeitet bei Radio Ö24.
+4. Ich esse zu Mittag meistens Sushi &arr; Er isst zu mittag meistens Sushi.
+5. Ich spreche nat¨rlich Deutsch, aber auch Englisch und Spanisch &arr; Er spricht natürlich Deutsch, aber auch Englisch und Spanisch.
+6. Ich lese gern Kriminalromane &arr; Er liet gern Kriminalromane
+7. Ich fahre auch gern Ski und schwimme viel &arr; Er fährt auch gern Ski und schwimme viel.
+8. Ich sehe gern Filme mit Micheal Keaton &arr; Er sieht gern Filme mit Micheal Keaton.
+9. Ich schlafe oft lange &arr; Er schläft oft lange.
+10. Ich reise gern &arr; Er reißt gern.
+11. Am Abend treffe ich oft Freunde im Kaffeehaus &arr; Am Abend trifft er oft Freunde im Kaffeehaus.
+12. Am Wochenende helfe ich manchmal alten Leuten &arr; Am Wochenende hilft er manchmal alten Leuten.
+
+&nbsp;
+
+## Exercise 3.4
+
+&nbsp;
+
+ 
