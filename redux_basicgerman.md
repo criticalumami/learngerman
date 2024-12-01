@@ -241,4 +241,11 @@ e &arr; ie
 
 &nbsp;
 
- 
+1. Sie liest ein Buch
+2. Peter spricht Deutsch und Englisch
+3. Wir sprechen Deutsch und Spanisch
+4. Magda essen gern Pizza
+5. Ich treffe Nadine
+6. Sie nimmt den U-Bahn
+7. Er trägt ein T-shirt
+8. Er regnet
