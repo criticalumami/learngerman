@@ -249,3 +249,192 @@ e &arr; ie
 6. Sie nimmt den U-Bahn
 7. Er trägt ein T-shirt
 8. Er regnet
+
+&nbsp;
+
+Checklist
+
+&nbsp;
+
+- **e** is added for ease of pronunciation
+- **e** is added
+- a &arr ä
+- e &arr i
+- e &arr ie etc
+- no i can't
+
+&nbsp;
+
+# UNIT 4 - Irregular verbs: **haben** and **sein**
+
+&nbsp;
+
+## Exercise 4.1
+
+&nbsp;
+
+1. Hast du heute Abend Zeit?
+2. Wir haben neue Nachbarn.
+3. Er hat eine Scwester und einen Bruder.
+4. Habt ihr etwas Geld?
+5. Nadine hat ein neues Tablet.
+6. Haben SIe ein Zimmer frei?
+7. Ich habe Hunger.
+8. Susanne und Frank habt eine neue Wohnung.
+
+&nbsp;
+
+## Exercise 4.2
+
+&nbsp;
+
+1. Sind Sie Engländer? - Nein, ich bin aus Australien.
+2. Bist du aus Deutschland? - Ja, ich komme aus der Nähe von Bonn.
+3. Seid ihr München? - Nein, sind aus Nürnberg.
+4. Was ist Nele von Beruf? - Sie ist Designerin.
+5. Was machen Katrin und Jan? - Beide sind Studenten.
+6. Was sind deine Hobbys? - Mein Hobbys sind Musik und Computerspiele.
+7. Wo bist du geboren? - Ich bin in Düsseldorf geboren.
+8. Wo seid ihr geboren? - Wir sind beide in den USA geboren.
+
+&nbsp;
+
+## Exercise 4.3
+
+&nbsp;
+
+ich habe
+du hast
+Sie haben
+er/sie/es hat
+wir haben
+ihr habt
+Sie haben
+sie haben
+
+ich bin
+du bist
+Sie sind
+er/sie/es ist
+wir sind
+ihr seid
+Sie sind
+sie sind
+
+&nbsp;
+
+## Exercise 4.4
+
+&nbsp;
+
+1. Wir sind aus New York.
+2. Sie sind aus Australien.
+3. Mario ist aus München.
+4. Bist du Herr Becker? Sind Sie Herr Becker?
+5. Er hat eine Schwester.
+6. Hast du Zeit? Haben Sie Zeit?
+7. Sie sind Studenten.
+8. Ich habe ein Tablett.
+9. Es ist schwer.
+10. Bonn ist in Deutschland und Salzburg ist in Österreich.
+
+&nbsp;
+
+## Checklist
+
+&nbsp;
+
+1. yes
+2. idk
+3. Ich habe Hunger.
+4. nein.
+
+&nbsp;
+
+# UNIT 5 - Sperabale verbs in the present tense
+
+&nbsp;
+
+abfahren - to leave, to depart
+abholen - to pick up, to collect
+abwaschen - to do the washing up
+anfangen - to start
+ankommen - to arrive
+anrufen - to phone
+aufhören - to stop
+aufräumen - to dity up
+aufstehen - to get up
+ausgehen - to go out
+ausschalten - to switch off
+einkaufen - to go shopping
+einladen - to invite
+einschlafen - to fall asleep
+fernsehen - to watch television
+mitbringen - to bring along
+mitkommen - to come along
+mitmachen - to join in
+stattfinden - to take place
+vorbereiten - to prepare
+sich vorstellen - to introduce onself
+zumachen - to close
+
+&nbsp;
+
+anrufen &arr; Herr Lobo ruft seine Frau an.
+aufstehen &arr; Nico steht um fünf Uhr morgens auf.
+ausgehen &arr; Yasmin geht jeden Tag aus.
+fernsehen &arr; Die Kinder stehen nicht viel fern.
+einkaufen &arr; Er kauft im Supermarkt ein.
+stattfinden &arr; Das Meeting findet am Montag statt.
+
+&nbsp;
+
+Ich stehe auf und dann früstücke ich.
+Herr Carlseh sieht fern, aber seine Kinder lese.
+
+Herr Schuster schläft erst um Mitternacht ein, aber er steht schon um fünf Uhr auf.
+
+&nbsp;
+
+anmachen - to turn/switch on
+aufmachen - to open
+ausmachen - to turn/switch off
+mitmachen - to join in
+nachmachen - to imitate
+saubermachen - to clean
+weitermachen - to continue
+zumachen - to close
+
+&nbsp;
+
+common separable prefix:
+
+ab-, an-, aus-, ein-, mit-, nach-, vor-, zu-, zurück-
+
+&nbsp;
+
+be-, er-, ge-, ver-
+
+&nbsp;
+
+## Exercise 5.1
+
+&nbsp;
+
+1. Jens steht um halb acht Uhr auf.
+2. Er fängt seine Arbeit um neun Uhr an.
+3. Mittags ruft er seine Freundin an.
+4, Er druckt am Nachmittag viele Dokumente aus.
+5. Um siebzehn Uhr hört er mit seiner Arbeit auf.
+6. Nach der Arbeit kauft er im Supermarkt ein.
+7. Abends sieht er manchman fern.
+8. AmWochenende geht er oft aus.
+0. Er schläft meistens ein na!?!?!?!
+
+&nbsp;
+
+## Exercise 5.2
+
+&nbsp;
+
+
