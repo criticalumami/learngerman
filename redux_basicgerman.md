@@ -437,4 +437,36 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+|||||||||
+|---|---|---|---|---|---|---|---|
+|aufstehen|-|verlieren|x|abfahren|-|anrufen|-|
+|verkaufen|x|fernsehen|-|anhängen|-|stattfinden|-|
+|einladen|-|mitkommen|-|bezahlen|x|erzählen|x|
+|aufräumen|-|frühstücken|x|einkaufen|-|besuchen|x|
+
+&nbsp;
+
+## Exercise 5.3
+
+&nbsp;
+
+1. Herr und Frau Nowitzki stehen um sieben Uhr auf.
+2. Die Kinder räumen ihr Zimmer auf.
+3. Er kauft immer im Supermarkt ein.
+4. Wir gehen Café. Kommst du mit?
+5. Wann findet das Konzert statt?
+6. Herr Beckmann liebt TV-Serien. Er sieht jeden Tag fern.
+7. Wann fährt der nächste Zug nach Hamburg an?
+8. Wir suchen viele Gäste zu unsere Party !?!?!
+9. Philip ?!?!?!
+10. Sie hat ein neues Smartphone und rufen ihre Freundin an.
+
+&nbsp;
+
+## Exercise 5.4
+
+&nbsp;
+
+1. Ich stehe am sechs an.
+2. Ich 
 
