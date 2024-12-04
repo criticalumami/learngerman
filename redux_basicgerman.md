@@ -468,5 +468,18 @@ be-, er-, ge-, ver-
 &nbsp;
 
 1. Ich stehe am sechs an.
-2. Ich 
+2. Ich fange mein arbeit um acht Uhr.
+3. Der treffen findet am Montag statt.
+4. Wann fahrt der Zug an?
+5. Wann kommt der Zug an?
+6. Die Kinder fernsehen.
+7. Kommst du mit?
+8. !?!?
+
+&nbsp;
+
+## UNIT 6
+
+&nbsp;
+
 
