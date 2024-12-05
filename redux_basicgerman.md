@@ -478,8 +478,60 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## UNIT 6
+## UNIT 6 - Imperatives
 
 &nbsp;
 
+## Exercise 6.1
 
+&nbsp;
+
+1. Bringen Sie mir noch einen Saft, bitte.
+2. Öffnen Sie bitte das Fenster.
+3. Warten Sie bitte noch fünf Minuten.
+4. Schicken Sie mir eine SMS.
+5. Kommen Sie herein!
+6. Fangen Sie an!
+7. Seien Sie bitte ruhig.
+8. Haben Sie ein bisschen Geduld.
+
+&nbsp;
+
+## Exercise 6.2
+
+&nbsp;
+
+1. Bring mir noch einen Saft, bitte.
+2. Öffne bitte das Fenster.
+3. Warte bitte noch fünf Minuten.
+4. Schick mir eine SMS.
+5. Komme herein!
+6. Fang an!
+7. Sei bitte ruhig.
+8. Hab ein bisschen Geduld
+
+&nbsp;
+
+## Exercise 6.3
+
+&nbsp;
+
+1. Fahr mehr mit dem Fahrrad
+2. Geh zu einem Yogakurs
+3. Sieh weniger fern.
+4. Iss mehr Gemüse.
+5. Lies einen Blog über Gesundheit.
+6. Schlaf mehr.
+7. Sei relaxter.
+8. Geh mehr aus.
+9. Finde eine bessere Work-Life-Balance.
+
+&nbsp;
+
+## Exercise 6.4
+
+&nbsp;
+
+1. Fang an:
+    1. Fangen Sie an.
+    2. 
