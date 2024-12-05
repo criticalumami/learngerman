@@ -532,6 +532,16 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-1. Fang an:
-    1. Fangen Sie an.
-    2. 
+- Fang an.
+- Fangen Sie an.
+- Fangt an.
+
+- Öffne das Fenster.
+- Öffnen das Fenster.
+- Öffnet das Fenster.
+
+- Schike mir ein SMS.
+- Schicken mir ein SMS.
+- Shickt mir ein SMS.
+
+-  
