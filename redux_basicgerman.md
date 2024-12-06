@@ -544,4 +544,6 @@ be-, er-, ge-, ver-
 - Schicken mir ein SMS.
 - Shickt mir ein SMS.
 
--  
+- Sei vorsichtig.
+- Sein Sie vorsichtig.
+- Seid vorischtig.
