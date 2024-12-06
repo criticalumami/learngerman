@@ -547,3 +547,28 @@ be-, er-, ge-, ver-
 - Sei vorsichtig.
 - Sein Sie vorsichtig.
 - Seid vorischtig.
+
+&nbsp;
+
+## Checklist
+
+&nbsp;
+
+- 
+
+&nbsp;
+
+# UNIT 7 - Questions
+
+&nbsp;
+
+## Exercise 7.1
+
+&nbsp;
+
+1. Wie heißen Sie?
+2. Wo wohnen Sie?
+3. Was ist Ihre E-Mail-Adresse?
+4. Was arbeiten Sie?
+5. Was sind Sie von Beruf?
+6. Woher kommen Sie eigentlich? 
