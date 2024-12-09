@@ -572,3 +572,30 @@ be-, er-, ge-, ver-
 4. Was arbeiten Sie?
 5. Was sind Sie von Beruf?
 6. Woher kommen Sie eigentlich? 
+7. Wie viel kostet das?
+8. Wann beginnt der Workshop?
+9. Wie viel Uhr ist es?
+10. Wann kommt der Tennisspieler?
+11. Woher fahren wir am Sonntag?
+12. Wie viele Einwohner hat Deutschland?
+
+&nbsp;
+
+## Exercise 7.2
+
+&nbsp;
+
+1. Ist das Restaurant wirklich sehr billig?
+2. Ist Leon wirklich verheiratet?
+3. Macht Frau Weber wirklich viel Sport?
+4. Kostet das Smartphone wirklich nur 80 Euro?
+5. Stehen Jennifer und Max wirklich um sechs Uhr auf?
+
+&nbsp;
+
+## Exercise 7.3
+
+&nbsp;
+
+1. Wie heißen Sie?
+2. 
