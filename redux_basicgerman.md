@@ -598,4 +598,52 @@ be-, er-, ge-, ver-
 &nbsp;
 
 1. Wie heißen Sie?
-2. 
+2. Was bist du von Beruf?
+3. Wann du beginnst deine Arbeit?
+4. Ist die Arbeit interessant?
+5. Hast du Kinder?
+6. Bist du verheiratet?
+7. Hast du Hobbys?
+8. Sprichst du Spanisch?
+
+&nbsp;
+
+## Exercise 7.4
+
+&nbsp;
+
+- Was heißt du?
+- Was heißen Sie?
+
+- Woher kommst du?
+- Woher kommen Sie?
+
+- Was ist deine email address?
+- Was ist Ihre email address?
+
+- 
+- 
+
+- Bist du verheiratet?
+- Sind Sie verheiratet?
+
+- Hast du Kinder?
+- Haben Sie Kinder?
+
+- Sprichst du Englisch?
+- Sprechen Sie Englisch?
+
+- Was ist es von Berfu?
+
+&nbsp;
+
+## Checklist
+
+&nbsp;
+
+1. Was heißen Sie? Wo wohnen Sie?
+2. First position.
+3. Second position.
+4. Wohin, Woher.
+
+
