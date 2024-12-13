@@ -646,4 +646,38 @@ be-, er-, ge-, ver-
 3. Second position.
 4. Wohin, Woher.
 
+&nbsp;
+
+## UNIT 8 - Articles
+
+&nbsp;
+
+## Exercise 8.1
+
+&nbsp;
+
+1. Die Frau kommt aus Brasilien.
+2. Die Idee ist wirklich gut.
+3. Wie heißt die June?
+4. Der Mann von Elena ist aus München.
+5. Das Handy ist teuer.
+6. Da ist der Manager.
+7. Ist dies das Kind von Tim?
+8. Der Sommer ist jetzt zu Ende.
+9. Der Türkei ist schön.
+10. Was machen die Kinder?
+
+&nbsp;
+
+## Exercise 8.2 
+
+&nbsp;
+
+- der ein
+- die eine
+- das ein
+- die -
+
+&nbsp;
+
 
