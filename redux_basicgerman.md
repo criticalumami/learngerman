@@ -680,4 +680,36 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+## Exercise 8.3
+
+&nbsp;
+
+1. Der Kaffee ist stark.
+2. Das ist ein neues Computerspiel.
+3. Canberra ist die Hauptstadt von Australien.
+4. Ich möchte ein Bier und eine Cola, bitte.
+5. Hannover ist eine Stadt in Deutschland.
+6. Das Restaurant ist sehr gut.
+
+&nbsp;
+
+## Exercise 8.4
+
+&nbsp;
+
+1. Die Frau kommt aus Berlin.
+2. Der Kaffee schmekt lecker.
+3. Das kind ist sieben Jahre alt.
+4. Die Kinder spielen Fußball.
+5. Er ist Amerikaner.
+6. Er ist Lehrer.
+7. Das ist die Brandenburger Tor.
+8. Frühling war kalt.
+
+&nbsp;
+
+## UNIT 9 - Nouns and gender
+
+&nbsp;
+
 
