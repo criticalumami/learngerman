@@ -828,4 +828,29 @@ be-, er-, ge-, ver-
 
 1. die Täge
 2. die Kürse
-3. die Orangens
+3. die Orangensaften
+4. die Gäste
+5. die Schnaps
+6. die Tässe
+7. die Tomaten
+8. die Meinungen
+9. die Städt
+10. die Brätwursten
+11. die Schiffer
+12. die Programme
+13. die Häuser
+14. die Bücher
+15. die Länder
+16. die Hotels
+17. die Blogs
+18. Die Handys
+19. die Tweets
+20. die Sneakers
+
+&nbsp;
+
+### Exercise 10.3
+
+&nbsp;
+
+
