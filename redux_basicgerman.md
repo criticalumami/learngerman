@@ -682,6 +682,7 @@ be-, er-, ge-, ver-
 
 ## Exercise 8.3
 
+
 &nbsp;
 
 1. Der Kaffee ist stark.
@@ -709,6 +710,96 @@ be-, er-, ge-, ver-
 &nbsp;
 
 ## UNIT 9 - Nouns and gender
+
+&nbsp;
+
+### Exercise 9.1
+
+&nbsp;
+
+1. Der Montag, Dienstag, Mittwoch, Sonntag.
+2. Der Audi, Ferrari, Nissan, Ford.
+3. Das Silber, Gold, Eisen, Kupfer.
+4. Die Rose, Tulpe, Sonnenblume.
+4. Die Tochter, Schwester, Mutter, Cousine.
+5. Der Sommer, Frühling, Herbst, Winter.
+6. Der Wodka, Champoagner, Rotwein, Schnaps.
+7. Das  Schwimmen, Essen, Tanzen, Joggen.
+
+&nbsp;
+
+### Exercise 9.2
+
+&nbsp;
+
+- Bäckerei - f
+- Lampe -f 
+- Liberalismus - m
+- Zeitung - f
+- Meinung - f
+- Karte - f
+- Auto - n
+- Mädchen - n
+- Emigration - f
+- Nation - f
+- Kino - n
+- Honig - m
+- Optimismus - m 
+- Flasche - f
+- Metzgerei - f
+- Zentrum - n
+- Universität - f
+- Mädchen - n
+- Temperatur - f
+- Museum - n
+- Religion - f
+- Instrument - n
+- Potenzial - n
+- Motor - m
+- Natur - f
+
+|masculine|feminine|neuter|
+|---|---|---|
+|-ismus -ig|-e -ion -ung -ei -ie -tät -ung -ur|-en -um -o|
+|---|---|---|
+
+&nbsp;
+
+### Exercise 9.3
+
+&nbsp;
+
+
+
+1. Berlin ist eine fatastische Stadt.
+2. Das Hotel liegt sehr zentral.
+3. Der Service ist ausgezeichnet und das Essen ist gut.
+4. Die Woche geht schnell vorbei.
+5. Die Menschen in Berlin sind sehr freundlich.
+6. Heute abend gehen wir zuerst in ein Konzert und dann in ein Restaurant und feiern unseren letzten Tag in Berlin.
+
+&nbsp;
+
+### Exercise 9.4
+
+&nbsp;
+
+1. Das E-Auto fährt sehr ökologisch.
+2. Der Tisch und das Regal sind kaputt.
+3. Die Tochter heißt Marina.
+4. Die Rose ist sehr schön.
+5. Die Karte kostet 10 Euro.
+6. Die Jacke ist von Chanel.
+7. Das Bier ist alkoholfrei.
+8. Das Stadtzentrum ist sehr alt.
+9. Ist der VW neu?
+10. Das Mädchen ist elf Jahre alt und Die Junge ist sieben.
+11. Die Internetverbindung ist sehr langsam.
+12. Der Grammatik ist manchmal schwer.
+
+&nbsp;
+
+## UNNIT 10 - Plural of nouns
 
 &nbsp;
 
