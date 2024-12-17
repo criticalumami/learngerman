@@ -803,4 +803,29 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 10.1
 
+&nbsp;
+
+1. Messer nt, die Messer
+2. Mantel, die Mäntel
+3. Buch, die Bücher
+4. Kühlschrank, die Kühlschränke
+5. Glas, die Gläser
+6. Mutter, die Mütter
+7. Passwort, die Passwörter
+8. Regal, die Regale
+9. Tasse, die Tassen
+10. Teppich, die Teppiche
+11. Zeitung, die Zeitungen
+12. Zimmer, die Zimmer
+
+&nbsp;
+
+### Exercise 10.2 
+
+&nbsp;
+
+1. die Täge
+2. die Kürse
+3. die Orangens
