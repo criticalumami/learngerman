@@ -853,4 +853,25 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 10.4
+
+&nbsp;
+
+1. Ich möchte zwei Flaschen, bitte.
+2. Zwei Würsten, bitte.
+3. Die Äpfel sind sehr süß.
+4. Er hat zwei Schwestern und drei Brüder.
+5. Er liest drei Zeitungen.
+6. Der Haus hat vier Räume.
+7. Die Häuse sind neu.
+8. Sie spricht fünf Sprache.
+9. Er hat drei Handys.
+10. Die Parties sind immer interessant.
+
+&nbsp;
+
+## UNIT 11 - The four cases
+
+&nbsp;
+
 
