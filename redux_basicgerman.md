@@ -874,4 +874,48 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 11.1
 
+&nbsp;
+
+1. Der Mann
+2. Das Kind
+3. das Auto
+4. Die Tochter
+5. die Nachbarin
+6. die Leute
+
+&nbsp;
+
+### Exercise 11.2
+
+&nbsp;
+
+1. "der Frau" is in the dative case, "ein Buch" is in the accusative case
+2. "dem Mädchen" is in the dative case, "ein Eis" is in the accusative case
+3. "dem Gast" is in the dative case, "den Garten" is in the accusative case
+4. "dem Mann" is in the dative case, "das Essen" is in the accusative case
+
+&nbsp;
+
+### Exercise 11.3
+
+&nbsp;
+
+#### The indefinite article
+
+||accusative||dative||genetive||
+|masculine|einen|x|einem|x|eines|x|
+|feminine|eine|-|einer|x|einer|x|
+|neuter|ein|-|einem|x|eines|x|
+
+#### The definite article
+
+||accusative||dative||genetive||
+|masculine|den|x|dem|x|des|x|
+|feminine|die|-|der|x|der|x|
+|neuter|das|-|dem|x|des|x|
+
+&nbsp;
+
+## UNIT 12 - The nominative case
