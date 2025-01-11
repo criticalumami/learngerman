@@ -1077,5 +1077,11 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-1.  Das ist das Mountainbike meines Sohnes &arr; Das ist das Mountainbike von meinem Sohn
-2.
+1. Das ist das Mountainbike von meinem Sohn
+2. Das ist die Sportsachen von meiner Frau
+3. Das ist das Spielzeug von meinem Kinder
+4. Das ist die Frau von meinem Chef
+5. Da vorne steht der Scooter von meiner Schwester
+6. Die Lehrerin von meinem Englischkurse kommt aus New York
+7. Der Trainer von unserer Hockeymannschaft ist sehr gut
+8. Die Meinung von meiner Freunde ist mir sehr wichtig
