@@ -1007,4 +1007,24 @@ be-, er-, ge-, ver-
 &nbsp;
 
 1. Ich möchte einen Kaffee.
-2. 
+2. Das Pullover ist für meinen Bruder.
+3. Die Frau kauft ein Camcorder.
+4. Das Kind liest das Buch.
+5. Der Mann kauft das PC.
+6. Das Buch ist für meine Schwester.
+7. Wir laufen ...
+8. Ich brauche eine Kaffeemaschine und eine Mikrowellve.
+9. Ich brauche eine ...
+10. Ich bin für die Idee.
+
+&nbsp;
+
+## UNIT 14 - The dative case
+
+&nbsp;
+
+### Exercise 14.1 
+
+&nbsp;
+
+
