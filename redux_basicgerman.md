@@ -1036,4 +1036,45 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 14.2
 
+&nbsp;
+
+1. deinem
+2. dem
+3. der
+4. einem
+5. einer
+6. dem
+7. einem
+8. dem
+9. der
+10. dem
+11. dem
+12. den Kindern
+
+&nbsp;
+
+### Exercise 14.3
+
+&nbsp;
+
+1. Sie gibt dem Baby ein Buch 
+2. Paulina kauft dem Kind ein Eis
+3. Er gibt dem Großvater eine Flasche Wein
+4. Er folgt dem Mann
+5. Das iPad gehört meinem Fahrer
+6. Peter hilft dem Mädchen
+7. Er gibt den Kindern ein Fußball
+
+&nbsp;
+
+## UNIT 15 - The genetive case
+
+&nbsp;
+
+### Exercise 15.1 
+
+&nbsp;
+
+1. 
