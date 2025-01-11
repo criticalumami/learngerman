@@ -1027,4 +1027,13 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-1. 
+1. Sie gibt dem Großvater ein Buch über Nelson Mandela
+2. Sie gibt der Mutter einen Strauß Blumen.
+3. Sie gibt dem Vater eine Flasche Wein.
+4. Sie gibt der Sohn Star-Wars-Taddr.
+5. Sie gibt der Tochter ein Haarband.
+6. Sie gibt dem Baby einen Ball.
+
+&nbsp;
+
+
