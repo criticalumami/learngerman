@@ -922,4 +922,89 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 12.1
 
+&nbsp;
+
+1. Dies ist ein LED-Fernseher. Der LED-Fernseher kostet 400 Euro.
+2. Dies ist ein Auto. Das Auto ist ein VW.
+3. Dies ist eine Zeitung. Die Zeitung heißt Die Welt.
+4. Dies ist eine Flasche Bier. Die Flasche kommt aus München.
+5. Dies ist ein Hotel. Das Hotel heißt Maritim.
+6. Dies ist ein Supermarkt. Der Supermarkt heißt Aldi.
+7. Dies sind Studenten. Die Studenten kommen aus Kanada.
+8. Dies sind Trainers. Die Trainers sind neu.
+
+&nbsp;
+
+### Exercise 12.2
+
+&nbsp;
+
+1. wir
+2. Meine Mutter
+3. du
+4. wir
+5. er
+6. die Musik
+7. ich
+
+&nbsp;
+
+### Exercise 12.3
+
+&nbsp;
+
+1. Das ist ein Haus.
+2. Das Haus ist sehr alt.
+3. Der Mann heißt Mario.
+4. Die Zeitung ist sehr interessant.
+5. Edeka ist ein Supermarkt in Deutschland.
+6. Meine Frau arbeitet in Hamburg.
+7. Wie sind meine Kindern.
+
+&nbsp;
+
+## UNIT 13 - The accusative case
+
+&nbsp;
+
+### Exercise 13.1 
+
+&nbsp;
+
+1. die Lample &arr; Ich brauche eine Lampe.
+2. die Blumenvase &arr; Ich brauche eine Blumenvase.
+3. der Küchentisch &arr; Ich brauche einen Küchentisch.
+4. das Sofa &arr; Ich brauche eine Sofa.
+5. das Bücherregal &arr; Ich brauche ein Bücherregal.
+6. der Teppich &arr; Ich brauche einen Teppich.
+7. der Kühlschrank &arr; Ich brauche einen Kühlschrank.
+8. die Mikrowelle &arr; Ich brauche eine Mikrowelle.
+9. die Kaffeemaschine &arr; Ich brauche eine Kaffeemaschine.
+10. das Handy &arr; Ich brauche ein Handy.
+11. der Camcorder &arr; Ich brauche einen Camcorder.
+
+&nbsp;
+
+### Exercise 13.2
+
+&nbsp;
+
+1. einen
+2. eine
+3. meine
+4. einen
+5. das
+6. die
+7. den
+8. die
+
+&nbsp;
+
+### Exercise 13.3
+
+&nbsp;
+
+1. Ich möchte einen Kaffee.
+2. 
