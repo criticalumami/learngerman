@@ -1085,3 +1085,38 @@ be-, er-, ge-, ver-
 6. Die Lehrerin von meinem Englischkurse kommt aus New York
 7. Der Trainer von unserer Hockeymannschaft ist sehr gut
 8. Die Meinung von meiner Freunde ist mir sehr wichtig
+
+&nbsp;
+
+### Exercise 15.2
+
+&nbsp;
+
+1. Das ist das Zimmer meines Sohnes.
+2. Das Cover des Buches ist sehr attraktiv.
+3. Wie war der Name der Sängerines.
+4. Der Vorname meiner Yogalehrerins ist Naheeda.
+5. Das Hobby meiner Chefins ist Outdoor-Fitness.
+6. Der Bildschirm meiner neuen Tablets ist besser für die Augen.
+7. Trotz der schlechten Wetters macht er einen Spaziergang.
+8. Während ihrer Mittagspauses checkt sie ihre Messages.
+
+&nbsp;
+
+### Exercise 15.3 
+
+&nbsp;
+
+1. Das ist meines Bruderes Moped.
+2. Das ist meiner Schwesters Auto.
+3. Sie sind der Freund meiner Tochters.
+4. Das ist Paulas Tasches.
+5. Es war Tims Fehler.
+
+&nbsp;
+
+## UNIT 16 - Presonal pronouns
+
+&nbsp;
+
+
