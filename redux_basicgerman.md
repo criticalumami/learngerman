@@ -1146,4 +1146,15 @@ be-, er-, ge-, ver-
 4. Ja, ich habe es.
 5. Ja, ich trinke ihn.
 6. Ja, ich mag sie.
-7. 
+7. Ja, ich mag sie.
+8. Ja, ich besuche dich.
+9. Ja, ich besuche euch.
+10. Ja, geht es mir gut.
+
+&nbsp;
+
+### Exercise 16.3
+
+&nbsp;
+
+
