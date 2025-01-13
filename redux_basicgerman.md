@@ -1124,7 +1124,7 @@ be-, er-, ge-, ver-
 &nbsp;
 
 1. Er kommt aus Bremen.
-2.Sie hat einen neuen Freund.
+2. Sie hat einen neuen Freund.
 3. Es ist neu.
 4. Sie spielen im Park Fußball.
 5. Sie waren teuer.
@@ -1143,4 +1143,7 @@ be-, er-, ge-, ver-
 1. Ja, ich kaufe es.
 2. Ja, ich könne ihn.
 3. Ja, ich könne sie.
-4. Ja, 
+4. Ja, ich habe es.
+5. Ja, ich trinke ihn.
+6. Ja, ich mag sie.
+7. 
