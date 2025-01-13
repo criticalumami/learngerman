@@ -1123,4 +1123,24 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+1. Er kommt aus Bremen.
+2.Sie hat einen neuen Freund.
+3. Es ist neu.
+4. Sie spielen im Park Fußball.
+5. Sie waren teuer.
+6. Es kostet 7.50 Euro.
+7. Sie hat einen schechten Tag.
+8. Es heißt Lena.
+9. Er ist Ingenieur von Beruf.
+10. Sie machen Urlaub in einem Wellnesshotel.
 
+&nbsp;
+
+### Exercise 16.2
+
+&nbsp;
+
+1. Ja, ich kaufe es.
+2. Ja, ich könne ihn.
+3. Ja, ich könne sie.
+4. Ja, 
