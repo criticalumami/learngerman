@@ -1,8 +1,6 @@
-# UNIT 1
+# Basic German
 
-&nbsp;
-
-### Checklist
+## UNIT 1
 
 &nbsp;
 
@@ -15,7 +13,7 @@
 
 &nbsp;
 
-# UNIT 2 - Verbs in the present tense
+## UNIT 2 - Verbs in the present tense
 
 &nbsp;
 
@@ -64,13 +62,13 @@ sie -en
 6. jobben -> Und jobbst du? - Ja, ich jobbe als Kelnner in einer Bar.
 7. machen -> Was machst du nicht gern? - Ich mag nicht gern Sport.
 
-1. Wo wohnen Sie?
-2. Und was studieren Sie?
-3. Welche Musik hören Sie?
-4. Welche Sprache lernen Sie im Moment?
-5. Was trinken Sie gern?
-6. Und jobben Sie?
-7. Was machen Sie nicht gern?
+- Wo wohnen Sie?
+- Und was studieren Sie?
+- Welche Musik hören Sie?
+- Welche Sprache lernen Sie im Moment?
+- Was trinken Sie gern?
+- Und jobben Sie?
+- Was machen Sie nicht gern?
 
 &nbsp;
 
@@ -81,7 +79,7 @@ sie -en
 1. Ich heiße Ulrike.
 2. Kommst du wirklich au London?
 3. Peter wohnt im Stadzentrum.
-4.Das ist Pia. Sie geht sehr gern ins Fitnessstudio.
+4. Das ist Pia. Sie geht sehr gern ins Fitnessstudio.
 5. Was macht dein Bruder?
 6. Er studiert Physik.
 7. Wie heißen Sie?
@@ -115,9 +113,9 @@ sie -en
 4. Wir lernen Deutsch.
 5. Carla und Sopha spielt Fußball.
 6. a. Woher kommst du?
-6. b. kommen Sie.
-7. Wo wohnst du. wohnen Sie.
-8. Skypst. Skypen.
+7. b. kommen Sie.
+8. Wo wohnst du. wohnen Sie.
+9. Skypst. Skypen.
 
 &nbsp;
 
@@ -133,7 +131,7 @@ sie -en
 
 &nbsp;
 
-# UNIT 3 - Verb variation and irregular verbs
+## UNIT 3 - Verb variation and irregular verbs
 
 &nbsp;
 
@@ -188,13 +186,13 @@ Irregular verbs with vowel changes
 
 &nbsp;
 
-a &arr; ä
-e &arr; i
-e &arr; ie
+a &rarr; ä
+e &rarr; i
+e &rarr; ie
 
 &nbsp;
 
-## Exercise 3.1
+### Exercise 3.1
 
 &nbsp;
 
@@ -206,7 +204,7 @@ e &arr; ie
 
 &nbsp;
 
-## Exercise 3.2
+### Exercise 3.2
 
 &nbsp;
 
@@ -218,26 +216,26 @@ e &arr; ie
 
 &nbsp;
 
-## Exercise 3.3
+### Exercise 3.3
 
 &nbsp;
 
-1. Ich heiße Hans Homann &arr; Er heißt Hans Homann.
-2. Ich komme aus Wien &arr; Er kommt aus Wien.
-3. Ich arbeite bei Radio Ö24 &arr; Er arbeitet bei Radio Ö24.
-4. Ich esse zu Mittag meistens Sushi &arr; Er isst zu mittag meistens Sushi.
-5. Ich spreche nat¨rlich Deutsch, aber auch Englisch und Spanisch &arr; Er spricht natürlich Deutsch, aber auch Englisch und Spanisch.
-6. Ich lese gern Kriminalromane &arr; Er liet gern Kriminalromane
-7. Ich fahre auch gern Ski und schwimme viel &arr; Er fährt auch gern Ski und schwimme viel.
-8. Ich sehe gern Filme mit Micheal Keaton &arr; Er sieht gern Filme mit Micheal Keaton.
-9. Ich schlafe oft lange &arr; Er schläft oft lange.
-10. Ich reise gern &arr; Er reißt gern.
-11. Am Abend treffe ich oft Freunde im Kaffeehaus &arr; Am Abend trifft er oft Freunde im Kaffeehaus.
-12. Am Wochenende helfe ich manchmal alten Leuten &arr; Am Wochenende hilft er manchmal alten Leuten.
+1. Ich heiße Hans Homann &rarr; Er heißt Hans Homann.
+2. Ich komme aus Wien &rarr; Er kommt aus Wien.
+3. Ich arbeite bei Radio Ö24 &rarr; Er arbeitet bei Radio Ö24.
+4. Ich esse zu Mittag meistens Sushi &rarr; Er isst zu mittag meistens Sushi.
+5. Ich spreche nat¨rlich Deutsch, aber auch Englisch und Spanisch &rarr; Er spricht natürlich Deutsch, aber auch Englisch und Spanisch.
+6. Ich lese gern Kriminalromane &rarr; Er liet gern Kriminalromane
+7. Ich fahre auch gern Ski und schwimme viel &rarr; Er fährt auch gern Ski und schwimme viel.
+8. Ich sehe gern Filme mit Micheal Keaton &rarr; Er sieht gern Filme mit Micheal Keaton.
+9. Ich schlafe oft lange &rarr; Er schläft oft lange.
+10. Ich reise gern &rarr; Er reißt gern.
+11. Am Abend treffe ich oft Freunde im Kaffeehaus &rarr; Am Abend trifft er oft Freunde im Kaffeehaus.
+12. Am Wochenende helfe ich manchmal alten Leuten &rarr; Am Wochenende hilft er manchmal alten Leuten.
 
 &nbsp;
 
-## Exercise 3.4
+### Exercise 3.4
 
 &nbsp;
 
@@ -265,11 +263,11 @@ Checklist
 
 &nbsp;
 
-# UNIT 4 - Irregular verbs: **haben** and **sein**
+## UNIT 4 - Irregular verbs: **haben** and **sein**
 
 &nbsp;
 
-## Exercise 4.1
+### Exercise 4.1
 
 &nbsp;
 
@@ -284,7 +282,7 @@ Checklist
 
 &nbsp;
 
-## Exercise 4.2
+### Exercise 4.2
 
 &nbsp;
 
@@ -299,7 +297,7 @@ Checklist
 
 &nbsp;
 
-## Exercise 4.3
+### Exercise 4.3
 
 &nbsp;
 
@@ -323,7 +321,7 @@ sie sind
 
 &nbsp;
 
-## Exercise 4.4
+### Exercise 4.4
 
 &nbsp;
 
@@ -340,10 +338,6 @@ sie sind
 
 &nbsp;
 
-## Checklist
-
-&nbsp;
-
 1. yes
 2. idk
 3. Ich habe Hunger.
@@ -351,7 +345,7 @@ sie sind
 
 &nbsp;
 
-# UNIT 5 - Sperabale verbs in the present tense
+## UNIT 5 - Sperabale verbs in the present tense
 
 &nbsp;
 
@@ -380,12 +374,12 @@ zumachen - to close
 
 &nbsp;
 
-anrufen &arr; Herr Lobo ruft seine Frau an.
-aufstehen &arr; Nico steht um fünf Uhr morgens auf.
-ausgehen &arr; Yasmin geht jeden Tag aus.
-fernsehen &arr; Die Kinder stehen nicht viel fern.
-einkaufen &arr; Er kauft im Supermarkt ein.
-stattfinden &arr; Das Meeting findet am Montag statt.
+anrufen &rarr; Herr Lobo ruft seine Frau an.
+aufstehen &rarr; Nico steht um fünf Uhr morgens auf.
+ausgehen &rarr; Yasmin geht jeden Tag aus.
+fernsehen &rarr; Die Kinder stehen nicht viel fern.
+einkaufen &rarr; Er kauft im Supermarkt ein.
+stattfinden &rarr; Das Meeting findet am Montag statt.
 
 &nbsp;
 
@@ -417,23 +411,23 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 5.1
+### Exercise 5.1
 
 &nbsp;
 
 1. Jens steht um halb acht Uhr auf.
 2. Er fängt seine Arbeit um neun Uhr an.
 3. Mittags ruft er seine Freundin an.
-4, Er druckt am Nachmittag viele Dokumente aus.
+4. Er druckt am Nachmittag viele Dokumente aus.
 5. Um siebzehn Uhr hört er mit seiner Arbeit auf.
 6. Nach der Arbeit kauft er im Supermarkt ein.
 7. Abends sieht er manchman fern.
 8. AmWochenende geht er oft aus.
-0. Er schläft meistens ein na!?!?!?!
+9. Er schläft meistens ein na!?!?!?!
 
 &nbsp;
 
-## Exercise 5.2
+### Exercise 5.2
 
 &nbsp;
 
@@ -446,7 +440,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 5.3
+### Exercise 5.3
 
 &nbsp;
 
@@ -463,7 +457,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 5.4
+### Exercise 5.4
 
 &nbsp;
 
@@ -482,7 +476,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 6.1
+### Exercise 6.1
 
 &nbsp;
 
@@ -497,7 +491,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 6.2
+### Exercise 6.2
 
 &nbsp;
 
@@ -512,7 +506,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 6.3
+### Exercise 6.3
 
 &nbsp;
 
@@ -528,7 +522,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 6.4
+### Exercise 6.4
 
 &nbsp;
 
@@ -550,19 +544,11 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Checklist
+## UNIT 7 - Questions
 
 &nbsp;
 
-- 
-
-&nbsp;
-
-# UNIT 7 - Questions
-
-&nbsp;
-
-## Exercise 7.1
+### Exercise 7.1
 
 &nbsp;
 
@@ -571,7 +557,7 @@ be-, er-, ge-, ver-
 3. Was ist Ihre E-Mail-Adresse?
 4. Was arbeiten Sie?
 5. Was sind Sie von Beruf?
-6. Woher kommen Sie eigentlich? 
+6. Woher kommen Sie eigentlich?
 7. Wie viel kostet das?
 8. Wann beginnt der Workshop?
 9. Wie viel Uhr ist es?
@@ -581,7 +567,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 7.2
+### Exercise 7.2
 
 &nbsp;
 
@@ -593,7 +579,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 7.3
+### Exercise 7.3
 
 &nbsp;
 
@@ -608,7 +594,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 7.4
+### Exercise 7.4
 
 &nbsp;
 
@@ -621,8 +607,8 @@ be-, er-, ge-, ver-
 - Was ist deine email address?
 - Was ist Ihre email address?
 
-- 
-- 
+-
+-
 
 - Bist du verheiratet?
 - Sind Sie verheiratet?
@@ -637,10 +623,6 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Checklist
-
-&nbsp;
-
 1. Was heißen Sie? Wo wohnen Sie?
 2. First position.
 3. Second position.
@@ -652,7 +634,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 8.1
+### Exercise 8.1
 
 &nbsp;
 
@@ -669,7 +651,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 8.2 
+### Exercise 8.2
 
 &nbsp;
 
@@ -680,8 +662,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 8.3
-
+### Exercise 8.3
 
 &nbsp;
 
@@ -694,7 +675,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## Exercise 8.4
+### Exercise 8.4
 
 &nbsp;
 
@@ -721,10 +702,10 @@ be-, er-, ge-, ver-
 2. Der Audi, Ferrari, Nissan, Ford.
 3. Das Silber, Gold, Eisen, Kupfer.
 4. Die Rose, Tulpe, Sonnenblume.
-4. Die Tochter, Schwester, Mutter, Cousine.
-5. Der Sommer, Frühling, Herbst, Winter.
-6. Der Wodka, Champoagner, Rotwein, Schnaps.
-7. Das  Schwimmen, Essen, Tanzen, Joggen.
+5. Die Tochter, Schwester, Mutter, Cousine.
+6. Der Sommer, Frühling, Herbst, Winter.
+7. Der Wodka, Champoagner, Rotwein, Schnaps.
+8. Das  Schwimmen, Essen, Tanzen, Joggen.
 
 &nbsp;
 
@@ -733,7 +714,7 @@ be-, er-, ge-, ver-
 &nbsp;
 
 - Bäckerei - f
-- Lampe -f 
+- Lampe -f
 - Liberalismus - m
 - Zeitung - f
 - Meinung - f
@@ -744,7 +725,7 @@ be-, er-, ge-, ver-
 - Nation - f
 - Kino - n
 - Honig - m
-- Optimismus - m 
+- Optimismus - m
 - Flasche - f
 - Metzgerei - f
 - Zentrum - n
@@ -768,8 +749,6 @@ be-, er-, ge-, ver-
 ### Exercise 9.3
 
 &nbsp;
-
-
 
 1. Berlin ist eine fatastische Stadt.
 2. Das Hotel liegt sehr zentral.
@@ -822,7 +801,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-### Exercise 10.2 
+### Exercise 10.2
 
 &nbsp;
 
@@ -969,21 +948,21 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-### Exercise 13.1 
+### Exercise 13.1
 
 &nbsp;
 
-1. die Lample &arr; Ich brauche eine Lampe.
-2. die Blumenvase &arr; Ich brauche eine Blumenvase.
-3. der Küchentisch &arr; Ich brauche einen Küchentisch.
-4. das Sofa &arr; Ich brauche eine Sofa.
-5. das Bücherregal &arr; Ich brauche ein Bücherregal.
-6. der Teppich &arr; Ich brauche einen Teppich.
-7. der Kühlschrank &arr; Ich brauche einen Kühlschrank.
-8. die Mikrowelle &arr; Ich brauche eine Mikrowelle.
-9. die Kaffeemaschine &arr; Ich brauche eine Kaffeemaschine.
-10. das Handy &arr; Ich brauche ein Handy.
-11. der Camcorder &arr; Ich brauche einen Camcorder.
+1. die Lample &rarr; Ich brauche eine Lampe.
+2. die Blumenvase &rarr; Ich brauche eine Blumenvase.
+3. der Küchentisch &rarr; Ich brauche einen Küchentisch.
+4. das Sofa &rarr; Ich brauche eine Sofa.
+5. das Bücherregal &rarr; Ich brauche ein Bücherregal.
+6. der Teppich &rarr; Ich brauche einen Teppich.
+7. der Kühlschrank &rarr; Ich brauche einen Kühlschrank.
+8. die Mikrowelle &rarr; Ich brauche eine Mikrowelle.
+9. die Kaffeemaschine &rarr; Ich brauche eine Kaffeemaschine.
+10. das Handy &rarr; Ich brauche ein Handy.
+11. der Camcorder &rarr; Ich brauche einen Camcorder.
 
 &nbsp;
 
@@ -1023,7 +1002,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-### Exercise 14.1 
+### Exercise 14.1
 
 &nbsp;
 
@@ -1059,7 +1038,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-1. Sie gibt dem Baby ein Buch 
+1. Sie gibt dem Baby ein Buch
 2. Paulina kauft dem Kind ein Eis
 3. Er gibt dem Großvater eine Flasche Wein
 4. Er folgt dem Mann
@@ -1073,7 +1052,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-### Exercise 15.1 
+### Exercise 15.1
 
 &nbsp;
 
@@ -1103,7 +1082,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-### Exercise 15.3 
+### Exercise 15.3
 
 &nbsp;
 
@@ -1157,7 +1136,9 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+1. -
 2. mir
 3. ihm
 4. sie
-5. 
+5. dir
+6. 
