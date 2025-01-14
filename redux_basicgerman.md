@@ -17,7 +17,7 @@
 
 &nbsp;
 
-|infinitive|stem||
+|infinitive|stem|
 |----|----|----|
 |kommen|komm|to come|
 |wohnen|wohn|to live|
@@ -139,7 +139,7 @@ stems ending in **-d** or **-t**
 
 &nbsp;
 
-|infinitive|stem|finite verb||
+|infinitive|stem|finite verb|
 |arbeiten|arbeit|du arbeitest|to work|
 |kosten|kost|es kostet|to cost|
 |reden|red|ihr redet|to talk|
@@ -150,7 +150,7 @@ verbs such as **atmen** and **regnen**
 
 &nbsp;
 
-|infinitive|stem|finite verb||
+|infinitive|stem|finite verb|
 |atmen|atm|du atmest|to breathe|
 |regnen|regn|es regnet|to rain|
 
@@ -164,7 +164,7 @@ stems ending in **-s**, **-ss**, **-ß**, **-x** or **-z**
 
 &nbsp;
 
-|infinitive|finite verb||
+|infinitive|finite verb|
 |reisen|du reist| to travel|
 |küssen|du küsst|to kiss|
 |heißen|du heißt|to be called|
@@ -177,7 +177,7 @@ Irregular verbs with vowel changes
 
 &nbsp;
 
-|infinitive|finite verb||
+|infinitive|finite verb|
 |schlafen|du schläfst|to sleep|
 |essen|du isst|to eat|
 |sprechen|er spricht|to speak|
@@ -431,7 +431,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-|||||||||
+|||||
 |---|---|---|---|---|---|---|---|
 |aufstehen|-|verlieren|x|abfahren|-|anrufen|-|
 |verkaufen|x|fernsehen|-|anhängen|-|stattfinden|-|
@@ -883,14 +883,22 @@ be-, er-, ge-, ver-
 
 #### The indefinite article
 
-||accusative||dative||genetive||
+&nbsp;
+
+|-|accusative|-|dative|-|genetive|-|
+|---|---|---|---|---|---|---|
 |masculine|einen|x|einem|x|eines|x|
 |feminine|eine|-|einer|x|einer|x|
 |neuter|ein|-|einem|x|eines|x|
 
+&nbsp;
+
 #### The definite article
 
-||accusative||dative||genetive||
+&nbsp;
+
+|-|accusative|-|dative|-|genetive|-|
+|---|---|---|---|---|---|---|
 |masculine|den|x|dem|x|des|x|
 |feminine|die|-|der|x|der|x|
 |neuter|das|-|dem|x|des|x|
@@ -1141,4 +1149,16 @@ be-, er-, ge-, ver-
 3. ihm
 4. sie
 5. dir
-6. 
+6. dir
+7. mir
+8. sie
+9. uns
+10. euch
+
+&nbsp;
+
+### Exercise 16.4
+
+&nbsp;
+
+
