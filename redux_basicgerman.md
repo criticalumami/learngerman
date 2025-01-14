@@ -1157,4 +1157,7 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-
+2. mir
+3. ihm
+4. sie
+5. 
