@@ -4,9 +4,9 @@
 
 &nbsp;
 
-1. nouns use capital letters
-2. after ei and ie. or after a, o and u if they are pronounced long
-3. umlauts change the pronunciations of the words
+1. Nouns use capital letters
+2. After "ei" and "ie". Or after a, o and u if they are pronounced long
+3. Umlauts change the pronunciations of the words
 4. genders in german are not biological
 5. the position of the verb is the most important
 6. no there are no differences
@@ -1168,12 +1168,12 @@ be-, er-, ge-, ver-
 
 ### Exercise 16.4
 
-&nbsp;
+&[nbsp](nbsp);
 
 1. Der Kaffee ist gut. Er ist gut.
 2. Die Jacke ist neu. Sie ist neu.
 3. Ist das für mich?
-4. Ich kaufe ihnm eine Flasche Wein.
+4. Ich kaufe ihm eine Flache Wein.
 5. Er schickt eine Nachricht.
 6. Wie geht es dir? Wie geht es ihnen?
 7. Ich bin sehr gut.
@@ -1182,6 +1182,16 @@ be-, er-, ge-, ver-
 &nbsp;
 
 ## UNIT 17 - Possessive adjectives
+
+&nbsp;
+
+| singular              | plural               |
+| ich &rarr; *mein* my  | wir &rarr; unser our |
+| du &rarr; *dein* your | ihr &rarr; euer your |
+| Sie &rarr; Ihr your   | Sie &rarr; Ihr your  |
+| er &rarr; sein his    | sie &rarr; ihr their |
+| sie &rarr; ihr her    |                      |
+| es &rarr; sein his    |                      |
 
 &nbsp;
 
