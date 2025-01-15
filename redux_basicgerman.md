@@ -1161,4 +1161,19 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+1. Der Kaffee ist gut. Er ist gut.
+2. Die Jacke ist neu. Sie ist neu.
+3. Ist das für mich?
+4. Ich kaufe ihnm eine Flasche Wein.
+5. Er schickt eine Nachricht.
+6. Wie geht es dir? Wie geht es ihnen?
+7. Ich bin sehr gut.
+8. Es tut mir leid.
+
+&nbsp;
+
+## UNIT 17 - Possessive adjectives
+
+&nbsp;
+
 
