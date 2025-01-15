@@ -17,21 +17,21 @@
 
 &nbsp;
 
-|infinitive|stem|
-|----|----|----|
-|kommen|komm|to come|
-|wohnen|wohn|to live|
-|hören|hör|to hear|
+| infinitive | stem |         |
+|------------|------|---------|
+| kommen     | komm | to come |
+| wohnen     | wohn | to live |
+| hören      | hör  | to hear |
 
 &nbsp;
 
-|       |       |komm-en|wohn-en|hör-en |
-|----   |----   |---    |---    |---    |
-|Sie    |-en    |kommen |wohnen |hören  |
-|er/sie/es|-t   |kommt  |wohnt  |hört   |
-|wir    |-en    |kommen |wohnen |hören  |
-|ihr    |-t     |kommt  |wohnt  |hört   |
-|Sie    |-en    |kommen |wohnen |hören  |
+|           |      | komm-en | wohn-en | hör-en |
+| ----      | ---- | ---     | ---     | ---    |
+| Sie       | -en  | kommen  | wohnen  | hören  |
+| er/sie/es | -t   | kommt   | wohnt   | hört   |
+| wir       | -en  | kommen  | wohnen  | hören  |
+| ihr       | -t   | kommt   | wohnt   | hört   |
+| Sie       | -en  | kommen  | wohnen  | hören  |
 
 &nbsp;
 
@@ -885,11 +885,11 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-|-|accusative|-|dative|-|genetive|-|
-|---|---|---|---|---|---|---|
-|masculine|einen|x|einem|x|eines|x|
-|feminine|eine|-|einer|x|einer|x|
-|neuter|ein|-|einem|x|eines|x|
+| -         | accusative | - | dative | - | genetive | - |
+|-----------|------------|---|--------|---|----------|---|
+| masculine | einen      | x | einem  | x | eines    | x |
+| feminine  | eine       | - | einer  | x | einer    | x |
+| neuter    | ein        | - | einem  | x | eines    | x |
 
 &nbsp;
 
@@ -1105,6 +1105,15 @@ be-, er-, ge-, ver-
 ## UNIT 16 - Presonal pronouns
 
 &nbsp;
+
+|            | nominative | accusative | dative    |
+| ---        | ---        | ---        | ---       |
+| 1st person | ich wir    | mich uns   | mir uns   |
+| 2nd person | du ihr     | dich euch  | dir euch  |
+|            | Sie Sie    | Sie Sie    | Ihnen Sie |
+| 3rd person | er sie     | ihn sie    | ihm sie   |
+|            | sie        | sie        | ihr       |
+|            | es         | es         | es        |
 
 ### Exercise 16.1
 
