@@ -7,7 +7,7 @@
 1. Nouns use capital letters
 2. After "ei" and "ie". Or after a, o and u if they are pronounced long
 3. Umlauts change the pronunciations of the words
-4. genders in german are not biological
+4. genders in German are not biological
 5. the position of the verb is the most important
 6. no there are no differences
 
@@ -1186,6 +1186,7 @@ be-, er-, ge-, ver-
 &nbsp;
 
 | singular              | plural               |
+|-----------------------|----------------------|
 | ich &rarr; *mein* my  | wir &rarr; unser our |
 | du &rarr; *dein* your | ihr &rarr; euer your |
 | Sie &rarr; Ihr your   | Sie &rarr; Ihr your  |
@@ -1195,4 +1196,20 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+|            | masculine     | feminine    | neuter       | plural         |
+|------------|---------------|-------------|--------------|----------------|
+| nominative | mein Mann     | meine Frau  | mein Baby    | meine Kinder   |
+| accusative | meinen Mann   | meine Frau  | mein Baby    | meine Kinder   |
+| dative     | meinem Mann   | meiner Frau | meinem Baby  | meinen Kindern |
+| genetive   | meines Mannes | meiner Frau | meines Babys | meiner Kinder  |
 
+&nbsp;
+
+### Exercise 17.2
+
+&nbsp;
+
+- my &rarr; mein
+- your (singular, informal) &rarr; dein
+- your (singular, formal) &rarr;  
+- 
