@@ -1369,4 +1369,40 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-1.
+1. Nein, das ist kein Park.
+2. Nein, das ist keine Kneipe.
+3. Nein, ich habe kein Auto.
+4. Nein, ich mag keinen Kaffee.
+5. Nein, ich mag keinen Nachtisch.
+6. Nein, Alina hat keine Schwester.
+7. Nein, das Hotel hat keinen Wellnessbereich.
+8. Nein, ich habe keine Geschwister.
+9. Nein, ich habe keine Wanderschuhe.
+10. Nein, Freiburg hat keine U-Bahn.
+11. Nein, Julian hat kein Geld.
+12. Nein, ich habe keine Zeit.
+
+&nbsp;
+
+### Exercise 19.4
+
+&nbsp;
+
+1. Luke arbeitet nicht.
+2. Das hotel ist nicht schön.
+3. Die Tablett ist nicht billig.
+4. Paul hat kein Mountainbike.
+5. Sie haben kein Auto.
+6. Das ist nicht eine gute Idee.
+7. Er hat keine Zeit.
+8. Sie wohnt nicht in London, aber in New York.
+9. Ich trinke keinen Kaffee aber Tee.
+10. Das ist kein Problem.
+
+&nbsp;
+
+## UNIT 20 - Comparison of adjectives and adverbs
+
+&nbsp;
+
+
