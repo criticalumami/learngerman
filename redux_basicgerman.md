@@ -1405,4 +1405,64 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 20.1
+
+&nbsp;
+
+| -                | comparative        | superlative            |
+| klein            | kleiner            | am kleinsten           |
+| alt              | älter              | am ältesten            |
+| groß             | größer             | am größten             |
+| hoch             | höher              | am höchsten            |
+| interessant      | interessanter      | am interessantest      |
+| intelligent      | intelligenter      | am intelligentest      |
+| umweltfreundlich | umweltfreundlicher | am umweltfreundliches  |
+| best             | besser             | am besten              |
+| gern             | lieber             | am liebsten            |
+| viel             | mehr               | am meisten             |
+
+&nbsp;
+
+### Exercise 20.2
+
+&nbsp;
+
+1. Ist der Rhein wirklich länger als die Donau?
+2. Norddeutschland ist flacher als Süddeutschland.
+3. Der Zug ist billiger als das Flugzeug.
+4. Ist das I-Pad teurer als das I-Phone.
+5. Ich finde das Buch interessanter als den Film.
+6. Die neue Modell ist ökologischer.
+7. Auf dem Land ist es ruhiger als in der Stadt.
+8. heute ist es kalter als gestern.
+9. Das neue Modell ist am ökologischsten.
+10. Er lebt jetzt gesunder als früher.
+11. Osterreich ist am höchsten.
+12. Welche Musik hörst du am liebsten.
+13. Welches Auto ist am umweltfreundlichsten.
+14. Diesser Club ist im Moment am coolsten.
+15. Diese Pizza schmeckt am besten.
+
+&nbsp;
+
+### Exercise 20.3
+
+&nbsp;
+
+1. München ist größer als Paris.
+2. Der Rhein ist langer als die Donau.
+3. Jan ist alter als Gabriel.
+4. Boris ist intelligenter also Moritz.
+5. Hannah ist am intelligentest.
+6. Der Zug ist mehr Ökologiker als den Flug.
+7. Das Buch ist besser als den Film.
+8. Tim ist größer als seiner Bruder.
+9. Die Pizza schmeckt am besten.
+
+&nbsp;
+
+## UNIT 22 - Modal verbs
+
+&nbsp;
+
 
