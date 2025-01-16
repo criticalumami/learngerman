@@ -1461,7 +1461,63 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-## UNIT 22 - Modal verbs
+## UNIT 21 - Modal verbs
+
+&nbsp;
+
+| -         | dürfen | können | müssen | sollen | wollen | mögen |
+| ich       | darf   | kann   | muss   | soll   | will   | mag   |
+| du        | darfst | kannst | musst  | sollst | willst | magst |
+| Sie       | dürfen | können | müssen | sollen | wollen | mögen |
+| er/sie/es | darf   | kann   | muss   | soll   | will   | mag   |
+| wir       | dürfen | können | müssen | sollen | wollen | mögen |
+| ihr       | dürft  | könnt  | müsst  | sollt  | wollt  | mögt  |
+| Sie       | dürfen | können | müssen | sollen | wollen | mögen |
+| sie       | dürfen | können | müssen | sollen | wollen | mögen |
+
+&nbsp;
+
+### Exercise 21.2
+
+&nbsp;
+
+1. Dürfen:
+	1. Ich darf
+	2. Du darfst
+	3. Sie dürfen
+	4. Er/sie/es darf
+	5. Wir dürfen
+	6. Ihr dürft
+	7. Sie dürfen
+	8. Sie dürfen
+2. Können:
+	1. Ich kann
+	2. Du kannst
+	3. Sie können
+	4. Er/sie/es kann
+	5. Wir können
+	6. Ihr könnt
+	7. Sie können
+	8. Sie können
+3. Müssen:
+	1. 
+
+&nbsp;
+
+### Exercise 21.2
+
+&nbsp;
+
+1. Ich kann gut Ski fahren.
+2. Kannst du mir eine SMS schicken?
+3. Er kann am Freitag nicht arbeiten.
+4. Könnt ihr bitte ein bisschen leise sein?
+5. Wir können uns nächstes Wochenende treffen.
+6. Marion kann sehr gut kochen.
+
+&nbsp;
+
+### Exercise 21.3
 
 &nbsp;
 
