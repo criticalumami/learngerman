@@ -1205,11 +1205,74 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-### Exercise 17.2
+### Exercise 17.1
 
 &nbsp;
 
 - my &rarr; mein
 - your (singular, informal) &rarr; dein
-- your (singular, formal) &rarr;  
-- 
+- Your (singular, formal) &rarr; Ihr
+- his &rarr; sein
+- her &rarr; ihr
+- its &rarr; sein
+- our &rarr; unser
+- your &rarr; euer
+- Your &rarr; Ihr
+- their &rarr; sie
+
+&nbsp;
+
+### Exercise 17.2
+
+&nbsp;
+
+1. Wie ist dein Name?:
+	1. Mein Name ist Frank Auerbach
+2. Wie ist deine Telefonnummer?:
+	1. Meine Telefonnummer ist xxxx.
+3. Ist das sein Auto?:
+	1. Nein, das ist ihr Auto.
+4. Was sind Ihre Hobbys?:
+	1. Meine Hobbys sind Joggen und Skifahren.
+5. Was sind eure Namen?:
+	1. Unsere Namen sind Svenja und Boris.
+6. Sind das eure Sportsachen?:
+	1. Ja, das sind unsere Sportsachen.
+
+&nbsp;
+
+### Exercise 17.3
+
+&nbsp;
+
+1. Tom sucht seine Brille.
+2. Paula sucht ihr Geld.
+3. Mehmet sucht seinen Controller.
+4. Marion sucht ihren Schal.
+5. Martha sucht ihre SIM-Karte.
+6. Benjamin sucht sein I-Pad.
+7. Peter sucht sine Schuhe.
+8. Jessica und Pia suchen ihre Pässe.
+
+&nbsp;
+
+### Exercise 17.4
+
+&nbsp;
+
+1. Das ist mein Vater.
+2. Das ist meine Mutter.
+3. Marc sucht seine SIM-Karte.
+4. Sussanne sucht ihr Führerschein.
+5. Wir treffen unsere Freunde.
+6. Sebastian spricht mit seine Mutter.
+7. Arianne spricht mit ihren Bruder.
+8. Die Kinder sprechen mit ihre Großeltern.
+
+&nbsp;
+
+## UNIT 18 - Reflexive verbs
+
+&nbsp;
+
+
