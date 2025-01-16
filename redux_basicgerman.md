@@ -1263,15 +1263,70 @@ be-, er-, ge-, ver-
 1. Das ist mein Vater.
 2. Das ist meine Mutter.
 3. Marc sucht seine SIM-Karte.
-4. Sussanne sucht ihr Führerschein.
+4. Susanne sucht ihr Führerschein.
 5. Wir treffen unsere Freunde.
 6. Sebastian spricht mit seine Mutter.
-7. Arianne spricht mit ihren Bruder.
+7. Ariane spricht mit ihren Bruder.
 8. Die Kinder sprechen mit ihre Großeltern.
 
 &nbsp;
 
 ## UNIT 18 - Reflexive verbs
+
+&nbsp;
+
+### Exercise 18.1
+
+&nbsp;
+
+| amüsieren | x | beeilen   | x | entscheiden   | x | einkaufen   | - |
+| anziehen  | x | studieren | - | entschuldigen | x | tanzen      | - |
+| ausgehen  | - | duschen   | x | fahren        | - | unterhalten | x |
+| ausziehen | x | arbeiten  | - | kämmen        | x | waschen     | x |
+
+&nbsp;
+
+### Exercise 18.2
+
+&nbsp;
+
+1. Er entschuldigt sich bei seiner Freundin.
+2. Das Kind kämmt sich nicht gern.
+3. Ich ärgere mich über die Preise.
+4. Ich ziehe sich um.
+5. Anna zieht sich ihr neues Kleid an.
+6. Die kinder waschen sich.
+7. Wir beeilen sich.
+8. Wir treffen sich um acht Uhr.
+9. Wir veravschieden sich.
+
+&nbsp;
+
+### Exercise 18.3
+
+&nbsp;
+
+1. Ich wasche mir die Hände.
+2. Putzt du dir heute nicht die Zähne.
+3. Zieh dir etwas Warmes an. Es ist kalt.
+4. Ich wasche mir das Gesicht nur mit Wasser.
+
+&nbsp;
+
+### Exercise 18.4
+
+&nbsp;
+
+1. Ich dusche mich.
+2. Ich putze mir die Zähne.
+3. Ich ziehe mich an.
+4. Ich kämme mich.
+5. Ich ziehe mir eine Jacke an.
+6. Ich beeile mich.
+
+&nbsp;
+
+## UNIT 19 - Negatives
 
 &nbsp;
 
