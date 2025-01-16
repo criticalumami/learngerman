@@ -1330,4 +1330,43 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 19.1
 
+&nbsp;
+
+1. Franziska joggt nicht.
+2. Mario ist nicht clever.
+3. Der film ist nicht interessant.
+4. Das Wetter in England ist nicht gut.
+5. Er fotografiert nicht gern.
+6. Nadine macht nicht gern Outdoorsport.
+7. Er fährt nicht gern mit seinem Mountainbike.
+8. Monika kommt nicht aus Österreich.
+9. Er ist nicht verheiratet.
+10. Mia studiert nicht Medizin.
+11. Sie geht heute nicht ins Konzert.
+12. Er spielt nicht gut Klavier.
+13. Ich habe die App nicht gekauft.
+14. Er hat die E-Mail nicht gelesen.
+
+&nbsp;
+
+### Exercise 19.2
+
+&nbsp;
+
+1. Das Team hat kein Glück.
+2. Sie hat keine Geduld.
+3. Er hat im Moment kein Geld.
+4. Elena hat keinen Bruder.
+5. Ich habe kein Zeit.
+6. Das ist kein Problem.
+7. Er ist Veganer und isst keine Fleisch.
+
+&nbsp;
+
+### Exercise 19.3
+
+&nbsp;
+
+1.
