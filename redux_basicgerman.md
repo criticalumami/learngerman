@@ -1521,4 +1521,17 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-
+1. Darf ich Sie etwas fragen?
+2. Hier darf man nicht parken.
+3. Kinder dürfen die Baustelle nicht betreten.
+4. Mein Arzt sagt, ich soll mehr joggen.
+5. Musst du immer so spät nach Hause kommen?
+6. Ich mag noch einen Tee, bitte.
+7. Er will mit dem Fahrrad fahren.
+8. Wollt ihr uns nicht mal besuchen?
+9. Kann man hier gut essen gehen?
+10. Ich will am Wochenende einen Ausflug machen.
+11. Mögt ihr ein Eis essen.
+12. Er soll ein neues Smartphone kaufen.
+13. Können Sie mir helfen?
+14. Du sollst nicht so viel Zeit vor dem Bildschirm verbringen
