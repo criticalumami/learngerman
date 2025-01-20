@@ -1535,3 +1535,24 @@ be-, er-, ge-, ver-
 12. Er soll ein neues Smartphone kaufen.
 13. Können Sie mir helfen?
 14. Du sollst nicht so viel Zeit vor dem Bildschirm verbringen
+
+&nbsp;
+
+### Exercise 21.4
+
+&nbsp;
+
+1. Ich kann gut kochen.
+2. Er will gesünder leben.
+3. Sie soll mehr Sport machen.
+4. Wir möchten bezahlen, bitte.
+5. Ich mag Berlin.
+6. Ich mag einen Kaffee, bitte.
+7. Kannst du mir Helfen.
+8. Darf ich etwas fragen?
+9. Ich muss shopping gehen.
+10. Du musst nicht hier parken. Sie müssen hier nicht parken.
+
+&nbsp;
+
+
