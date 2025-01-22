@@ -1559,4 +1559,58 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
-|arbeiten|:
+### Exercise 22.1
+
+&nbsp;
+
+| arbeiten |    | hören  | - | nehmen    | - | sprechen | - |
+| bleiben  | -* | kaufen |   | schreiben | - | stehen   | * |
+| essen    | -  | kommen |   | schwimmen | * | treffen  | - |
+| fahren   | -* | lesen  | - | sehen     | - | trinken  |   |
+| gehen    | *  | machen |   | spielen   |   | wohnen   | - |
+
+&nbsp;
+
+### Exercise 22.2
+
+&nbsp;
+
+1. Er hat bis zwanzig Uhr gearbeitet.
+2. Ich habe gestern ein Konzert gehört.
+3. Paula hat eine neue Jacke gekauft.
+4. Was haben Sie gesagt.
+5. Wir haben lange auf den Bus gewartet.
+6. Was hast du am Wochenende gemacht.
+7. Ina hat etwas Neues gepostet.
+8. Er hat sehr viel eingekauft.
+9. Ich habe das Fenster zugemacht.
+10. Nada und David habt beide in Heidelberg studiert.
+11. Er hat mit seiner Karte bezahlt.
+12. Hast du deine SMS geschenkt?
+
+&nbsp;
+
+### Exercise 22.3
+
+&nbsp;
+
+1. Ich habe ein Croissant mit Marmelade gegessen.
+2. Ich habe Jasmintee getrunken.
+3. Ich habe die Zeitung gelesen.
+4. Ich bin mit dem Fahrrad zur Arbeit gefahren.
+5. Ich habe E-Mails geschrieben.
+6. Ich habe mit Kunden gesprochen.
+7. Ich bin um halb sieben gejoggt.
+8. Ich habe um acht Uhr einen Freund getroffen.
+9. Wir haben in ein Restaurant gegangen.
+10. Ich bin um elf Uhr zu Hause gewesen.
+11. Ich habe einen Clip auf YouTube gesehen.
+12. Ich bin um Mitternacht ins Bett gegangen.
+
+&nbsp;
+
+### Exercise 22.4
+
+&nbsp;
+
+
