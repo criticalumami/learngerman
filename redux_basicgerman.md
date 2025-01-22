@@ -1613,4 +1613,21 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+1. Maya hat um neun Uhr gearbeitet.
+2. Er hat ein T-Shirt gekauft.
+3. Martina hat in Berlin studiert.
+4. Sie haben Online bezahlt.
+5. Er ist zu Restaurant gegangen.
+6. Sie haben ferngesehen.
+7. Wann bist du aufgewacht.
+8. Was hast du gestern gegangen.
+9. Was ist passiert?
+10. Er hat ein Photo gepostet.
+
+&nbsp;
+
+## UNIT 23 - The simple past tense
+
+&nbsp;
+
 
