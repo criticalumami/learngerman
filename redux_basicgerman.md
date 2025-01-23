@@ -1645,3 +1645,4 @@ aus jedem Becher einen Tropfen Wein. Dann, weil es so müde <u>war</u>, <u>legte
 es sich in ein Bett, aber keins <u>passte</u>; das eine <u>war</u> zu lang, das andere zu
 kurz, bis endlich das siebente recht <u>war</u> - und darin <u>blieb</u> es liegen, dachte
 an den lieben Gott und <u>schlief</u> ein.
+
