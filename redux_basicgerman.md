@@ -1630,4 +1630,18 @@ be-, er-, ge-, ver-
 
 &nbsp;
 
+### Exercise 23.1
 
+&nbsp;
+
+Nun <u>war</u> das arme Kind in dem großen Wald ganz allein. Da <u>hatte</u> es
+große Angst. Es <u>wusste</u> nicht, wo es <u>war</u> und <u>fing</u> an zu laufen, bis es
+bald Abend <u>wurde</u>. Da <u>sah</u> es ein kleines Häuschen und <u>ging</u> hinein. In
+dem Haus <u>war</u> alles klein: Da <u>stand</u> ein Tisch mit sieben kleinen Tellern.
+Außerdem <u>gab</u> es sieben Messer und Gabeln und sieben Becher. An der
+Wand <u>standen</u> sieben Betten. Schneewittchen, weil es so hungrig und
+drustig <u>war</u>, aß von jedem Teller ein wenig Gemüse und Brot und <u>trank</u>
+aus jedem Becher einen Tropfen Wein. Dann, weil es so müde <u>war</u>, <u>legte</u>
+es sich in ein Bett, aber keins <u>passte</u>; das eine <u>war</u> zu lang, das andere zu
+kurz, bis endlich das siebente recht <u>war</u> - und darin <u>blieb</u> es liegen, dachte
+an den lieben Gott und <u>schlief</u> ein.
