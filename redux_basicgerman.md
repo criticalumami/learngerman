@@ -1651,3 +1651,77 @@ an den lieben Gott und <u>schlief</u> ein.
 | regular verbs        | irregular verbs | mixed verbs |
 | legte &rarr; legen   | war &rarr; sein |             |
 | passte &rarr; passen |                 |             |
+|                      |                 |             |
+|                      |                 |             |
+|                      |                 |             |
+
+&nbsp;
+
+### Exercise 23.2
+
+&nbsp;
+
+Ich spielte
+Du spieltest
+Sie spielten
+Er/sie/es spielte
+Wir spielten
+Ihr spieltet
+Sie spielten
+Sie spielten
+
+&nbsp;
+
+Ich kaufte
+Du kauftest
+Sie kauften
+Er/sie/es kaufte
+Wir kauften
+Ihr kauftet
+Sie kauften
+Sie kauften
+
+&nbsp;
+
+Ich wohnte
+Du wohntest
+Sie wohnten
+Er/sie/es wohnte
+Wir wohnten
+Ihr wohntet
+Sie wohnten
+Sie wohnten
+
+&nbsp;
+
+### Exercise 23.3
+
+&nbsp;
+
+1. Ich blieb eine Woche in Prag
+2. Sahst du das Fußballspiel im Fernsehen?
+3. Luke und Sybille gingen gestern in den Wellenessclub.
+4. Nach dem Essen tranken wir noch Kaffee.
+5. Frau Schneider fuhr das erste Mal nach Schottland.
+6. Er schrieb eine SMS an seine Freundin.
+7. Das wusstet ich nicht.
+8. Da brachtet der Kellner noch einen Nachtisch.
+
+&nbsp;
+
+### Exercise 23.4 
+
+&nbsp;
+
+1. Gestern ich spielte Tennis.
+2. Ich kaufte einen Kaffee.
+3. Als ich ein kind war wohnte ich in Frankfurt.
+4. Ich ging auf dem Cinema.
+5. Wir blieben für eine Woche.
+6. Es war letzte Jahre.
+7. Ich ging auf acht Uhr.
+8. Ich wollte kommen aber ich habe kein Zeit.
+
+&nbsp;
+
+
