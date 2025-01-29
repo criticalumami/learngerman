@@ -1728,4 +1728,53 @@ Sie wohnten
 
 &nbsp;
 
+### Exercise 24.1
 
+&nbsp;
+
+Ich werde
+Du wirst
+Sie werden
+Er/sie/es wird
+Wir werden
+Ihr wird
+Sie werden
+Sie werden
+
+&nbsp;
+
+### Exercise 24.2
+
+&nbsp;
+
+1. <u>Morgen</u> fahre ich zu meinen Eltern.
+2. Bitte rufen Sie <u>in einer halben Stunde</u> wieder an.
+3. <u>Nächsten Monat</u> habe ich wieder mehr Zeit.
+4. Das Fußballspiel findet <u>am Freitag</u> statt.
+5. Wir wollen <u>heute</u> ins Fitnesscenter gehen.
+6. Sehen wir uns <u>später</u>?
+7. Habt ihr <u>bald</u> Zeit?
+8. Wohin fahrt ihr <u>in den Sommerferien</u>.
+
+&nbsp;
+
+### Exercise 24.3
+
+&nbsp;
+
+1. Freya wird ein Buch über Yoga lesen.
+2. Jan wird ein Radtour machen.
+3. Louis und Anna wird zu Hause bleiben.
+4. Ich werde Freunde besuchen.
+5. Die Nachbarn werden einen Computerspielabend machen.
+6. Valentin wird an seinem Blog schreiben.
+7. Annett wird im Supermarkt jobben.
+8. Wir werden auf eine Party gehen.
+
+&nbsp;
+
+### Exercise 24.4
+
+&nbsp;
+
+1. 
