@@ -1777,4 +1777,23 @@ Sie werden
 
 &nbsp;
 
-1. 
+1. Gestern spiele ich Tennis.
+2. Ich kaufte eine Tasse Kaffee.
+3. Als kind wohne ich in Frankfurt.
+4. Ich ging zum Kino.
+5. Wir bleiben für eine Woche.
+6. Es war letzte Jahre.
+7. Ich wache um acht Uhr auf.
+8. Ich wolle kommen, aber habe ich keine Zeit.
+
+&nbsp;
+
+## UNIT 25 - The future tense
+
+&nbsp;
+
+### Exercise 25.1
+
+&nbsp;
+
+
