@@ -1792,6 +1792,20 @@ Sie werden
 
 &nbsp;
 
+| accusative              | dative                                  | accusative or dative       | genetive                   |
+| ---                     | ---                                     | ---                        | ---                        |
+| bis - until             | aus - from, out of                      | an - at, on                | trotz - despite            |
+| durch - through         | außer - apart from                      | auf - on, on top of        | während - during           |
+| für - for               | bei - at, near                          | hinter - behind            | wegen - because of, due to |
+| gegen - against, around | gegenüber - opposite                    | in - in, into              | (an)statt - instead of     |
+| ohne - without          | mit - with, by (for means of transport) | neben - next to            |                            |
+| um - around             | nach - after, to                        | über - over, above, across |                            |
+|                         | seit - since, for                       | unter - under, among       |                            |
+|                         | von - from                              | vor - in front of, before  |                            |
+|                         | zu - to                                 | zwischen - between         |                            |
+
+&nbsp;
+
 ### Exercise 25.1
 
 &nbsp;
