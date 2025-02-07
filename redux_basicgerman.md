@@ -1810,4 +1810,26 @@ Sie werden
 
 &nbsp;
 
+1. Max Störzl kommt **aus** Österreich, aber lebt **in** Berlin.
+2. Sie wohnt **an** ihrer Tante.
+3. Am Wochenende fährt sie **nach** Hamburg.
+4. Meistens fährt er **mit** dem Mountainbike, manchmal geht er **zu** Fuß.
+5. Gehst zu später **zu** die Kneipe?
+6. Kommst du heute Abend mit **zu** Kino.
+7. Ich war est gestern **zu** Kino.
+8. Das Flachbildschirm hängt **an** der Wand.
+9. Treffen wir uns **an** acht Uhr?
+10. Wie komme ich **mit** Bahnhof?
+11. Ist das der Weg **nach** Pauluskirche?
+12. Die touristeninformation ist **neben** dem Museum.
+13. Bayern München hat **gegen** Real Madrid gewonnen.
+14. Ich bin **an** den Vorschlag.
+15. **Bis** der Ferien habe ich gejobbt.
+
+&nbsp;
+
+### Exercise 25.2
+
+&nbsp;
+
 
