@@ -1832,4 +1832,6 @@ Sie werden
 
 &nbsp;
 
-
+| only accusative | only dative | accusative or dative | geneiive |
+| ---             | ---         | ---                  | ---      |
+|                 | aus         | in                   |          |
