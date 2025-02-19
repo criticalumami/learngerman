@@ -1832,6 +1832,47 @@ Sie werden
 
 &nbsp;
 
-| only accusative | only dative | accusative or dative | geneiive |
-| ---             | ---         | ---                  | ---      |
-|                 | aus         | in                   |          |
+| only accusative                 | only dative                                          | accusative or dative                                   | geneiive                        |
+| ---                             | ---                                                  | ---                                                    | ---                             |
+| bis, durch, für,gegen, ohne, um | aus, außer, bei, gegenüber, mit, nach, zeit, von, zu | an, auf, hinter, in, neber, über, unter, vor, zwischen | trotz, währen, wegen, (an)statt |
+
+&nbsp;
+
+### Exercise 25.3 
+&nbsp;
+
+1. Er is gegen den Plan.
+2. Ohne seine Spielekonsole kann er nicht mehr leben.
+3. Gegen wir durch den Park?
+4. Nach der Schule will er ein Gapjahr machen.
+5. Mit dem Fahrrad bist du aber schneller.
+6. Er macht seit einem Jahr einen Pilateskurs.
+7. Wie weit ist es bis zum Bahnhof?
+8. Von der Haltestelle sind es nur fünf Minuten bis nach Hause.
+9. Wir gehen heute in Restaurant.
+10. Wie ist das Essen im neuen Restaurant?
+11. Am Wochenende war er bei seinen Eltern.
+12. Fährst du zu deinen Freunden?
+
+&nbsp;
+
+### Exercise 25.4 
+
+&nbsp;
+
+1. Wir gehen durch den Park.
+2. Er ist gegen den Plan.
+3. Ich fahre mit dem Auto.
+4. Marion fährt beim Fahrrad.
+5. Wie nehme ich zum Bahnhof?
+6. Wir gehen zum Restaurant.
+7. Gehst du zum Kino? - Gehen Sieh zum Kino?
+8. Am Wochenende gehe ich nach Berlin.
+
+&nbsp;
+
+## UNIT 26 - Adjective endings
+
+&nbsp;
+
+
