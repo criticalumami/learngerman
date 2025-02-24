@@ -1875,4 +1875,24 @@ Sie werden
 
 &nbsp;
 
+### Summary - adjective endings after the indefinite article
+
+&nbsp;
+
+|            | masculine           | feminine                        | neuter                    | plural            |
+| ---        | ---                 | ---                             | ---                       | ---               |
+| nominative | ein neuer Laptop    | eine interessante Ausstellung   | ein langweiliges Buch     | meine alten DVDs  |
+| accusative | einen neuen Laptop  | eine interessante Ausstellung   | ein langweiliges Buch     | meine alten DVDs  |
+| dative     | einen neuen Laptop  | einer interessanten Ausstellung | einem langweiligen Buch   | meinen alten DVDs |
+| genitive   | eines neuen Laptops | einer interessanten Ausstellung | eines langweiligen Buches | meiner alten DVDs |
+
+- the nominative and accusative singular forms have the endings associated with the definite article
+- all dative, genitive and plural endings take **-en**
+
+&nbsp;
+
+### Summary - adjective endings with no article
+
+&nbsp;
+
 
